@@ -1,0 +1,76 @@
+/* copied from erikjohannes.no website, thank you Erik Johannes Husom. See his files at https://codeberg.org/erikjohannes/erikjohannesno */
+
+
+* {
+	--backgroundcolor: #fff;
+    --prebackgroundcolor: #ededed;
+    --textcolor: #171717;
+	--subduedcolor: #444444;
+    --highlightcolor: #a3a3a3;
+}
+
+@media (prefers-color-scheme: dark) {
+    * {
+		--backgroundcolor: #121212;
+		--prebackgroundcolor: #2f2f2f;
+		--textcolor: #aaa;
+		--subduedcolor: #bbb;
+		--highlightcolor: #a0a0a0;
+    }
+}
+
+html {
+		font-family: ui-sans-serif, system-ui, sans-serif;
+		background: var(--backgroundcolor);
+        max-width: 70ch;
+        padding: 1em;
+        margin: auto;
+        line-height: 1.75;
+		color: var(--textcolor);
+}
+
+img {
+    width: 100%;
+    padding-bottom: 0.2em;
+}
+
+code {
+    background: var(--prebackgroundcolor);
+}
+
+pre {
+    background: var(--prebackgroundcolor);
+    padding: 2px 4px;
+    overflow: auto;
+}
+
+video {
+    width: 100%;
+}
+
+blockquote {
+    font-style: italic;
+    font-size: 90%;
+    border-left: 3px solid;
+    padding-left: 1em;
+}
+
+footer {
+    margin-top: 2em;
+    text-align: center;
+    font-size: 80%;
+    padding: 0.5rem;
+    color: var(--subduedcolor);
+} 
+
+nav a, h3 a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+  color:  var(--subduedcolor);
+}
+
+a:hover {
+  color: var(--highlightcolor);
+}
