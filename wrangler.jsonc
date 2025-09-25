@@ -1,0 +1,13 @@
+{
+  "name": "gbmj-net",
+  "main": "index.html",
+  "compatibility_date": "2025-09-22",
+  "workers_dev": false,
+  "route": {
+    "pattern": "gbmj.net/*",
+    "zone_name": "gbmj.net"
+  },
+  "assets": {
+    "not_found_handling": "404-page",
+  }
+}
