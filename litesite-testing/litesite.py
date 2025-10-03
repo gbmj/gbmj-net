@@ -231,8 +231,7 @@ if __name__ == "__main__":
         prev = sorted_meta[i - 2][3]
         next = sorted_meta[i][3]
         html_page = html_page.replace("<!--PREV-->", f"{prev}").replace(
-            "<!--NEXT-->", f"{next}"
-        )
+            "<!--NEXT-->", f"{next}").replace("<!--HOME-->", BASEURL)
 
         path.write_text(html_page)
 
