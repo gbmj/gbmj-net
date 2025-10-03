@@ -177,6 +177,7 @@ if __name__ == "__main__":
                 # page is in the Collection
                 url = BASEURL + str(html_path.parent.relative_to(OS_BASEDIR)) + "/"
                 html_page =  TEMPLATE_STR_COLL.replace("<!--PAGE BODY-->", html_content)
+                html_page = html_page.replace("<!--HOME-->", BASEURL)
                 # save relevant metadata to use later in
                 # sorting the Collection and adding
                 # prev/next links in a second editing pass
@@ -185,11 +186,15 @@ if __name__ == "__main__":
                 # page is not in the Collection
                 url = BASEURL + str(html_path.relative_to(OS_BASEDIR))
                 html_page =  TEMPLATE_STR_OTHER.replace("<!--PAGE BODY-->", html_content)
+                html_page = html_page.replace("<!--HOME-->", BASEURL)
 
-            # replace canonical and title placeholders in <head>
-            # section for all pages, in and outside the Collection
-            html_page = html_page.replace("<title></title>", f"<title>{tags['title']}</title>").replace('canonical" href=""', f'canonical" href="{url}"')
-
+            # replace <!--HOME--> link placeholders plus canonical and title placeholders 
+            # in <head> section for all pages, in and outside the Collection
+            html_page = (
+                html_page.replace("<title></title>", f"<title>{tags['title']}</title>")
+                         .replace('canonical" href=""', f'canonical" href="{url}"')
+                         .replace('href="<!--HOME-->', f'href="{BASEURL}')
+            )
             # and write out this first draft of the page
             html_path.write_text(html_page)
 
