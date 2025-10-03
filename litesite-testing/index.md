@@ -1,6 +1,6 @@
 ---
 some stuff: value of stuff
-date: 2025-10-01
+date: 2025-10-26T10:00:00Z
 title: "How Awesome Is This Page, Huh?"
 alien quotient: 203948230948
 blurb: "This page talks about how awesome it is and lists the other pages on the site."
