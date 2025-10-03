@@ -39,7 +39,8 @@ html {
 }
 
 img {
-    width: 50%;
+    width: 30%;
+    object-fit: contain;
     padding-bottom: 0.2em;
 }
 
