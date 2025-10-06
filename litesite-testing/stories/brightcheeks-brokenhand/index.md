@@ -1,0 +1,866 @@
+---
+litesite: collection
+title: Brightcheeks and Brokenhand
+date: 2019-01-01
+blurb: Conscripted into preparing sacrificial virgins for the town’s local dragon, alchemist Din has never been a hero... until dragonslayer Cal shows up with a terrifying plan.
+---
+# Brightcheeks and Brokenhand
+
+### by Grayson Bray Morris
+
+Someone was creaking none too quietly down the stairs to my basement
+workshop. I turned to deliver my tenth fatherly lecture to the butcher's
+boy about jimmying the lock on a person's front door and promptly
+dropped the flask of stinkwort oil I'd been holding.
+
+It wasn't the butcher's boy.
+
+My unannounced visitor was covered head to toe in armor: not the sparkly
+kind the king's guard wear, but thick, dull stuff, dented and stained,
+and covered with trigger-clasp niches for the poisoned knives of her
+trade. Oh, my: a member of the slayers' league, a renegade band only
+slightly less terrifying than the dragons they hunted. If she hadn't
+pushed back her visor before she spoke, revealing an ordinary young face
+not so different from the ones I labored over every fourteen days, I
+might have fainted on the spot.
+
+I squeezed all the respectful confidence I could muster into my own
+rather young voice. "You'll be wanting the armorer. Two streets over.
+Here, I'll draw you a map."
+
+She clanked into my workshop with an ominous rattle. "No, I won't. I'm
+where I mean to be."
+
+"But&mdash;"
+
+"You're the virgician, aren't you?"
+
+I was: that unlucky soul tasked with preparing tender, trembling virgins
+for their date with death-by-dragon. It was a horrible job, but it came
+with a home and a comfortable stipend. Not to mention the opportunity to
+carry on the happy task of living, rather than being executed for
+failing to perform my appointed duty. "Yes, but&mdash;"
+
+"Then I'm set. Look, I've got all the armor I could possibly wear. It
+won't keep me from getting my limbs clawed off, then spurting blood
+until I'm too weak to move, then being charred to an oily cinder and
+feeling dragon fangs sink into me just before I die."
+
+I felt my lunch poke an inquisitive finger toward my throat (no doubt
+aided by the waft of stinkwort rising from the puddle by my feet).
+
+"No," the slayer went on with a thoughtful look, "I need a clever
+strategy, something new. I need a disguise to put me near them while
+they sleep."
+
+"Oh!" I said, beset by sudden understanding. "Oh, no. You want *me* to
+prepare *you* for *sacrifice*?" She nodded, and my lunch promptly sank
+into my legs. "Well, the thing is, miss&mdash;that is, sir&mdash;"
+
+"Brightcheeks." She narrowed her eyes, but I didn't need a warning;
+silly name or no, I wasn't about to laugh at a dragonslayer.
+
+"Yes. Well. Sir Brightcheeks. You are no doubt aware the treaty
+stipulates virgins with unblemished cream-white skin, hair of faintest
+gold, eyes of palest gray, and a voice sweeter than honey." You see why
+my profession arose: how many of those could a village have?
+
+"Of course." She arched an eyebrow, as if I'd said water was wet and the
+sky was blue.
+
+Heavens help me, I was going to have to spell it out. "Well, you see,
+sir," I said with all the please-don't-kill-me regret I could pour into
+my voice, "here's the thing. I can glamor a girl into flaxen hair and
+pale skin and a pretty voice, that's all surface stuff." I took a deep
+breath. "But there's no way to turn a&mdash;" I cleared my throat "&mdash;an,
+ah&mdash;" I coughed "&mdash;a, shall we say, *mature* woman back into an
+*immature* maiden." I shut my eyes, waiting for her to vent her
+displeasure at this inconvenient fact.
+
+After several pain-free seconds in which the only sound was my galloping
+heart, I opened one eye. The slayer was still watching me, her hands no
+closer to a dagger than before.
+
+"I understand it's a challenge," she said at last, taking a step
+forward. "But it can be done."
+
+I took a step backward. "Sir, despite my youth, I am well-versed in the
+teachings of my trade. I know of no spell that can do what you ask."
+
+"Then invent one," she said, in a tone that left no room for
+alternatives. "I'll be back in the morning." With that, the slayer
+banged a hand against her dented breastplate and blew out of my little
+workshop. A moment later I heard my front door slam behind her.
+
+I blinked. Then I smacked my lips and turned left and right with no
+discernible purpose. At last I fixed upon a plan of action and shuffled
+to the rack of smocks hanging beside my overstuffed bookcase, where I
+pulled a thin flask of Tralkish brandywine from a pocket in the middle
+of the jumble. There was really only one way to prepare for the
+dragonslayer's return tomorrow, and I went to it.
+
+------------------------------------------------------------------------
+
+["Morning, virgician," the dragonslayer boomed]{.newthought} as she
+rattled into my workshop. In that she was correct: sunlight thrust its
+irritating way down the stairs from my living quarters and through the
+open door. I mumbled something incoherent and rubbed my pasty eyes. I
+hadn't even made it to my bed last night; I'd spent it on the cold,
+potion-spattered stone floor of my workshop, and felt exactly as one
+would imagine I'd feel.
+
+The dragonslayer laughed at me and held out a metal-clad hand. I stared
+at it dumbly.
+
+"Well go on, take it!" she said, clanking her fingers together. I closed
+my eyes and took it, expecting my arm to be yanked out of its socket,
+but her grip was surprisingly gentle. She led me to the ramshackle couch
+where, every fortnight, I served cookies and saxonberry tea to the
+distraught mother and terrified daughter *du jour*. Once the slayer had
+me seated, she backed away and appraised me. "Looks like you've had
+quite a night."
+
+I nodded, to my immediate regret.
+
+"I presume your drinking didn't interfere with your work?" She opened
+the basket she had brought in with her, and I smelled the usually
+delectable but currently debatable aroma of the baker's sweetgum buns.
+
+I took a deep breath. "About that&mdash;"
+
+"We don't have long, virgician. In three weeks the league will call me
+back and send me to fight the ordinary way."
+
+I sucked in a sharp breath; she might as well have said *in three weeks,
+I'll be raking myself to shreds with a pitchfork, then throwing myself
+into a raging fire*. Most slayers never even wounded their dragons.
+Which was probably why the king made only half-hearted attempts to round
+them up; it was more efficient to let them destroy themselves.
+
+"I intend for us to kill your town's little dragon before then, and
+several larger ones as well."
+
+This was the first time anyone had implied that Smantsley's dragon was
+less than gigantic, and I shuddered to think other towns had bigger
+ones&mdash;and that the slayer meant to drag me along to meet them. "Now,
+wait," I said, panic rising. "Just hold on a minute."
+
+"If we strike fast enough, we can kill all ninety-seven before the king
+has time to capture us. I've worked it all out." Her eyes were bright
+and fierce. "There's no other way to kill them. So you have to find a
+way to restore my maidenhead, virgician."
+
+All ninety-seven? The panic reached my brain, and I snapped. "Stop
+calling me that. I hate that word. My name's Dinsday Rapsson.
+Friends&mdash;" such as I had them, given my profession "&mdash;call me Din."
+
+I expected her to roar on about my role as an involuntary cog in her
+dragon-killing wheels, quite possibly after cuffing me bloody with her
+studded metal fists for emphasis, but she just said, "All right, Din."
+
+Her response struck me dumb&mdash;but only momentarily. "What about you?" I
+demanded, panic making me testy. "Don't you have some other name? The
+one you gave me yesterday can't possibly be the one your mother gave
+you."
+
+Her fiery expression twisted and I found myself looking at a haunted
+young face. "Callamynta," she said. "My friends called me Cal."
+
+*My friends called me Cal.* Words cupped around a sea of heartbreak. In
+an instant, my panic burned away and I saw the young girl conscripted
+years ago from her village by a band of outlaws. This young warrior
+standing in my workshop had probably never wanted to fight dragons at
+all, and here she was, devising a plan that could free the entire
+kingdom. And her plan truly was a clever one, aside from that one
+impossible detail.
+
+"Callamynta," I said. "It's a lovely name. I'll be honored to call you
+Cal."
+
+She smiled. I smiled back. And just like that, Cal and I were a team.
+
+------------------------------------------------------------------------
+
+["Let's start with my hair,"]{.newthought} Cal said after we had broken
+our fast on the sweetgum buns and a pot of very strong bitterroot tea.
+
+"As you wish," I shrugged. Lightening a girl's hair was normally the
+last step of the preparatory process, being an immediate plant-based
+remedy that could hardly go wrong, but nothing about this was business
+as usual. I looked at her expectantly, but she didn't move. "Ah, Cal,
+you'll be needing to take off your helmet."
+
+She narrowed her eyes. "Why?"
+
+I blinked at her. *Why?* "Because your hair is underneath it."
+
+"Oh. Right." She began removing the armor protecting her head and neck
+and I cast my professional eye across her scalp. "Oh, lovely. Much
+healthier than I'd have expected with, ah, the dragonslaying lifestyle.
+And those curls! Chestnut, grade two, with grade-one highlights shading
+into auburn. Piece of cake." I reached out to touch a strand and
+suddenly found myself pinned to the floor and gasping, with a hard metal
+knee in my back and one arm twisted painfully behind me.
+
+"Cal," I grunted against the floor, "is there something about you I'm
+missing? Some dragonslayer rule about touching people's hair?"
+
+She released me. "Sorry. Reflex."
+
+I lumbered to my feet and massaged my lower back. "If there are any
+other slayer no-nos I should know about, do tell. I'm all ears."
+
+"No. It's okay. I just thought you were&mdash;" She shook her head. "It's
+okay."
+
+"All righty, then." I gave my back one last knead and pointed at the
+processing chair by the washbasin. "Have a seat and we'll get started."
+I plucked three vials from the shelf and started my standard spiel.
+"Alchemist's clearbane, to strip all color from your hair. Goldenroot,
+to shade it flaxen. And oil of mackwort, to make it shine. Soon you'll
+be as fair-haired as I am." I walked around the chair. "First, I'll wet
+your hair. Don't be alarmed; the chair back will lower now, so the water
+doesn't drip onto your clothing. Ah, armor." I released the pin holding
+the chair back upright; but I didn't account for the added weight of
+Cal's armor, and instead of gently lowering into position with my hand
+to guide it, the slatted frame plunged toward the underlying table,
+pinning my hand between the wood and the lip of the ceramic basin.
+"Aaaaaaaaaaaahhhhhh!"
+
+Cal instantly sat up and I pulled my poor hand away and cradled it,
+hopping around the room like a rabid frog.
+
+"Let me see it," she said. I hopped over to her and she pried away the
+fingers of my other hand to get a look. I moaned when I saw the
+swelling. Then she pushed on one finger, and I screamed.
+
+"Broken," she pronounced.
+
+"Great!" I shouted. "Just *great!* We don't... Aaaaaahhhhhhhhh!"
+
+"That one, too."
+
+I snatched my hand back and cradled it to my chest. Cal stood up and
+replaced her head and neck armor. "What are you doing?" I whined.
+
+"Taking you to the bonesetter. Where's your key?"
+
+I pointed at the lower left-hand pocket of the smock I was wearing, and
+Cal pulled out my keyring.
+
+"*Eight* keys?"
+
+"I'm the virgician," I wheezed. "The town really, really, *really*
+doesn't want anyone getting in here." All it took was one grief-crazed
+parent with a torch&mdash;or even just a sack and a broom&mdash;and the village
+would have no perfect virgin to offer the dragon. We'd be set back fifty
+years, before the treaty, when dragons roamed the kingdom at will,
+scorching entire towns to cinder.
+
+Cal swung the heavy metal workshop door shut and secured all seven locks
+as I moaned beside her. I followed her upstairs, through the shocking
+disarray of my home&mdash;now that I was seeing it through visitor's
+eyes&mdash;and out onto the street, where she secured the final, ordinary
+lock on my front door, this time with its key.
+
+"Wait a minute," I said, as something I'd seen in the house finally
+registered. "Were those *your* things in the living room?"
+
+Cal nodded.
+
+"You slept in *my* house last night?" I was speechless, for
+approximately half a second. "I don't believe this! You break into my
+home, you waltz uninvited into my private workshop&mdash;a place no one ever
+wants to enter, I might add&mdash;"
+
+"*I* wanted to enter."
+
+"Yes, but&mdash;" And then my outrage vanished.
+
+People didn't hate me; I was a likeable enough fellow, and I dare say
+many of them felt sorry for me. But they lost their appetite when I came
+to sate mine in the tavern. They discovered a sudden need for something
+from the nearest shop when I was on the street, and a pressing urgency
+to be on the street when I entered a shop. But the hardest thing was the
+way mothers unconsciously gasped and shielded their daughters when they
+saw me, as if *I* were the dragon who would kill them. If only they knew
+how ironic that was: my childhood had been one long exercise in conflict
+avoidance. I'd been a timid boy, small and bookish, and only the bullies
+had taken an interest in me. The hope I'd clung to of finally making
+friends once I entered the civilized world of adults was permanently
+obliterated when the virgician's guild commandeered me.
+
+So Cal had broken in, so she'd barged into my workshop, so she'd slept
+in my house without asking: she was also the only person ever, in my
+miserable life, to willingly seek my company.
+
+"There's a spare bed in the back room," I said. "We just need to find it
+under all the clutter."
+
+------------------------------------------------------------------------
+
+[The bonesetter splinted together]{.newthought} the fingers on my right
+hand, rendering it useless for much of anything. I supposed I should be
+happy he managed even that, trembling as he was with a dragonslayer
+looking on.
+
+The bandaging was very large and very white and my hand looked very like
+a misshapen rabbit's ear. "How long?" I asked testily.
+
+The bonesetter pursed his lips. "Month and a half, give or take. Come
+back in a month and I'll check your progress."
+
+"Month and a half?" I turned an outraged face to Cal. "I can't have a
+broken hand for a month and a half!"
+
+"But you do," she said. "Come on. We'll eat, and then we'll do what we
+can do with three unbroken hands."
+
+------------------------------------------------------------------------
+
+[Three unbroken hands]{.newthought} were enough for us to get the back
+room in presentable shape by lunchtime, and I spent the rest of the day
+with my nose deep in spellbooks I hadn't opened in years. As I'd
+expected, I came up empty. In a final, what's-to-lose effort, I hunted
+down my dusty copy of *Carsgrynd's Spells to Inspyre Awe and Terror*. It
+was worth a try: Carsgrynd, whose works tended to the sensational (and a
+fetish for muslin), was reviled among professional alchemists, but
+unlike those of most dabblers, his spells had a reputation for working.
+
+It was a book that had kept me company on many a childhood night. How to
+Lyft a Standyng Stone. How to Eat One's Weyght in Horsemeat. How to Turn
+Innocent Objects into Instruments of Terror. I'd read that last one a
+thousand times, imagining the looks on my tormentors' faces as I deftly
+sliced the air with a sword that moments before had been a long stick.
+Of course, I'd never had the courage to actually try it.
+
+After a bittersweet stroll down memory lane, I closed the book with a
+sigh. There were no virginity spells here, either. I'd have to look
+beyond my own&mdash;considerable&mdash;collection of spellbooks.
+
+As I slid Carsgrynd back into the bookcase, something caught my eye. It
+was the corner of a book that had apparently fallen behind the others,
+but I instantly remembered what had really happened. The book was
+*Carsgrynd's Secret Guyde to the Intymate Arts*, a beet-eared purchase
+in my teenage days. Despite its purely academic relevance to my life,
+I'd never quite managed to part with it. So I'd hidden it in the immense
+chaos that was my bookcase, where no one would find it, and promptly
+forgotten it existed. Until now.
+
+And there it was, on page seventy-three: How to Restore Maydenhead and
+Avoyd Parental Dyspleasure.
+
+"Cal!" I yelled triumphantly. "I found it! I really found it!"
+
+I just hoped I wouldn't lose a kidney when I told her she'd have to take
+off her armor for the spell.
+
+------------------------------------------------------------------------
+
+["Did it work?"]{.newthought} Cal's keenly hopeful eyes stared at me
+from beneath the mountain of muslin draped around her head.
+
+I sighed and lowered the keparine. "No."
+
+"No?" She took the crystal from me. "That can't be. The crystal must be
+broken. Or you used it incorrectly."
+
+Her look of disbelief made my blood boil. "I most certainly did not."
+
+"Go buy a new one, and we'll try it again."
+
+"Go buy&mdash;?" I threw up my hands. "Do you have any idea how expensive a
+keparine of this size is? Go buy a new one, she says."
+
+"Maybe you stored it improperly, or&mdash;"
+
+"There is nothing wrong with my keparine!" I shouted. "Here, look!" I
+swung the crystal around my body in Carsgrynd's pattern, and it began to
+glow a soft green. "See? If the spell had worked, it would have turned
+green for you, too."
+
+Cal stared at me like I was some kind of rare animal she'd only read
+about in books.
+
+"*What?*" I snapped.
+
+"You're a virgin," she said. "You've never..."
+
+"That's right! I've *never*. Unlike some people, I've been saving myself
+for a special, sacred moment with a&mdash;"
+
+Her bare fist knocked me backward. Even without her armor, it hurt like
+the devil. Before I could say a word, she had a hand around my throat.
+"Don't you talk to me like that," she growled. "You don't know anything
+about me." She let me go and I raised an indignant hand to my throbbing
+neck.
+
+I hadn't been bullied like that in years. And this time by a *friend*.
+My sense of betrayal had me simultaneously outraged and on the verge of
+tears. How *dare* she?
+
+"Well, I know you picked a really stupid name," I shouted at the top of
+my lungs. "Sir Brightcheeks. Who picks a name like that? Trying to make
+the dragon laugh itself to death?"
+
+Cal's eyes widened and her nostrils flared and I braced for another
+blow. Instead, she turned away. I could see her back heaving with the
+effort to stay calm.
+
+"I didn't pick that name," she finally said. "He picked it for me. My
+troop trainer."
+
+I remembered the way she'd pinned me with her knee after I'd touched her
+hair, and the full meaning of her words came to me. *Sorry. Reflex. It's
+okay. I just thought you were...* "Oh, Cal. I'm so sorry."
+
+She wiped her cheeks and turned around. Her muslin headdress had come
+undone; it hung about her face in a loose tangle. "It's okay. You
+couldn't have known. Sorry about the punch. And your neck. I hope you
+don't bruise."
+
+"I'll heal." I leaned against the wall and sighed. "At least now I
+understand why we failed. Carsgrynd's spell is for virginity freely
+given. I'll go to Bikasby tomorrow and see what I can find in the
+regional library."
+
+"No." She shook her head, and the tangle of muslin fell to the floor.
+"Between the spell and your broken hand, we'll never transform me in
+time."
+
+"You're giving up?" I was taken aback. It didn't seem like her.
+
+"Just making a change of plans." She studied me thoughtfully. "Is there
+any reason the offering has to be a girl?"
+
+I blinked in confusion, until her meaning hit me. "Oh, no. You can't be
+serious."
+
+She shrugged and smiled.
+
+"I'm no fighter, Cal. Look at me. I can't even kill a spider."
+
+"I know. You don't have to kill it. You just have to disarm its lair.
+Disable the internal magic that keeps out intruders while the dragon's
+sleeping. I'll do the rest."
+
+She smiled again, and in her frank gaze I knew the decision was mine.
+
+------------------------------------------------------------------------
+
+[Three days later,]{.newthought} after a tripled-up round of songmilk,
+pale-eye and skinsmoothe had turned me acceptably sacrificial, Cal and I
+stood at the edge of the blackened clearing that fronted the dragon's
+lair. The beast itself was gone; we'd watched the sky from town until a
+fat, black dot rose into the air above the northern caves and spread its
+wings.
+
+I'd told myself I would be brave, I was a grown man and not a timid
+child; but now the moment was here, I was sweaty and trembling and sick
+to my stomach.
+
+"Ready?" Cal asked. Thanks to our little tussle three days earlier, I
+already looked admirably like a fellow who'd gotten on some fiercer
+fellow's bad side in a tavern brawl and woken up on a dragon's doorstep.
+I'd asked her to brain me again anyway, for my nerves. Cal was confident
+the dragon would keep fair-haired, honey-tongued, virginal me alive, but
+I harbored a considerable terror that the vital dragon-pleasing datum
+would turn out to be womanhood after all.
+
+"Din?"
+
+Hyperventilating as I was, I couldn't answer her; so I nodded and closed
+my eyes, and then she knocked me senseless.
+
+------------------------------------------------------------------------
+
+[When I came to,]{.newthought} Cal was gone and I was lying on the hard
+stone. Moments later&mdash;long enough to have my stomach tie in knots, but
+not long enough to actually die of terror&mdash;the dragon flew in over the
+northern forests, an inky blot that kept growing until it filled a
+quarter of the sky. My stomach pulled even tighter and my lungs
+threatened to explode; I looked to the side, at the simple, harmless
+cracks in the stone. Then the dragon's sinewed wings darkened the
+clearing, and I looked up in spite of myself. I had never seen one so
+close.
+
+It was a hundred glistening shades of black, from its claws to its
+iridescent skin. Its man-sized eyes glittered even in the wan light. It
+was more beautiful and more awful than I had imagined.
+
+"Oh, pray tell, what tiny gift is this?" it said, in a voice that
+rumbled the forest. I squeezed my eyes shut as its massive snout moved
+in and buffeted me; but it did not roast me where I lay. "Oh, a gift
+indeed," it rumbled. "I shall enjoy this one." It scooped me up in one
+enormous claw&mdash;not its paw, mind you, but *one protruding claw*&mdash;and
+carried me into its den.
+
+The dragon may have been beautiful in an awful way, but its lair was
+only awful. It was not the vast, vaulted cave I had always imagined, but
+a long tunnel, just high and wide enough for the dragon to move about
+in. A layer of pungent muck covered every flat surface; I tried not to
+consider what it might be. Though the sky was still light, the lair was
+dim, the entrance mostly blocked by its owner's gargantuan body. The
+dragon was a red-limned outline on the cavern floor, glowing from its
+own heat. Each exhalation sent a warm gust over me and briefly lit the
+cave as the dragon's nostrils flared like embers.
+
+"Come oil me, worm," it rumbled. "Or must I wait until you've soiled
+yourself? Why, you're just an ineffectual failure, aren't you? Too
+softhearted to act when it really matters. No wonder everyone has always
+laughed at you."
+
+I stood frozen, listening to the dragon hurl my deepest shame at me like
+it was written on my face, until it drew me close with a claw. "Climb
+up, my little lily liver. I won't eat you. Not yet. There, on my back,
+below the second ring of neck spines, where I cannot reach. Scoop the
+oil from beneath the scales and rub it onto them." I wedged my left hand
+under a scale half my size and nearly half my weight, and after a good
+deal of wresting and grunting, managed to lift it onto my right
+shoulder. I edged forward with my unbandaged left hand until I touched
+the steaming glob beneath it. As I rubbed the thick oil onto the scale,
+the dragon rumbled again, shaking me so wildly I threw myself against it
+and grabbed onto a neck spine&mdash;harder than it sounds, with a hand full
+of dragon grease. "Oil me!" it commanded, and I reluctantly let go and
+resumed rubbing.
+
+I climbed down half an hour later, my right shoulder bruised and my left
+arm exhausted from oiling a town square's worth of scale. "Now sing,"
+the dragon commanded. "Something bawdy, something lewd."
+
+My heart sank then. I wanted nothing more than a barrel of water and a
+soft place to sleep, and the night had barely begun. I couldn't possibly
+entertain the dragon until it grew tired. Then I saw Cal in my mind's
+eye, saying *we'll do what we can do with three unbroken hands*.
+
+I would do what I could do.
+
+"There ONCE was a WELL-bosomed WENNNNCH," I started. It was a popular
+tavern tune that I greatly abhorred, which I was sure meant the dragon
+would love it. "And this WENCH was a WENCH with a WISHHHH&mdash;"
+
+"Yes," the dragon hissed. "Now, do a little tap dance while you're
+singing."
+
+*Just do what you can do*. I started shuffling my feet and swinging my
+arms. "And her WISH was to&mdash;" The dragon rumbled again, but this time I
+didn't squeak.
+
+I do believe it was purring.
+
+------------------------------------------------------------------------
+
+[At last the dragon]{.newthought} lumbered into a hollow in the
+midcavern and slept. My feet were cramped and my throat was ragged; I
+was parched and thoroughly exhausted, but there was no relief for me.
+Time to find the magic guarding the lair.
+
+I felt my way to the back of the cavern as quietly as I could in the
+pulsing, red-tinged darkness. My foot brushed against something soft,
+and I heard a weak moan.
+
+"Limra?" I whispered incredulously. She had been sacrificed six days
+before; how could she possibly still be alive?
+
+I got a good look at her during the dragon's next breath. The bag of
+bones lying on the cavern floor looked nothing like the healthy girl of
+six days past; her eyes blinked dully, her hair was scorched short and
+ragged, and her skin was wrinkled where it was not covered in welts.
+Everything about her was sunken, as if she had not eaten for a month.
+
+Every thirteenth day, the townsfolk gather in the northern clearing at
+dusk to bind the sacrifice to the standing stone, say a prayer, and ring
+the dragon's gong. Then we shuffle out, back toward town. Someone lights
+the first torches, starting a bobbing procession of light that will lead
+us back to safety. The girl can see it from her high perch, and I have
+always thought its almost holy aura is negated by the horrible
+desolation it must create in the girl left behind. It would seem more
+fitting that we stumble home in darkness, battering our arms and legs on
+the stones as we fall, each bruise and cut reminding us of our own good
+fortune.
+
+Now here I was, stumbling over her broken body, freshly aware of the
+horror her days here had been. Days spent oiling the dragon and keeping
+it endlessly amused while it taunted her with the worst her heart had to
+tell her. The distaste I had always felt at performing the job assigned
+to me ballooned into a terrible, cutting guilt.
+
+The treaty stipulated that death was to be painless and quick. I'd
+always thought the king had scored us a win there. Oh, how the dragons
+must have laughed at us. The real torture had always been in the days
+that preceded death.
+
+If I survived this night, I was never, ever going to prepare a girl for
+sacrifice again.
+
+Limra must have known her end was near. She was in no shape to delight a
+dragon that demanded dances and clever songs. It might have finished her
+off tonight, if not for the distraction of me. That gave me some small
+comfort.
+
+But it was all the comfort either of us would have; without water or
+food, the only thing I could do that might help her was find the spell
+protecting the lair. "Hang on, Limra," I whispered; then I forced myself
+to step over her fragile body and start looking for the dragon's magic.
+
+I had brought a tiny pouch of risanite crystals with me; I knew dragon's
+magic was subtle, like searching for a drop of pink in a sea of red:
+look too quickly, and you miss it. It didn't help that I had no idea
+what I was looking for. Core magic? Perimeter magic? Sprites? But what I
+missed, the risanite would not; it would vibrate silently when it
+touched a source of magic.
+
+------------------------------------------------------------------------
+
+[I was more asleep than awake]{.newthought} when the pouch of risanite
+trembled against my fingers. My eyes would never have found it on their
+own: six tiny stones, haphazardly scattered around an irregular smudge
+of black powder. A perimeter spell. There would be other groups of
+stones and powder, together enclosing the area the dragon protected. I
+didn't have to find them all; I just had to find the ones that marked
+off the entrance to the lair, far enough back to expose the dragon while
+it slept.
+
+But first: Limra.
+
+The beauty of perimeter magic is that it's static. It only works if the
+perimeter is closed. That means whenever you add or subtract a marker,
+for the brief instant when the perimeter snaps from its old
+configuration to the new one, it's useless. Which means you can move
+someone from inside to outside the perimeter without, say, waking a
+sleeping dragon.
+
+Which meant I could save Limra now, whatever else happened.
+
+I put the pouch of risanite in my pocket and felt my way back to her.
+Despite my aching body, I managed to pick her up; the faint light of
+dawn helped me creep, step by quiet step, to the mouth of the cave. Cal
+had told me the dragon would sleep until midday. I hoped she was right.
+
+I sank to my protesting knees and rolled Limra onto the floor of the
+cave by the entrance. Then I pulled out the risanite and forced myself
+back to my feet. I found and disabled six markers guarding the entrance
+and the first several feet of the lair. Limra was now outside the new
+perimeter. I, by distressingly necessary design, was still inside it.
+
+I woke to the urgent whisper of my name.
+
+"Din! Open it!" Cal hissed, her eyes wide behind her visor. "I know you
+can; you got her out."
+
+"After you take her home." My eyes fastened themselves to the water
+flask in Cal's hand.
+
+"Are you mad? Let me in so I can take the dragon while it sleeps!"
+
+"Her first," I wheezed, licking my lips.
+
+Cal grunted in frustration. "You take her. I'll stay and kill the
+dragon."
+
+"Look at me, Cal. I'm in no shape to reach the forest, let alone the
+town. You take her. If the dragon sleeps as long as you said, you'll be
+back well before it kills me." I closed my eyes and turned away. I heard
+Cal growl; then I heard soft scraping, as if someone dressed in metal
+was gently lifting something from a bed of stone. I had a fleeting
+moment to be proud of what I'd done; then sleep reached up with iron
+fingers and pulled me back under.
+
+------------------------------------------------------------------------
+
+[Cal returned]{.newthought} and again woke me with my name. I pulled
+myself across the cavern floor and disabled a dozen markers one by one,
+well into the cavern along the wall furthest from the sleeping dragon.
+As long as I hadn't missed one, the perimeter of magic keeping Cal out
+now protected only the dragon's rearmost haunch. I dragged myself back
+to the mouth of the cave and gave Cal a thumbs up, then rolled onto my
+back with a quiet groan.
+
+Cal tiptoed in and handed me a gloriously full water flask, which I
+drained. Then she gave me a hunk of cheese and some reasonably edible
+bread. "It was fresher the first time," she apologized.
+
+"Ith delithuth," I whispered through my full mouth. Which was a
+terrible, terrible mistake.
+
+I inhaled a crumb of bread and started coughing, which made me panic,
+which made me drop the empty flask I was still holding. It hit the floor
+of the cave with a cacophonous clang.
+
+The dragon woke at once and was beside Cal in an instant.
+
+"Well, well, what have we here? A slayer&mdash;and a female one at that."
+The dragon pushed its enormous snout against her armored chest, then
+pulled back and looked at her. "So eager to make your mark on the world.
+Too bad you're such a disappointment to everyone. You always have been,
+even as a child. Your parents were relieved to see you carted off by the
+outlaws."
+
+"Don't listen to it," I warned, but Cal was already charging with a
+dagger in her hand. She ducked and weaved with breathtaking finesse as
+it lashed at her, expertly avoiding both its claws and its tail, staying
+close so it couldn't flame her without burning itself. As I pressed
+myself against the farthest possible stretch of the cavern wall, Cal
+darted in and slashed at the dragon's underside. Then, breathtakingly,
+she jumped onto its forelimb and started climbing. The dragon bellowed
+and batted her against the stone wall. She saw it coming and raced
+upward, toward its neck, but the blow caught her square. She fell to the
+forecavern floor with a sickening crunch.
+
+Fear flooded me, obliterating my body's pain, and I ran to her. Despite
+her helmet, she was bleeding from a gash along her face. But she was
+conscious. Barely.
+
+"Take off her armor, worm," the dragon hissed. "Can't have her continue
+to flail about with her prickly little thorns."
+
+"I'm sorry," I whispered as I loosened her armor with my good hand. Cal
+didn't answer; I thought she must have passed out. But as I removed her
+breastplate, she tucked her dagger into the sleeve above my bandaged
+right hand and winked before losing consciousness.
+
+"Now come oil my back, worm," the dragon said. "Then I'll let you watch
+me kill her. I think a slow death will be most satisfying for one like
+her, don't you?"
+
+I gritted my teeth and shuffled toward the foul, appalling thing. A vast
+fury kept me on my feet: fury at the dragon, fury at the townsfolk who
+shunned me, fury at the endless parade of bullies who had taunted me as
+a child. I lowered my head and clasped my left hand around my right
+wrist behind my back; with luck, the dragon would think me defeated. The
+dagger dropped into my hand. My stomach was sick with dread; I had no
+idea where to stab a dragon, and I expected to die. But I would die
+fighting a bully. I would die protecting a friend.
+
+The stone rumbled again with the dragon's laugh. "Come now, little lily
+liver, you don't think you can *use* that dagger she gave you, do you?"
+Its tail whipped around faster than I could follow and knocked the
+dagger from my hand, ripping my breeches and rending a gash down my left
+leg. I cried out in pain, and the dragon laughed again. "That's more
+like it, little coward. Now come oil me, before I decide to kill you and
+keep her instead. So much lovely pain inside her."
+
+I hadn't even the semblance of a chance to save Cal now. Every miserable
+ache rushed back into my body, and I stumbled. The dragon flicked its
+tail and whipped my legs. I lurched forward. Another flick and whip; I
+lurched again. I reached its vile forehaunch&mdash;how had I ever thought it
+beautiful?&mdash;and began to climb. Several thousand pain-laced millennia
+later, I reached its abominable neck.
+
+My impotent fury reached its peak and I roared. I pulled at the neck
+spine beneath my hand, willing it to rip free, to cause this abhorrent
+snake some tiny measure of pain before it killed my companion for sport.
+
+The spine held fast, of course, and the dragon rumbled with relish.
+
+"Have I made you angry, lily liver?" it purred. "Well, here's your
+chance. Lift the middle scale between the bottom spines. See the orange
+spot beneath it? If you weren't such a useless mollycoddle, you could
+kill me."
+
+I had taken the weight of the heavy scale onto my shoulder; now I stared
+at the glowing orange hide, thinned to a soft membrane here above its
+pulsing heart. If only I had Cal's dagger. Oh, I would use it. I would.
+
+If only I were the kind of man to carry a knife, a letter opener,
+*anything* sharp enough to pierce that pulsing, tender skin. But all I
+had were two soft, fleshy hands&mdash;and one of those was broken.
+
+"But you wouldn't dare, would you, my pathetic little coward?"
+
+Then it came to me, as if Carsgrynd himself had parted the heavens and
+called down to me: I knew How to Turn Innocent Objects into Instruments
+of Terror. I started chanting under my breath.
+
+The dragon wiggled, knocking me forward so the scale scraped down my
+shoulder and pinned me beneath it. "Stop your incoherent yammering and
+start oiling me, worm, or I'll slice another bit of you open." Its tail
+writhed upward and grazed my back.
+
+I stopped chanting and pushed myself up, taking the heavy scale with me.
+"Oil THIS!" I shouted, and I plunged my broken hand through the gauzy
+patch of orange, into the dragon's fiery innards. The bandaging
+vaporized and I screamed as my fingers began to burn. The dragon roared
+and bucked. I catapulted from its back; just before the cavern wall
+slammed into my head, I shouted Cal's name.
+
+------------------------------------------------------------------------
+
+[I came to with a violent headache]{.newthought} and a hand that hurt so
+badly amputation would have been a relief. Cal was leaning over me, her
+bloodied face inches from mine, and the naked fear there burned away the
+last of my muddled fog.
+
+"Din?" she said.
+
+"That's me," I croaked.
+
+She let out her breath. "You're hurt."
+
+I pulled myself into a half-sit with her help. "Nothing Smantsley's
+physicker and a bottle of Alberian shale whisky can't fix." I shifted
+and winced. "Well, perhaps a vat of the Alberian." I looked around the
+cavern. "Where's the dragon?"
+
+She pointed to a gummy, blackened lake on the cavern floor. "Burned out,
+bones and all. The standard through-the-heart thing." She looked back at
+me. "Din, how did you do it? I didn't have time to tell you where to
+stab."
+
+"The dragon told me." The fury I'd felt before rippled. "Insufferable
+beast. It was so sure I was harmless."
+
+"It didn't know about the dagger," Cal said, nodding.
+
+"Oh, it knew. It took it from me. But it didn't count on Carsgrynd."
+
+Cal raised an eyebrow.
+
+"A spell I memorized as a boy. It requires a length of muslin&mdash;" what
+else? "&mdash;and an incantation, and it temporarily turns whatever's
+wrapped in the cloth into an object as sharp as a sword." I let out a
+half-laugh. "Of course, I was never brave enough to use it."
+
+"You were today," Cal said. "You killed a dragon, Din."
+
+I grinned through my headache. "I did, didn't I?"
+
+We sat there, smiling at each other like happy idiots. Then Cal said,
+"What now?"
+
+"Bikasby," I declared.
+
+She nodded and pushed herself up. "The library. Help me find a virginity
+spell that works, Din, and I'll be on my way. You've done more than
+enough to help me. More than I had a right to ask of you."
+
+"Are you kidding?" I said. "Cal, I bested a bully today. This is the
+best thing that could have happened to me." I tried to stand; my charred
+fingers brushed against my shirt and I shrieked. "Well, aside from the
+pain part." I gave up on standing and looked at her. "I'll keep looking
+for a spell, Cal. For you. That is, if you want me to. But I didn't mean
+that. I meant let's go get Bikasby's dragon."
+
+She blinked at me. "You did?"
+
+"You bet." I grinned at her, and a smile spread across her face. "And,
+Cal... you're amazing. The way you fought the dragon&mdash;"
+
+"Was ineffective." She glanced away and shrugged. "I spent all this time
+perfecting a whole new strategy, and it didn't work."
+
+"It was phenomenal," I said. "*Cal*. It was grace and beauty in motion.
+You should have seen the dragon's face. It had no idea how to respond.
+Sheer luck that it had you in such a confined space. Out in the open,
+you'd have had him."
+
+She looked up with a devilish grin. "I would, wouldn't I?"
+
+I grinned back. "You know it. Now let's find that vat of Alberian before
+the pain *really* kicks in."
+
+She came closer and held out a hand. "As you command, Sir Brokenhand."
+
+I arched an eyebrow.
+
+"Every good dragonslayer needs a name," she said, and she winked.

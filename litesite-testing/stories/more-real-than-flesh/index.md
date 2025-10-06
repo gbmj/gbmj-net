@@ -1,0 +1,322 @@
+---
+litesite: collection
+title: More Real Than Flesh
+date: 2011-01-01
+blurb: In an augmented world where perfect beauty is the new normal, real bodies attract a certain kind of client&mdash;and Petch has paid the price long enough.
+pub: "Mirror Shards: Extending the Edges of Augmented Reality"
+---
+# More Real Than Flesh
+
+### by Grayson Bray Morris
+
+The day's first customer walked through Petch's door. He was slender,
+not ugly, reasonably clean-cut: better than she was used to. But the
+glint in his eyes was pure sadist. He would want pain, and blood, and
+probably death.
+
+They all wanted those things. What was it in this one that frightened
+her?
+
+The john was already sitting down across from her. Petch smiled at him,
+a little lopsided to highlight that she was flesh. Up close, the johns
+could see the lines creasing the corners of her eyes; her tight dresslet
+played up the imperfection of her tits. Karson had cupped his hands
+around those tits the day she showed up looking for work, fifteen and
+lost and really, really hungry, and said, "Left one's half again bigger
+than the right. Sweet jesus, they'll pay double for you."
+
+The john let his unaugmented gaze travel from her eyes down to her
+exposed crotch, like they all did. When she figured he was halfway
+through gaping, Petch fidgeted a little; fidgeting was so hard for a
+sexbot to get right. The john watched her fingers move on the arm of the
+chair, watched her left knee bump into her right as she shifted her
+weight. She was the real deal.
+
+He looked back up into her eyes, lingering a fraction of a second on her
+mouth, and Petch realized what scared her about him: he knew how to kill
+her. Really kill her, for good.
+
+Petch gave herself ten seconds to feel the weight of her life pressing
+down. Why couldn't she have a sweet one, just once? There were plenty of
+decent johns looking for connection in a world where touch was a
+second-class sense, hungry to fumble through awkward sex instead of
+getting digital feedback-loop ecstasy with somebody's perfect avatar. A
+john who wanted to walk in, short and fat with mousy brown hair or tall
+and skinny and balding, and have a short, fat mousy girl with uneven
+tits take him by the hand and fuck him. Really fuck him, not just send a
+packet of bits over the net and stimulate his neural feed.
+
+But Karson didn't traffic in those johns. He catered to the ones who
+wanted to slice thin lines into a girl's skin, to squeeze her throat and
+feel it spasm beneath their hands. Who wanted to punish her for being
+born to imperfect flesh. Petch had perfected the art of dropping herself
+at just the right time, slumping into lifelessness so naturally no john
+had ever suspected he didn't kill her himself. And, conveniently,
+notifying tech that end game had been reached so they could get her out
+of there in time.
+
+But this one knew. And he'd gotten past Karson.
+
+Petch smiled at the john as she slid her lower jaw forward. His eyes
+widened and he lunged for her, but she bit down hard, sliding her right
+upper canine into the lower first molar and making contact. She felt his
+hands grab her mouth, but he was too late. She was gone, and Karson's
+boys would be there in seconds, before he had time to cut her up while
+her blood was still warm.
+
+------------------------------------------------------------------------
+
+[Out in the real world,]{.newthought} Petch was beautiful. Her avatar
+was tall and thin, with an hourglass waist and perfect tits. As soon as
+she left the shielding in Karson's compound, the net read out her
+stream, her optical feed kicked in, and she was a normal girl in the
+normal world.
+
+Not that Karson let her out much. Two or three times a week, he'd let a
+couple of the girls go into town with some of his tech boys. Chaperones,
+Karson said, to make sure nobody gave his girls any trouble.
+
+They made it damned hard to find the keymaker.
+
+Petch hadn't always known about the keymaker. The first time she bolted,
+climbing out the bathroom window at a club, she woke up disoriented,
+staring at Karson's amused face. She hadn't known he could drop her from
+a distance; she thought maybe she'd fainted, and the tech boy had
+brought her back in. "Little girl, you can't ever get away from me,"
+Karson had grinned at her. "I hold the keys to your soul." She'd thought
+he was being poetic.
+
+But the third time, when the whole damned misery of being so thoroughly
+owned kept her from opening her eyes right away after they'd shunted her
+back to life, she heard Karson say, "Tell the keymaker to reconfigure
+her lockdown to twenty yards. She damn near made it into the street, and
+the wetware ain't worth jack if she gets her body run over."
+
+She'd thought he meant the expensive, illegal, military-grade backup
+chips he'd put in her head would be damaged, and he'd lose her. Later,
+she realized the soul whose keys he held was worthless to him, just
+necessary software pulling the strings of her lucrative flesh.
+
+------------------------------------------------------------------------
+
+[Karson let her take]{.newthought} one of the tech boys into town to
+watch the latest immersive vid. Beforehand, drinking lattes in the
+square as they watched a particularly talented morph artist run through
+his show, the tech boy said, "Keymaker's not far from here."
+
+Petch nearly dropped her coffee. She pulled the tech boy's feed into
+focus, but he was still watching the morph artist like he hadn't spoken.
+
+It was a test. If Karson found out she knew about the keymaker again,
+he'd wipe her, and she'd have to start all over. Motherfucker never
+wiped any of her working memories; he left every miserable death bright
+in her mind, taking only the little things that made her life bearable.
+Like knowing there was a keymaker.
+
+The worst part always came right after she found out again, after the
+bright searing hope sliced up through her and made tears sting her eyes.
+When the knowledge tapped inactive wetbits into resonance, like deja vu,
+and she realized she'd known this before, and before again, going back
+for years, and every time, Karson had taken it from her.
+
+"I'm sorry, what?"
+
+"I'll take you to him."
+
+*Not very subtle, Karson. You got to pick them better than that if you
+want me to fall for it.* "Who? Some new john? Karson tell you to make me
+work before the show?" It didn't matter, Petch realized. Karson was
+going to wipe her whether she feigned innocence or not. "Ah, shit," she
+said, throwing her latte to the ground. The rolling cup briefly intruded
+on the feeds of several nearby patrons before the café software filtered
+it out of its stream.
+
+"This is the day you've been waiting for, Petch." The tech boy's avatar
+still watched the show with smiling interest, but he'd unlocked his
+stream for her. She switched him to camera input and looked at the thin,
+pockmarked young man across the table. He wasn't bored, wasn't
+fidgeting, none of the usual tells. He was just watching her eyes.
+
+Petch stared at him silently. "Why do you care?" she said at last.
+
+The tech boy smiled at her before he looked away. "Because you pay me
+to."
+
+------------------------------------------------------------------------
+
+[The next ten minutes]{.newthought} were a series of wetbit cascades,
+the tech boy accessing her forgotten memories until Petch thought she'd
+go mad.
+
+"Karson pays for the Class II wetware, then skimps on the wipes," the
+tech boy said. "He should pay for full erase capability instead of just
+unlinking the memories in the personal module." He leaned forward.
+"Look, Petch, I've caught you up to speed, and now we've got to get
+moving if we're going to be done before Karson decides we've been gone
+too long and drops you."
+
+"Will he drop you, too?" Petch asked.
+
+The tech boy shook his head. "Karson buys tech loyalty the old-fashioned
+way, with free snatch and plenty of bling. No extra chips in our heads."
+He tapped behind one ear. "No restart if we disappoint him, either. So
+let's get going, okay?"
+
+Petch stopped cold. "I can't be paying you enough to take that kind of
+gamble."
+
+He just smiled at her.
+
+"You've been helping me for a long time," she said, realizing.
+
+He nodded.
+
+"I don't remember you. Not much." She had only sketchy memories of the
+tech boy, coming in to revive her after a john had gone, behind a desk
+in Karson's office when she came in for a bitcheck.
+
+He shrugged and looked away. "Sometimes bits get lost."
+
+*Sometimes bits get lost.* Friendship gets lost, just like that. Petch
+had custom wetware in her head that nobody had access to, top of the
+line state of the art sexbot-and-soldier fucking wetware, and sometimes
+bits got lost.
+
+"Do I forget you every time he wipes me?" she asked.
+
+He shook his head, still looking out across the square. "Just this time.
+Just a shitty fluke of the bits."
+
+But he hadn't seemed surprised. Hadn't asked her if she remembered him
+now, after the cascade.
+
+It was hard to believe every single personal memory she had of him was
+lost. Maybe she hadn't had any. Maybe he was just a puppy in love from
+afar, a soft heart crying over a broken, damaged flesh whore.
+
+He was still open to her, still in the flesh, but she'd kept her stream
+locked to him. She had to; she needed every second she could get out
+here, in public, where privacy law meant people only saw her in the
+flesh if *she* let them. But memories or no, he was risking his life for
+her.
+
+"Kirit," she said. The least she could do was call him by name. He
+turned back to her, a question on his face, and maybe a little hope.
+
+Petch took a deep breath and made her avatar reflect the embarrassment
+she felt. "I'm sorry, I can't unlock my stream for you." She looked
+straight into his eyes. They were bright blue, so vivid it was amazing
+they were his flesh eyes; for a moment they made him beautiful, and
+almost familiar.
+
+Kirit nodded. He stared at her with his vivid, too-large eyes, and she
+watched them trace a line down her face, over her shoulder, as if he
+were brushing back a lock of her hair. Her flesh hair, long because
+Karson said it had to be. She kept it short in the real world.
+
+"I see what's underneath every day, Petch," he finally said. "I also see
+what's inside." He tapped his head. "Karson's never even bothered to
+look." He relocked his stream, and his blond, gym-rat avatar replaced
+the skinny boy in Petch's feed. "That's why he'll never know you're
+gone."
+
+Petch's heart raced. "Today is different," she said.
+
+He nodded. "Today we switch you out."
+
+------------------------------------------------------------------------
+
+[Petch's hidden account,]{.newthought} to which she'd apparently been
+siphoning credits in invisible tens and twenties from her pay and from
+the shopping money Karson gave her for her trips to town, had reached
+eighty thousand last night. Sixteen years of saving, at first just
+because it made her feel she had some kind of control, later because she
+was planning her escape.
+
+Petch didn't remember being so close to goal, even after Kirit told her.
+He just shrugged and looked away. "Sometimes bits get lost," he said
+again.
+
+She had enough to buy a Class II sexbot, the kind sold as wives to rich
+old men, with modules that made conversation and emulated feelings, with
+bodies that were hard to tell from flesh; and, after that, she still had
+enough to pay the keymaker.
+
+Kirit transferred payment to the café bill feed and bought two vid
+tickets they wouldn't use. Two minutes after they left the café square,
+he turned into an alley that didn't exist.
+
+Somebody had a lot of savvy, locking out the public camera stream like
+that. No seams where the generated bricks met the ordinary ones, no feed
+hiccups between the streams.
+
+Kirit's leg stuck back through the hacked-in wall, into the range of the
+cameras. The leg in Petch's feed was pale above scuffed sneakers; Kirit
+had turned his stream completely off. He leaned forward and stuck his
+face through. "Petch," he said softly. "I know it's hard, but you're
+going to have to turn off your stream here."
+
+Petch balked, and he smiled at her. "It's okay. I still know who you
+really are."
+
+"But they don't," she said, gesturing. "I want them to see the real me,
+only the real me, not that."
+
+"Petch, the keymaker has to drop you anyway to make the switch. And the
+rest aren't going to see you at all. All they'll see is a big, fat
+stream of credits coming in, and believe me, they'll think you're
+beautiful."
+
+She hesitated ten seconds, then twenty, until the fear took hold, that
+Karson might drop her and wipe her and make her wait another month,
+another year. Another second.
+
+That he might drop Kirit for good, really kill him, because of her.
+
+He had been a friend to her, the pockmarked boy with the bright blue
+eyes. But that wasn't really him; the real Kirit, the one he'd created,
+was smooth, blond, tanned and muscled. Now that she'd seen his avatar,
+it was rude of her to think of him as anything else, as the accidental
+flesh he'd been born into.
+
+Yet she was glad he'd kept his avatar eyes the same, beautiful blue.
+
+Petch switched off her stream and took Kirit's outstretched hand.
+
+------------------------------------------------------------------------
+
+["You'll miss it at first,"]{.newthought} the keymaker told her. "Your
+old body. But soon enough you'll get used to the new one."
+
+Petch watched the sexbot wetware in her old body wake up on the platform
+beside her, watched the keymaker check its vitals. Her old body looked
+around the room, taking in Petch, the keymaker, Kirit.
+
+Kirit was watching Petch.
+
+"I've got to take her back," he said. "Before Karson drops her."
+
+Petch's new belly soared like a roller coaster. No one would ever drop
+her again. Kirit smiled at her, but his eyes were somber.
+
+"Does she think she's me?" Petch asked. "Will she pass?" What she meant
+was, *are you going to survive this?*
+
+"I copied in your memories of the work, your name, your personal
+details," the keymaker said. "As long as no one questions her too
+closely, she'll pass."
+
+"Can she fidget?" Petch asked. If the johns complained, Kirit would die.
+
+The short, fat sexbot with uneven tits bumped her knees together in
+answer, tapping her fingers on the platform padding, wiggling her toes,
+smiling Petch's lopsided smile.
+
+"Karson will never suspect," Kirit said. "But I'll miss you."
+
+"I'll miss you, too," Petch said. And though it felt like she'd only met
+him today, she knew she would. But the keymaker was wrong; she wouldn't
+miss her old body at all. It had never been real; *this* body, now, this
+body was real. Tall, thin, with an hourglass waist and perfect tits.
+
+But Kirit just kept staring at her eyes.

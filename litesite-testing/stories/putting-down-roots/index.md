@@ -1,0 +1,1110 @@
+---
+litesite: collection
+title: Putting Down Roots
+date: 2012-01-01
+blurb: Laru’s grown up on a space station, dreaming of sunsets and unexpected rains. At last she’s been tapped for her first planetside mission.
+artist: Matt D. Edginton
+artlink: https://madoosk.com/
+pub: The Glass Parachute
+---
+
+# Putting Down Roots
+
+### by Grayson Bray Morris
+
+<figure>
+<img src="story-artwork-copyright-Matt-D-Edginton.jpg"
+alt="Custom story artwork copyright Matt D. Edginton for Putting Down Roots by Grayson Bray Morris" />
+<figcaption>ARTIST_PH</figcaption>
+</figure>
+
+My name was posted to the Tau Ceti Three crew list, along with my
+mother's. Two sixth-years saw my broad grin and came over to look.
+
+"NiIIIice," the girl singsang, dripping puffs of lavender lashglitter
+onto my shoulder with every blink. "But don't get stuck alone with
+*that* pilot. He's soOOOoo boring."
+
+Her boyfriend&mdash;he had to be; he was dusted in lavender
+lashglitter&mdash;hooted. "She won't have a choice. It's her first survey.
+She'll be ship-bound."
+
+"Well, don't encourage him. Wear earplugs at aaAAaall times."
+
+I raised an eyebrow.
+
+"You don't want him to think you're listening. He's got this thing about
+filling up empty silence with what he calls conversation. The inner
+workings of the com system. The proper descent vector for using minimum
+fuel. Like that."
+
+The girl tapped her right ear with long nails finely splayed into fans.
+"Earplugs."
+
+The boy laid a proprietary hand around the girl's neck, and I saw his
+nails matched hers. Oh, *honestly*. "They'll keep the Raging Bore at
+bay. And if worse comes to worst, you can always let in a spider."
+
+They walked off with the razorblade laugh of the in-crowd bully, and I
+decided I liked the pilot on principle.
+
+------------------------------------------------------------------------
+
+[Time seemed to dilate]{.newthought} until hours were years, but launch
+day finally came. I was going to a *planet!* Never mind that I would be
+confined to the survey shuttle; I would be off the *Ceiaides* for the
+first time in my life. Even a psych eval droid for pilot couldn't have
+dampened my spirits.
+
+The Raging Bore turned out to be a soft-around-the-middle young man
+named Mart Jansen with curly blond hair and a thick beard. Dr. Egil
+Parnum I knew; she was my mother. Our fourth and final crewmate was a
+tiny, honey-skinned woman named Dr. Bjalili Okara.
+
+The two-light-year trip down to Tau Ceti Three took forty-six hours:
+thirty-nine wormhole and seven straight-space. The pilot was in the
+cockpit for a few hours at each end to maneuver us away from the station
+and onto the surface, but the ship was on autopilot for the rest of the
+trip. The four of us spent our waking hours in the mainbay. Despite the
+sixth-years' stationside warning, the pilot was quiet as a mouse, and I
+felt smug. He'd turn out to be fascinating when you gave him a chance,
+and we'd be fast friends by the end of the trip. Watch their
+glitter-addled brains wrap around *that*.
+
+"Hey, Mart, why don't you join us for a game of cicce?" I waved my hand
+of cards.
+
+"No, thanks. I don't know how." He looked up briefly, then reburied
+himself in his reader.
+
+Or maybe I'd be spending the eight planetside days talking to myself.
+
+"I'll be interested to see the numbers on the higher animals this year.
+We're getting close," said Dr. Okara. "Another few decades and Teasy
+Three will be ready for colonization."
+
+"Dr. Tresnik told our class that Epilepsy Five was going gangbusters. He
+said it might outpace Teasy Three," I said.
+
+"Could be. But the Alpha Cen system is going to win this race by a
+light-year. I hear they're opening up the colonization roster on Acey
+Twelve next month. Or Nivenia, I should say, now they've named it.
+Apparently it's filled with woody Iridaceae." Dr. Okara chuckled at her
+own joke.
+
+"They say it's a beautiful world. Even more beautiful than Earth." I
+glanced at my mother. "I'm thinking of signing up."
+
+"You are? That sounds exciting." My mother snorted air but Dr. Okara
+went on unperturbed. "Have you ever been to the Alpha Cen system, Laru?"
+
+"No. I've never been to a planet, period. The thought of *living* on one
+makes me feel like a pioneer."
+
+Mart had stopped reading to watch us.
+
+"The real pioneering work is taking a hunk of dead rock and turning it
+into a living, breathing ecosystem," my mother sniffed.
+
+"Oh ho ho." Dr. Okara grinned. "Looks like I've stumbled into a family
+can of worms."
+
+Mart stood up and plucked rapidly at the curls of his beard. "Can I, uh,
+get anyone some coffee?"
+
+Were we making him nervous?
+
+"Me," Dr. Okara said, raising a finger.
+
+"Me, too, please," I said, smiling my friendliest smile. My mother
+nodded, and he trundled off to the galley.
+
+"What are you signing up as?" Dr. Okara asked as she pulled her feet up
+under her on the smaller mainbay couch.
+
+"They've got eight slots for biologists, but I won't be finished
+studying in time to apply for one of those." My mother snorted again; I
+ignored her. "They have a lot of slots for elementary school teachers,
+and not enough people to fill them, I've heard."
+
+Mart returned with four cups of coffee. He placed two cubes each of
+sweetener and tannin binder in front of me, then watched intently as I
+dropped both cubes of binder in.
+
+How very odd. Okay; okay; odd was okay. We were still going to be
+friends, or at least decent acquaintances, because I was *not* going to
+agree with the opinions of two snot-for-brains trend-lemmings.
+
+"Oh, Laru," my mother sighed. "I can't believe you want to throw away a
+promising career on the cutting edge of exobiology to go put down roots
+on some primitive planet just being colonized. You're only nineteen. At
+least finish your education first."
+
+We'd been having this conversation for months. To my mother, planetary
+life was for placid, stupid people who lacked imagination. The real
+thrill was out among the stars, playing God on the natural satellites
+orbiting them. There were twelve Ceti Sector planets in various stages
+of terraforming, and she had a hand in them all. Epsilon Eridani Four
+was just developing a greenhouse-gas cover; Tau Ceti Two had gotten its
+first injection of cyanobacteria. Tau Ceti Seven was scheduled for plant
+life later in the year. When my mother wasn't out surveying the progress
+of gestating worlds, she conducted research on nanite-enhanced
+terraforming strategies back on the space station. Her work was varied
+and complex, and she loved it. She said it was exhilarating.
+
+It sounded interesting. It sounded mentally stimulating. But
+exhilarating? I thought creating a community of human beings from wildly
+different places on a brand-new world with wide-open vistas sounded
+exhilarating. I'd watched plenty of old vids of Earth and Mars. I wanted
+to live in a place with sunrises and sunsets, rain that fell at
+non-programmed intervals, forests to lose myself in, hills and mountains
+and rivers and lakes. I wanted the planetary experience.
+
+The distance was the only thing that gave me pause: it took two weeks to
+travel the wormhole network from Alpha Centauri to the Ceti Sector. I'd
+be lucky to see my mother once a year. I'd seen her wrestling not to
+throw that in my face just to keep me on the *Ceiaides*. I loved my
+mother for that, for fighting fair.
+
+------------------------------------------------------------------------
+
+[Mart touched our ship down]{.newthought} with a dancer's grace just
+after breakfast. Automated sensors collected the first routine samples
+of atmosphere; by lunchtime, the ship's bioanalyzer had manufactured
+antibodies to the local airborne pathogens, and doctors Parnum and Okara
+went out on survey. I sat twiddling my thumbs in the mainbay with Mart
+for the five-hour wait; until my mother and Dr. Okara returned with the
+first samples to process, I had no duties.
+
+"So. So, uh, Miss Parnum, this is your first trip planetside?"
+
+Okay, see? He was opening up. Let the bonding begin. "Yes. I'm a
+fourth-year. Biology."
+
+"The same field as your mother."
+
+I nodded. He nodded. He drummed his fingers on his thighs, then pulled
+at his beard. "Biology. I was terrible at biology. I'm not good with
+animals and plants. Machines are more my thing. I would have liked to go
+into nanotech, but my scores weren't strong enough."
+
+Nanotech was very complicated stuff; almost no one had the scores for
+it. "How'd you decide to become a pilot?"
+
+"My dad would take me out sometimes. I liked sitting in the cockpit,
+reading off all the monitors. One hundred and thirty-eight individual
+pieces of information that let you predictably control a complicated
+machine. And the precision! It's a thing of beauty. For example, do you
+know how a retroflux thruster works?"
+
+"No, I don't." The words *Raging Bore* popped into my brain before I
+could stop them.
+
+"It detects changes in temperature down to the picokelvin, and changes
+in density down to the milligram per cubic meter, and uses a series of
+nanosecond measurements to determine the vehicle's distance from the
+surface *and* the amount of friction to apply to the landing pads. See,
+the measurements form a Gerrison curve, and based on the tangential
+acceleration of the curve vector, the retroflux unit can tell what kind
+of surface material it's approaching&mdash;titanium alloy, organic matter,
+bioasphalt, whatever&mdash;and adjust accordingly. It's incredibly precise,
+and completely predictable."
+
+"I see."
+
+"I can show you how it works, if you'd like." He stood up and gestured
+toward the cockpit.
+
+I saw an hour sitting in the pilot's chair&mdash;no, standing behind it
+while *he* sat in it and pointed out dial after dial after button after
+switch. "That's nice of you to offer, but to be honest, I'm not really a
+fan of shuttle tech. Besides, I've got some reading to do for class."
+
+"Oh, yeah, of course," he said, almost before I'd finished speaking. He
+pulled at his beard and looked around the room. "Well, I'll leave you to
+your books." He pointed at my reader on the table. "Can I at least get
+you a cup of coffee, or something?"
+
+I looked up at the disappointed blue eyes in his pale, pudgy face. He
+seemed angry with himself, and that made me angry with the
+sixth-years&mdash;and myself. "Coffee sounds good. Tell you what&mdash;why don't
+I teach you how to play cicce?"
+
+I thought he'd say no again, but he surprised me. His eyes widened as he
+smiled and ran a hand through his hair. "Sure. Why not?" He turned
+toward the galley, then turned back with a frown. "I have to warn you,
+Miss Parnum, I'm not very good at card games. I haven't played much."
+
+"That's okay," I said, tapping controls to raise the low table to
+card-playing level and lift the smaller formfoam couch from its floor
+recess and inflate it. "Everybody has to start somewhere. And stop
+calling me Miss Parnum. Call me Laru."
+
+------------------------------------------------------------------------
+
+[My mother and Dr. Okara]{.newthought} returned with a rollcrate full of
+samples and some kind of skin rash. "I'm itchy all over," Dr. Okara
+complained.
+
+Mart looked really alarmed.
+
+"It's not that unusual," my mother said. "The analyzer only screens for
+serious pathogens. Survey crew come back with sniffles and rashes all
+the time. Biodiversity makes for a healthy ecosystem."
+
+"This is the first time anyone's gotten sick on my run," Mart said.
+"That's twenty-two trips. One in twenty-two doesn't sound common to me."
+
+"Relax, Mart. It's normal." She put a hand on his arm and smiled at him.
+"Trust me; I've been doing this for a long time."
+
+Mart nodded, and she let go of his arm.
+
+After dinner I suggested we do some singing. I love to sing, and my
+mother and I can belt out a pretty nice duet.
+
+After our third or fourth song, Dr. Okara sniffed, coughed, and stood
+up. "Well, lovely as this is, I'm going to hit the sack. I'm bushed, and
+this damned itch is making me cranky."
+
+"You do that," my mother boomed. Singing always put her in a good mood.
+"Rudolph the red-nosed reindeer."
+
+I laughed beside Mart on the larger mainbay couch and let myself fall
+against the rounded armrest. Dr. Okara looked at me like I was sprouting
+woody Iridaceae from my nose. "It's an old Terran song," I explained
+through my laughter. "Your nose is a little red."
+
+"Aha. Charming." Dr. Okara raised a hand and turned toward the cabins.
+"I'm out of here. Good night, all."
+
+"Where did you learn all these ancient songs?" Mart asked as we readied
+the table for a game of cicce.
+
+"My father was a music buff. After he died, we played his collection as
+a way of remembering him. We learned our favorites by heart. It's a lot
+of fun, singing together."
+
+"If you can call it singing," Mart ventured, his eyes darting from one
+of us to the other.
+
+"Good one, Mart," my mother said, thumping him on the leg with a laugh.
+"I knew you had it in you." She played a card. "And you're very good at
+cicce."
+
+Mart blushed, looked at me with a shy grin, and ran a hand through his
+hair, and I wished those sixth-years could see us. Raging Bore? Hardly.
+
+I slapped a card triumphantly onto the table. "But not good enough.
+Cicce!"
+
+My mother groaned. I stood and threw both arms into the air, eyes
+closed, head bobbing, hands in the old-Earth victory V.
+
+Mart gathered the cards and looked at the clock. "Oh! It's late. Past
+protocol."
+
+My mother looked over. "Just twenty minutes. Relax, Mart. I don't sleep
+much back on the station, either. I'll be fit enough for duty tomorrow."
+She winked at me.
+
+"Still, it's protocol." Mart plucked at his beard.
+
+"That it is. Hup, off to bed with us all. Don't stay up reading, Laru."
+My mother leaned across the couch and plucked a skinboot from the floor.
+"You've got your work cut out for you tomorrow, analyzing the sequencer
+results. A hundred and eighty samples will take longer than you think."
+She yawned and held up a hand. "Good night."
+
+"Sleep tight, Mama," I said, standing and stretching. "Good night,
+Mart."
+
+"Good night, Dr. Parnum, Miss Parnum." Mart smiled at me. "I mean Laru."
+
+I lilted to my cabin, happy for the way Mart was responding to a little
+friendship and eager to stretch my biologist's wings in the lab
+tomorrow. In ten hours I would be touching things that had grown on this
+planet.
+
+------------------------------------------------------------------------
+
+[My professors on the *Ceiaides*]{.newthought} had taught me to expect
+mutations in the Terran organisms transplanted to Ceti Sector worlds.
+Over the years, my mother had described many unexpected, and often
+beautiful, adaptations to which the older terraforming worlds' unique
+variations from Terran gravity and atmospheric pressure were beginning
+to give rise: the enlarged butterflies of Tau Ceti One; the swaying,
+lace-like plants of Alpha Centauri Sixteen. But the mutations in front
+of me were improbable beyond reason.
+
+"Laru? Lunch is ready." Mart stood at the entry to the survey ship's
+lab. "What's wrong?"
+
+"These samples. The DNA isn't consistent. They're like bizarre hybrids."
+
+Mart cocked his head. "Like what?"
+
+"Two species intermingled. Like, say, two types of rose bush. But these
+are beyond possible. Take this one&mdash;this is a spider crossed with a
+birch tree." I angled the sequencer's screen toward him.
+
+His expression of worry turned to stone before he looked away. "Ah. I
+get it. Little Miss Funnypants. I'm not *that* gullible, whatever they
+told you about me."
+
+Oh, crap. Why did I have to mention spiders? I opened my mouth to
+apologize, but he was already gone. I stood up and shouted. "Hey! You
+know I'm not like that. I'm not joking, Mart."
+
+I heard him pad back toward me, then saw his face peer in. "You're not?"
+
+"No."
+
+"Oh." He took another step in. "How is that possible?"
+
+"Exactly. How is that possible? I don't know." I waved him closer. "All
+the birch tree samples Mom and Dr. Okara brought in yesterday have two
+kinds of DNA, from two completely different species. They're *Betula
+papyrifera* everywhere except in the mitochondria. And there, they're
+something else. An arachnid. An amphibian. Each one is different. So
+far, I've found two species of fungus, one protist, four plants, and
+eight animals encapsulated in the mitochondrial nucleotide barcodes."
+
+Mart was watching me intently, and I realized he was trying to
+understand what I had said. My ears began to burn: I'd just given my own
+retroflux thruster speech, to a much better audience than I had been.
+
+"It's like finding a... a com unit speaker inside a thruster," I started
+again. "Not stuck onto the side of the control panel, but deep inside
+the thruster itself, wired in like it belongs there."
+
+His eyes registered comprehension. "That's very odd."
+
+"It certainly is." I stood up and prowled the tiny lab. "The birch
+samples are the only ones like this. Everything else is what it's
+supposed to be." I stopped pacing and stared at Mart as if the answer to
+the riddle was written in miniature script somewhere on his face.
+
+"Come eat lunch?" he said, squirming under my scrutiny. I nodded and
+followed him to the galley.
+
+"How did all this other DNA worm its way into the birch cells, Mart?" I
+watched him peel back the steamy polylactide film on a serving of
+fungoid tetrazzini, then funnel the condensing water into two cups of
+granulated strawberry. I wasn't really asking; I was thinking out loud.
+He surprised me by answering.
+
+"Dead spider scraped off the birch trunk?"
+
+I shook my head. "All the foreign DNA was *inside* the birch cells. If
+it had been a dead spider, the spider DNA would be outside the birch
+cells. Like this cup on the table." I picked it up. "Touching, but
+separate."
+
+"Dead spider that got inside the tree through a crack and disintegrated
+into the birch cells?" He slid my lunch over to me.
+
+"Still wouldn't work. That would be like spilling juice on your
+clothes&mdash;even if it sank into the fabric, it wouldn't become part of
+the cloth." I speared a forkful of gummy tetrazzini. "The DNA in one
+wouldn't mix with the DNA in the other."
+
+"Not even if it was there for a really long time?"
+
+I swallowed and shook my head. "Most cells can't penetrate another cell
+and release their DNA into it. Only viruses and gametes."
+
+"Gametes?"
+
+"Reproductive cells."
+
+Mart cocked his head. "You mean sperm and eggs?"
+
+I nodded. "In animals. In plants, it's pollen and ovules."
+
+"So breathing in pollen is like breathing in sperm?"
+
+"Yes, actually." I'd never thought of it that way.
+
+"Another reason to be glad I don't go outside," Mart said into his cup.
+I snorted, and a second later we were laughing like hyenas.
+
+"You'll make a really good teacher," he said when we finally got
+ourselves under control. "You explain things really well."
+
+I was moved far more than I'd have expected by his words, and I realized
+I was actually really worried I'd be awful at it. "Really?"
+
+He nodded. "You made all that make sense. I'm terrible at biology, but
+you turned it into thrusters. Nobody's ever done that with me before."
+
+------------------------------------------------------------------------
+
+["They aren't answering,"]{.newthought} Mart called from the mainbay.
+"Probably in the com's null spot. I'll try again in thirty minutes."
+
+My mother and Dr. Okara wouldn't be back from survey for another three
+hours. I'd redone all the birch samples and driven myself crazy trying
+to figure out what my results meant. I was desperate to hear what they
+thought. Maybe we were sitting on something enormous here. Some new
+evolutionary mechanism. I'd never heard of anything like it, in class or
+from my mother, which meant she'd never heard of anything like it,
+either. Which meant it was BIG.
+
+A major discovery like this could make me a very desirable commodity.
+How could I possibly wait three more hours? "Let's try them again."
+
+Mart raised his eyebrows and looked at the panel clock. "It's only been
+five minutes."
+
+"So?"
+
+"So protocol is to wait thirty."
+
+I was buzzing with adrenaline. "Jesus, Mart, stop quivering on the altar
+of the holy gods of protocol. Move over. I'll do it." He took a hurried
+step back and I sat down at the com panel. No answer.
+
+I was too preoccupied with myself to register the look on his face when
+I turned around. "How big is this null spot you mentioned? How long
+before they're out of it?"
+
+"That depends on their distance from the ship, and their orientation and
+velocity."
+
+I looked upward and sighed.
+
+"Generally at least thirty minutes." His politely unspoken *Duh* hovered
+in the air between us, but I was too wound up to acknowledge that I was
+being a jerk. All I could focus on was how impossible it was to wait a
+second longer when I was sitting on something THIS BIG!
+
+"Well, that's too long." I walked to the storage cabinet behind the
+galley and pulled out a helmeted exosuit, way bulkier than the flexible
+skinsuits my mother and Dr. Okara were wearing. Mart was right behind
+me; he grabbed my arm, and I read real panic in his face.
+
+"Laru, you can't go out there. It's against protocol."
+
+"You want to go?" Of course outdoor-phobic Mart didn't want to go; the
+horrible snideness of my comment finally cut through my adrenaline
+hyperbuzz. "I'm sorry. That was completely uncalled for. But I'm jumpy,
+and sitting around waiting on protocol isn't my style. This might be
+something big we've discovered. I'm going to find Mom and Dr. Okara." I
+finished pulling on the exosuit and checked the air tank, then eased
+past Mart toward the airlock.
+
+"Why are you wearing *that* suit?" His voice was shrill.
+
+I turned and laid a gloved hand on his shoulder. "Relax, Mart. This is
+all there is; I wasn't issued a skinsuit. Besides, it's good protocol,
+right?" I squeezed his shoulder, then let go and stepped into the
+airlock, excited but also just plain thankful for an excuse to escape
+the cramped, windowless ship after sixty-eight straight hours and giddy
+at the thought of setting foot on an honest-to-goodness planet.
+
+Mart waved frantically, and I opened the inner door. He looked faintly
+golden through my helmet's nanowire visorplate. "The null spots," he
+said. "One's off the nose, one's off the tail. They start out narrow,
+and get wider the further you go from the ship."
+
+I beamed at him. "Thanks, Mart. I didn't know that." Then I closed the
+airlock, waved, and stepped out onto the surface humming "Zippity Doo
+Dah."
+
+------------------------------------------------------------------------
+
+[I walked to the edge]{.newthought} of the bioasphalt landing strip and
+paused. My left foot came down onto the leafy soil, which gave gently
+under my weight; then my right foot touched down. I took a slow,
+reverent breath and looked around. Damn the helmet and its muffling,
+goldifying barrier, marring my first taste of life outside a space
+station. Without it, I would have heard birdsong, and the wind through
+the trees, and the rustling of small animals pattering away in search of
+cover; with it, I heard only the subdued crunching of my own footsteps.
+I reached up to loosen the neckline seal, then paused: I wasn't supposed
+to be outside at all. Let the review board see I'd broken the rules
+responsibly. I dropped my hand and started walking.
+
+The smooth, even ground was covered in last year's leaves. Most had
+turned a decaying brown, but here and there, tips of orange and yellow
+dotted the forest floor. Tau Ceti Three was well into its spring season,
+and the space above me was a vibrant green canopy through which sunlight
+filtered, dropping bright specks onto the ground in gently bobbing
+patterns. I stepped through the swaying net of light and ran my gloved
+fingers along the trunks, tracing lines in the fine layer of pollen that
+covered them. The oldest tree here was no more than forty; the last to
+be introduced were in their first reproductive season, and younger than
+me.
+
+The chuckle of running water filtered through my helmet, and I walked
+toward the sound. I squatted and peered eagerly into a middling brook,
+but no shining silver fish betrayed their positions; I saw only brown
+and gray pebbles lining the bottom, distorted in the swirling current. I
+longed to unlatch my exogloves and dip my fingers into living water,
+home to a trillion trillion trillion individual organisms too tiny to
+see, living out their microscopic lives in a miniature world within a
+world. Right here in front of me, within arm's reach. For the first
+time, I truly understood the thrill on which my mother had so often
+waxed exuberant. I *did* feel like the creator standing before my
+creation, watching as it unfolded and grew and lived.
+
+The temptation to touch it all made my fingers itch. But I was already
+walking a very fine line, and an unfounded disobey on my record would
+keep me permanently out of the colonization rosters. My stomach
+clenched; was there really a reason I couldn't have waited for the
+others to return? Would the review board agree that three hours&mdash;no,
+*thirty minutes*&mdash;was too long to sit on my results?
+
+I ran back to the ship, seeing nothing, hoping I could talk Mart into
+keeping my transgression a secret, knowing before I'd gone twenty steps
+that I wouldn't ask him to.
+
+------------------------------------------------------------------------
+
+[All my adrenaline]{.newthought} had turned to churning acid in my gut.
+By the time I finished the UV bath and stripped off the suit, Mart was
+waiting outside the airlock. He was visibly relieved to see me, which,
+irrationally, pissed me off. "You were gone twenty-six minutes. The
+others aren't back yet. I've been comming them every six minutes. I
+should get through to them soon. I should have explained the null spots
+better. They're fairly narrow. I'll show you the RF patterns. You look
+worn out. Let me get you something to eat." He was hovering solicitously
+beside my right shoulder, and I shoved him away. His eyes widened and I
+closed mine in instant and thundering regret.
+
+"I'm sorry, Mart. It's not your fault. Food would be great. I'm just mad
+at myself for torpedoing the thing I want most because I can't frigging
+think two steps ahead."
+
+He didn't answer. I opened my eyes and saw his cabin door closing.
+
+Was there anything, *anything*, I could possibly *not* fuck up today?
+
+I sank to the formfoam couch and kicked the table, then picked up the
+cards and threw them at the galley wall with a long, hard yell. Mart
+didn't come ask me what was wrong, or if I wanted a cup of coffee. I was
+all alone with my reckless, idiot self.
+
+------------------------------------------------------------------------
+
+[I didn't have to wait]{.newthought} three hours after all. My mother
+and Dr. Okara returned less than half an hour after I did, both coughing
+and feverish.
+
+Dr. Okara pushed the rollcrate into the mainbay and leaned against it,
+panting. "All I want to do is sleep."
+
+"Ditto," my mother said. Then she frowned at me. "What's wrong, Laru?"
+
+I shook my head. She looked really sick; her skin was splotchy and
+sweaty, and she was breathing in short little pants. All the excuse I
+needed not to dump the day's failure in her lap quite yet. "Just bored.
+Want me to make you some tea?"
+
+Neither of them wanted tea; just enough water to down an analgesic
+before getting supine. Dr. Okara lurched toward her cabin as I kissed my
+mother's burning cheek. "Sleep well, Mama."
+
+"You too, sweetie. Oh&mdash;how'd it go with the samples?"
+
+"Fine." I smiled brightly. "I'll tell you all about it tomorrow."
+
+She nodded and shuffled to her cabin.
+
+And then I was all alone with my reckless, idiot self again.
+
+I wallowed in misery for a while; then I tried to read for Terraforming
+II, but I couldn't get the words to stick. Eventually hunger was the
+only thing I could focus on, and I knocked on Mart's door.
+
+"Mart?" I tried to hear movement, or even breathing, but it was quiet in
+there. "I'm really sorry about pushing you. I'm just mad at myself, and
+I took it out on you. I'm really, really sorry." No sound. "Look, um,
+I'm going to eat something, and I thought you were probably getting
+hungry, too. I'll make us some dinner, okay? Come on out in fifteen
+minutes and it'll be ready. Okay?"
+
+After another thirty seconds of silence, I trudged off to the galley and
+managed to heat up two foodpacks without burning down the ship. Mart
+didn't show. Maybe he was just sleeping. Or maybe he hated me now.
+
+One thing was sure: sleep was out of the question for me. I cleaned up
+my galley mess and pulled the day's rollcrate of samples into the lab.
+
+------------------------------------------------------------------------
+
+[Mart shook me awake.]{.newthought} "Were you here all night?"
+
+I blinked my eyes and looked around. "What time is it?"
+
+"Oh seven hundred local."
+
+"I guess I was." Then it hit me: Mart was talking to me. "Hey, look, I
+am so sorry about what happened yesterday&mdash;"
+
+"It's okay."
+
+"No, it's not, I shouldn't have&mdash;"
+
+"It's okay. I'll make breakfast." He padded out and I blinked at his
+receding back. Then I unstuck myself from the chair and followed him.
+
+"The others are sick," I said by way of conversation. "Sicker than they
+were, I mean. They had fevers. They came back early and went straight to
+bed."
+
+Mart looked up at that. "Fevers? What do they have?"
+
+I shrugged. "I don't know. Some local variant on the common cold, I
+guess."
+
+"Can you test it?"
+
+"You mean run it through the analyzer? I guess, but I don't see why."
+
+Mart had forgotten all about making breakfast; he was looking at
+me&mdash;more like through me&mdash;as if he saw some giant six-armed ogre
+bearing down on us swinging spike-studded clubs in every hand. Poor
+Mart, so scared of things that were alive, and nobody who took him
+seriously. Well, *I* could take him seriously. Especially after
+yesterday.
+
+"Hey, sure. I'll get a sample from my mom and run it through. Then I'll
+have the synthesizer make up a batch of antibodies. Like a vaccine, to
+keep you from getting it. Wait here."
+
+I got a swab kit from the lab, then swung back into the galley on my way
+to my mother's cabin and handed him a disposable face mask. "Here. You
+can wear this till everyone's well again."
+
+He took it like a starving man being offered a four-course meal.
+
+My mother was still sleeping. I tiptoed over to her bunk and whispered
+"Mama?" but she didn't wake. Her breathing was still short and rapid;
+her skin was mottled, with specks of white among flushed streaks of red.
+I touched her arm; still feverish. Then I touched it again: the specks
+of white were hard and smooth, like flattened grains of sand. I shook
+her again, harder. "Mama? MAMA?"
+
+I wasted no time getting the sterile swab out of its pipet. I wormed it
+between her slightly parted lips and waved it around inside her mouth,
+then practically fell over myself getting to the lab. "Okay, thing,
+analyze. Analyze. Analyze," I chanted after I'd loaded the swab into an
+input tray.
+
+A thousand years later, it pinged. No culprit: just the usual cornucopia
+of oral microbiota. "WHAT?" I shouted&mdash;which, of course, brought Mart
+running.
+
+"What's wrong?" he said through his face mask. "What is it? Is it bad?"
+
+I shook my head. "It's nothing. Literally. The analyzer didn't find
+anything making her sick. But she's really sick, Mart. She won't wake
+up." I looked at him. "We've got to go back to the station. Let's go,
+right now."
+
+Mart's eyes were wide and he was close to hyperventilating. "We can't."
+
+"We have to!" My shout ended in a wail.
+
+"Protocol. Section eighteen point four. Sick survey crew will be denied
+station reentry until the source of the illness has been identified."
+
+I wanted to scream. "But there's nothing there to identify."
+
+"There has to be something. People don't just get sick for no reason."
+
+"I *know*."
+
+"So there's something." Mart all but stamped his foot; his eyes were
+wild.
+
+"Okay. Okay. Let's think. It isn't a virus. It isn't a bacterium. It
+isn't any kind of infection."
+
+"Cancer."
+
+"Too fast." I shook my head. "And both of them. It can't be cancer."
+
+"But something like cancer. Cancer's not an infection, right?"
+
+"Right, but&mdash;"
+
+"Can you test for that with the things in here?" Mart swept his arm
+across the lab.
+
+"I don't know. But I'm telling you, Mart, it can't be cancer. Cancer
+doesn't just spring up overnight. The way they got sick is classic
+infection."
+
+"Maybe this planet has fast cancer. It has all kinds of crazy things.
+It's got birch trees infected with spiders. It's&mdash;"
+
+"Wait a minute," I said. "Hold on. You said birch trees infected with
+spiders."
+
+"Yeah, just, you know, a figure of speech."
+
+"Maybe not," I said. "Oh, my god."
+
+------------------------------------------------------------------------
+
+[The only DNA]{.newthought} in my mother's saliva was her own. So I went
+back and carefully scraped a sample from one of the hard, smooth, white
+patches spreading across her skin and ran it through the analyzer. Again
+no identifiable infectious agent; but the sequencer told a different
+story.
+
+The mitochondrial DNA was my mother's. The nuclear DNA&mdash;the only DNA
+that mattered, the DNA that made the cell what it was&mdash;was *Betula
+papyrifera*.
+
+My mother was turning into a birch tree.
+
+"It was a figure of speech," Mart said. "I don't&mdash;how can this be
+happening?"
+
+"It's called transduction," I said as I pounded out commands on the lab
+console. "We've been doing it in the lab for centuries, using viruses to
+move new genetic material into host cells to overwrite faulty genes. To
+make crops more resistant to station blight, or just to make them use
+less water. It's also how we've gotten rid of most hereditary illnesses,
+like cystic fibrosis."
+
+Mart had that intent look again.
+
+"Say you have a program with errors in one of its routines. You write a
+new routine without those errors and stick it in where the old routine
+used to be. That's transduction."
+
+"Ah. Only the birch trees are rewriting the whole program."
+
+I nodded.
+
+"I don't understand how birch trees can do that."
+
+"Neither do I. But I just spammed the station with every bit of data
+we've got. There are some really bright minds there." I chewed on a
+fingernail. "Someone will figure out how to make it stop."
+
+------------------------------------------------------------------------
+
+[I checked on]{.newthought} Dr. Okara first; she was just like my
+mother. Short of breath, feverish, and splotchy skin with patches of
+smooth, hard white. I didn't know what to do for either of them. I sat
+with my mother, singing songs and telling her about yesterday's colossal
+fuck-up. That made me weepy&mdash;not because I'd made such a mess of
+things, but because I didn't know if she would ever actually hear about
+it. I leaned against her after that and cried for a long time.
+
+Mart was sitting at the mainbay com station when I came back out, still
+wearing his face mask.
+
+"No news yet," he said before I'd even opened my mouth. "I've been
+waiting, but nothing's come through."
+
+I nodded. I walked over to the couch and sat down, then stood back up
+again and looked around the mainbay. I didn't know what to do with
+myself.
+
+Mart swiveled to look at me. "You'll probably feel better in the lab.
+I'll make us something to eat."
+
+------------------------------------------------------------------------
+
+[Mart shook me awake]{.newthought} in the lab chair. He looked like I
+felt: his cheek was creased where he'd slumped against the com panel in
+the mainbay when he fell asleep, and his eyes were bleary. My eyes
+groped for the lab clock. Twelve hours since I'd sent up my mother's
+DNA.
+
+"They've got something. They want you."
+
+I jumped to my feet, instantly awake, and followed Mart to the mainbay.
+
+"Laru Parnum here," I croaked into the com.
+
+"Rikkel Smit. Miss Parnum, we've developed an immunoglobulin that will
+protect you and Mr. Jansen from infection. I'm sending the blueprint
+now. Synthesis should take about six hours."
+
+I looked over my shoulder and smiled at Mart in relief. "That's great
+news! Thank you so much, Dr. Smit."
+
+"We're continuing to work on a fix to the invasive genome, but that will
+take some days longer. In the meantime, the immunoglobulin will protect
+you down there. We do need you to stay planetside until we have the
+delivery vector ready, so you can administer it."
+
+"Understood."
+
+There was a brief silence. "Miss Parnum, as I'm sure you understand, the
+immunoglobulin will only prevent future infection. It won't cure your
+infected crewmates."
+
+"Right. I understand finding a way to reverse the infection will take
+longer. Do you know how much longer? My mother and Dr. Okara are very
+ill."
+
+Dr. Smit didn't answer; I thought I'd lost the connection. "Dr. Smit?"
+
+"Miss Parnum, there won't be a cure. There is no way to reverse what's
+happened."
+
+"But when you correct the birch pollen&mdash;"
+
+"It will stop infecting new organisms. Period."
+
+I began to gasp air in sharp, sucking breaths that brought no relief.
+Mart crept toward me and rested a tentative arm around my shoulder, no
+doubt afraid I would hit him again. That act of bravery nearly undid me.
+I clung to his hand and clamped my mouth into a thin line to still it.
+
+"Miss Parnum... Laru, I am so, so sorry for your loss. Look, I know this
+is cold consolation, but your discovery will save the planet's ecosystem
+from ruin. Five generations on the *Ceiaides* have invested a hundred
+and sixty years into terraforming Tau Ceti Three, and the last seventy
+would have been wasted. This kind of infection spreads exponentially...
+by next year's survey, there would have been precious little but birch
+trees, and they'd have been doomed without other life to maintain the
+carbon-oxygen balance. We'd have had to raze the forests and reintroduce
+everything from the microbes up."
+
+I nodded, though Dr. Smit couldn't see me. Mart cleared his throat and
+said, "Ah, Miss Parnum is nodding." I laughed at that, and Mart's right
+hand tightened on mine, as if he knew my laugh would open the
+floodgates.
+
+"It was brilliant work, Laru, especially for a fourth-year. You have a
+bright future ahead of you."
+
+I didn't answer, and Mart didn't describe the way I was shuddering with
+the effort not to cry or his left hand gently patting my arm. The com
+remained silent for several seconds more, and then Dr. Smit signed off.
+I let myself go, howling and screaming and throwing things and curling
+up on the floor and kicking at the air. And when I finally rolled onto
+my back, bruised and hoarse and spent, Mart was still there with me.
+
+------------------------------------------------------------------------
+
+[My mother died]{.newthought} later that night. That is: she stopped
+breathing with her lungs, and I could no longer find her heartbeat. The
+birch patches continued to spread until they consumed her skin, so
+something inside her was still alive.
+
+"I can't seal her in a hazmat bag," I told Mart when I came back out. "I
+just can't."
+
+He squirmed. "The protocol is very specific. Crew members who die on
+survey have to be sealed and returned for incineration."
+
+"I know. But it feels like suffocating her."
+
+He didn't say anything else, and I didn't push it. We still had some
+time; protocol gave us forty-eight hours.
+
+------------------------------------------------------------------------
+
+[We played]{.newthought} a lot of uninspired cicce that day and the
+next, waiting for Dr. Smit's team to send us the birch fix. I gave Mart
+a double dose of the immunoglobulin when it was ready. We were in no
+danger of infection inside the ship, which is the only place Mart was
+ever going to be, but I knew swallowing two cupfuls of bitter medicine
+would make him feel safer.
+
+I still hadn't sealed my mother and Dr. Okara in hazmat bags. I told
+myself I'd bag them as soon as they started to smell. Mart and I didn't
+discuss it again; I didn't know if he was unaware I was planning to
+violate protocol that grossly, or unwilling to fight about it. Maybe he
+was just working up the resolve to walk in and bag them himself.
+
+On the third day of our wait, my mother began to sprout new growth. A
+load fell off me when I saw the pale green buds dotting her former
+torso. She *was* still alive. Maybe not in any way that recognized me,
+but that didn't matter. What little doubt I'd had about keeping her on
+the planet was gone.
+
+I came out of her cabin intending to tell Mart, but when I saw him bent
+over the cards, nudging this one and that one with a finger until they
+were precisely aligned, words failed me. He looked up, and two things I
+should have noticed earlier leapt out at me: the way he searched my face
+to see if I was okay, and the way he bit his lower lip to keep from
+speaking.
+
+"Hey." I smiled and walked over to him.
+
+"Want something to eat?"
+
+I shook my head. "I was wondering. Do you think you could show me how a
+retroflux thruster works?"
+
+For an instant his eyes lit up; then the light went out and he looked
+away. "But you're not a fan of shuttle tech." He had remembered my
+cut-him-off-at-the-pass word for word. Ouch. "I don't want to bore you,
+Laru. I know the things I talk about bore people."
+
+"You do?"
+
+"Yes." He looked at me with a sour smile. "I'm the Raging Bore. Hadn't
+you heard?"
+
+This moment needed complete honesty.
+
+"I did hear that. And I believed it that first day, when you started to
+tell me about the thrusters. It's true, they don't interest me. Any more
+than plant DNA interests you. But you listened to me anyway, because you
+aren't a shallow, self-absorbed ninny." I waited until that sank in and
+he looked at me in surprise; then I said, "I'm really sorry, Mart. I was
+an ass. And you are *not* a bore. You're a friend."
+
+He nodded, tears close to the surface.
+
+"Shuttle tech still doesn't interest me, but it interests you. And I
+really do want you to tell me about it."
+
+He searched my face then, looking for some sign I was atoning for my
+self-absorbed sins or otherwise little-white-lying to him. He didn't
+find any: I was honestly eager to hear what made him sing, after all
+these muted days.
+
+------------------------------------------------------------------------
+
+[We stayed up talking,]{.newthought} deep into the planetside night.
+Really talking, back and forth and at the same time, about everything
+and nothing. Mart did have a tendency to long monologues in excruciating
+detail on subjects that fascinated him, but I was quick to tell him when
+my attention started to wander. That broke through the last damper on
+his enthusiasm; he knew that if I was listening, it was because I was
+engaged in what he was saying.
+
+For my part, I talked more openly about myself than I ever had with
+anyone besides my mother. It was a really good night, so rare and
+freeing that neither of us wanted to end it, even long past bedtime
+protocol, long past the point of fatigue.
+
+I woke hours later on one of the mainbay couches. My face was swollen
+and sticky, my bra dug into my back, and I was cold, though Mart had
+apparently covered us both with blankets at some point. I looked over at
+his puffy, slack-jawed face on the couch across from me. He was
+dreaming, his eyes darting beneath their lids, his brow jerking lightly.
+I eased off my couch and tiptoed toward the galley, but I wasn't quiet
+enough; he was sitting up when I came back with my coffee. I handed the
+cup to him and went to make a second.
+
+"I'll help you do it," he said as I walked back in.
+
+"Do what?"
+
+"Plant your mother and Dr. Okara."
+
+I stopped cold. I hadn't told Mart about the new growth last night,
+despite all our heartfelt talk. The self-absorbed me of a day ago would
+have done it, angsting about what it meant for *my* life; but I'd
+rounded a corner yesterday, and I wouldn't saddle him with that damning
+knowledge. I was only going to torpedo one future here. "No. It's a
+blacklist offense. You stay here and file a report that you disagreed
+with me."
+
+"It's only blacklist if it's an unfounded disobey. Section thirty-two
+point nine of the fourth Terraforming Convention: survey crew will not
+transport viable specimens from their planet of origin. I looked it up."
+
+"You looked that up?" I was moved. "When? Why?"
+
+"Yesterday when you were in with your mother. You were gone longer than
+usual. I figured you must have seen something new."
+
+I nodded. "She *is* viable, Mart. She's sprouting leaves. I can't
+believe you found a way to keep her here legally." It wasn't just my
+record he'd saved; I'd been pretty sure the *Ceiaides* would send
+someone to dig up my illegally planted mother as soon as we got back.
+"Unbelievable, Mart. You're brilliant."
+
+Mart wasn't sharing my relief; in fact, he looked pretty miserable for
+someone who had just kept the door to my newly bright future from
+swinging shut. Then it hit me.
+
+"Oh, Mart. It's okay. I'm strong enough to pull them outside by myself."
+
+He shook his head, looking queasy and even paler than usual. "It's not
+the physical weight you shouldn't bear alone. I'm going with you."
+
+"Thank you," I managed to say, just before I burst into tears and
+spilled my coffee all over the floor.
+
+------------------------------------------------------------------------
+
+[Mart and I]{.newthought} carried each body into the airlock; then he
+coached me through rigging two rollcrate trolleys together on the
+landing strip. He breathed heavily the whole time, and more than once I
+said I'd do the rest alone. He didn't listen to me.
+
+Then the moment of truth arrived. He pressed the release to open the
+outer door and stepped up to the edge. I held out a hand to him. We
+stood there in silence, side by side, close to the shuttle for several
+minutes, until he clicked on his com mike. "I'm okay."
+
+He sounded awful, somewhere between passing out and throwing up lunch.
+
+"Mart," I began. He walked over to the doubled-up trolley and pulled it
+toward the airlock in response.
+
+We brought my mother and Dr. Okara out one by one and lowered them onto
+the trolley. Then I led us toward the creek I'd seen before.
+
+This time I noticed what I had missed in my innocence four days earlier:
+very few fungi sprouted among the leaf litter; no moss covered the
+stones; only scant algae grew on the pebbles in the eddyless pockets of
+the brook. For every oak or maple we passed, there were a hundred birch
+trees. The youngest of them had oblong trunks woven of fused, ficus-like
+trunklets rising up. We saw countless apparent logs sprouting new growth
+along their lengths. At every one, I wondered *what were you before?*
+
+I pulled us to a halt at a wide bend in the creek. "I think this is a
+nice place."
+
+Mart nodded and gave me a bulky exoglove thumbs-up. His hand trembled.
+
+"Mart&mdash;"
+
+He shook his head.
+
+I loosened the dirt in a wide patch of creek bank, and we laid my mother
+and Dr. Okara out, careful to avoid crushing the new shoots. Fine roots
+were beginning to grow on the side of their bodies that had lain against
+the cabin bunks; these we patted gently into the loosened soil, working
+side by side on our knees in silence. Then Mart clicked on his mike and
+I heard him humming, off-key but recognizable. I stopped patting and
+looked at him.
+
+"I thought you might want to sing your father's songs to her. As a kind
+of ceremony."
+
+My throat closed up as I tried not to cry again.
+
+My first words came out as twisted croaks, but as I went on, my voice
+stabilized. Mart hummed beneath my words, something soft and tuneless
+and mostly in time with me. I sang song after song and lost count; the
+light dappling the forest had deepened toward sunset by the time I fell
+silent.
+
+By next year's survey to this location, my mother would be a young
+bonsai birch reaching toward the sky. I knew I would be on that survey
+ship; I would come and sing to her again, then and every year, until I
+died.
+
+Someday, a hundred years from now, Tau Ceti Three's first colonists
+might chop her down to build a home, or to burn a fire. My mother had
+never wanted to end up on a planet, but she would have been glad she was
+still useful, even in death.
+
+"It's ironic," I said through my tears. "I was the one who wanted to put
+down roots on a colony world."
+
+Mart turned toward me with a horrified look, doubly golden through our
+two visors. "It's okay," I said, half-laughing, half-crying. "It's a
+terrible joke in horrible taste. I know. But it's funny, isn't it?"
+
+He wrapped his arms tightly around me then, and I cried my heartbreak
+into the verdant woods.

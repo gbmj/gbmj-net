@@ -1,0 +1,278 @@
+---
+litesite: collection
+title: A Puddle of Dead
+date: 2011-01-01
+pub: Daily Science Fiction
+blurb: Fifteen years ago, Mia’s great love left her to chase a different high. She moved on with her life… until Henry shows up one night at her door.
+---
+# A Puddle of Dead
+
+### by Grayson Bray Morris
+
+Henry came back to me in 2048, fifteen years after he'd left.
+
+I was married by then, with two kids. I was happy. But when I opened the
+door and saw Henry standing there, my heart sang.
+
+He hadn't aged a day: still that same mouse-brown hair in lazy waves to
+his chin, that same trim body in jeans and a flannel shirt, the same
+warm, wintry scent that made me think of crackling fires and roasting
+nuts.
+
+"I spent everything I had to see you one last time," he said. Henry'd
+never had much, never cared to have much, but I heard the important
+thing: he'd spent it all on me.
+
+The kids were away and my husband was working late. I let Henry in and
+made him the best dinner I'd cooked in weeks. I chopped up the eggplant
+and the imported onions for Saturday's company and rolled out fresh
+lasagne. Henry stood beside me while I chopped and mixed, and it was
+like he'd never gone. We talked about old friends and favorite movies,
+bands we loved and writers we hated. After dinner we moved to the living
+room, and there on the couch I unbuttoned his flannel shirt. I don't
+know why it was so easy. I wasn't discontented; I loved my husband well
+enough. But loving Henry seemed right that night. It seemed inevitable.
+
+I ran my hands over his smooth, hairless chest, the skin still as soft
+and young as then.
+
+"I've gained fifteen pounds and a face full of crow's feet, but you
+haven't changed a bit," I said.
+
+He smiled, wrinkling the blue eyes I remembered, and put a hand on my
+cheek. "I stopped the drugs. I got clean. I wanted you to know."
+
+I kissed him then, and tasted the sweet tang of tomato and basil, the
+subtle bite of good Merlot, and a fine and heady flavor that still came
+to me sometimes in dreams.
+
+------------------------------------------------------------------------
+
+[Afterward, I leaned against him]{.newthought} and said, "You left me
+for the drugs. I never forgave you for that."
+
+"You forgave me tonight," he said, kissing my hair. "That's why I came."
+
+I pulled away to look at him. "After fifteen years, you wanted my
+forgiveness?"
+
+"I loved you, Mia, and I threw you away to chase chemical highs. I
+should have thrown away the drugs instead, and been the father of your
+children."
+
+I started to cry. There was nothing I had wanted more, fifteen years
+ago. But Henry had walked away.
+
+"You've ruined my life," I wailed at him. "I was doing okay, and now
+you've come back. What a mess."
+
+"No, Mia." He took my face in his hands. "I'm not back. One last time,
+remember? You'll never see me again after tonight."
+
+"What?" My chest hurt. "Henry Wilton, you can't do this to me again." I
+slapped his face and cried.
+
+"Remember me like this, Mia," he said, pulling on me until I gave in and
+leaned into him. "Remember that I love you more than life itself."
+
+------------------------------------------------------------------------
+
+[ After fifteen years, Henry had resurfaced,]{.newthought} and he still
+loved me. I couldn't let him go, of course.
+
+At nine o'clock he told me goodbye and walked back through my door. I
+watched him lope down the stairs with that easy gait of his, then out
+the building's entrance. I counted to six, and then I followed him.
+
+He led me south down Racline Avenue, past the neat brownstones and the
+office quarter, into the seedy part of town. Halfway down Patson I
+started getting catcalls and whistles, but Henry didn't turn to look.
+Why would he? There were hookers on every corner, dopers in every alley,
+sidewalk criers pimping *the city's cleanest sex-vid suites* and
+sense-holos that were *better than the real thing!*
+
+Henry ducked into a darkened side street and I almost lost him; the weak
+light from an opening door found him for me again. I followed him up the
+greasy stairs, staying one flight behind, glad for the arguments behind
+thin walls that muffled my steps. He knocked on a door on the third
+floor; it cracked, then opened to swallow him whole.
+
+What had I been thinking, following Henry into Sin City? He hadn't quit
+at all. No, coming here, to a dump like this, he had to still be using.
+I'd followed a lie.
+
+But I was here now.
+
+I left the stairwell and knocked on the door. A pair of dark eyes
+squinted at me through the crack. "Yeah?"
+
+"I'm here for Henry."
+
+"Don't know no Henry."
+
+*Yeah, right.* "The guy that just walked in here. I'm his skin." I'd
+learned the jargon fifteen years ago; I hoped it hadn't changed.
+
+The door swung open and a short, fat man let me in without a word. I
+followed him to the back.
+
+I sat on a filthy, sagging couch without cushions that smelled of
+perfume and vomit, beside an emaciated girl with wide, empty eyes. There
+were three or four more like her, scabby skin flaking and dessicated
+hair falling out in patches. The fat man said "him" and pointed at a
+chair in the corner, and I saw the fifth one. He was too far gone to
+walk, nothing but a bag of bones, with gaping sores where the bugs that
+make the dope had finally eaten their way to the outside. Two boys came
+in and picked the doper up, then carried him down the hall.
+
+"That far gone, and still using," I whispered, aghast.
+
+"He ain't using no more," the girl beside me said. She laughed, as if it
+were the funniest thing. "He here to pay his last respects."
+
+------------------------------------------------------------------------
+
+["You." The fat man was back,]{.newthought} pointing at me. "Get up."
+
+The fat man led me through a bookcase, down four flights of stairs,
+through a triple-padlocked door and down another hall into a
+surprisingly clean room, jolting my understanding of where I was. As
+soon as the door closed behind us, his demeanor changed.
+
+"Do you know where you are, ma'am?" he asked me.
+
+I shook my head, thoroughly confused.
+
+"I didn't think so. 'Skin' fell out of fashion ten years ago, before our
+work existed." He smiled at me. "You're in a wish house. What we do
+isn't legal, but we feel a moral obligation to serve those in need."
+
+"You help dopers die," I said, thinking I understood.
+
+The fat man shook his head. "No, ma'am. They're already dying. We help
+them use the time they have left for that one last, most important
+thing."
+
+The double import of his words sliced into me, and I started to cry. "I
+don't understand. I just saw him an hour ago. He was in perfect health.
+He can't be dying."
+
+"Your Henry still has a little energy left," he said softly. "Enough for
+one last glimpse. Come with me."
+
+------------------------------------------------------------------------
+
+[ Henry lay on a molded table,]{.newthought} completely encased in a
+bulky white suit hooked up to a ceramic box, invisible behind the opaque
+visor of his flat-fronted helmet, like a space miner or a virtuvid
+gamer.
+
+Or a gravewalker.
+
+"I thought those were forbidden technology," I said.
+
+"They are," the fat man replied. Then he closed the door and left us
+alone.
+
+------------------------------------------------------------------------
+
+[ Several years back,]{.newthought} some government scientist figured
+out how to extract energy from dead things. The discovery was hailed as
+the solution to Earth's energy crisis: suck the remaining life out of
+banana peels, dead rats, anything that had once lived. It didn't solve
+all our energy problems, but it did halve them, and the government
+scientist won a Nobel prize.
+
+Then another government scientist figured out how to channel the energy
+back into physical form. Not just any form; for reasons too complicated
+for me to understand, the energy from a dead banana would only make
+another banana without requiring thousands of times the juice. But the
+banana it made was young and firm: it would seem the banana had been
+reborn. The rematter cage, and the men who created it, made the cover of
+*Global News Weekly*. It had been massive news.
+
+It didn't take long for someone&mdash;someone not on the government
+payroll&mdash;to try it on dead bodies.
+
+There was a catch, of course. It was all so terribly inefficient. Only a
+fraction of the energy in a thing could be extracted; only a fraction of
+that could be converted back to substance. So the reborn banana was
+lovely, but it was ephemeral: it lasted a matter of minutes, maybe an
+hour. Then it flickered, thinned, and evaporated, leaving nothing the
+scientists could measure in its wake.
+
+As a way to cheat death, then, the technology was a failure.
+
+But the terminally ill, people in chronic pain, people locked in bodies
+that had failed them, they all flocked to the idea: take the energy from
+their traitorous bodies and create a new one. Better a few hours lived
+well than years hobbling forth in misery. Alas, choosing the time and
+manner of one's death is as illegal today as it has always been. The
+government banned the gravewalker suits and executed the men who'd
+created them for habitually aiding and abetting suicide. Ironic, isn't
+it?
+
+That made the cover of *Global News Weekly*, too.
+
+------------------------------------------------------------------------
+
+["Henry?" I said.]{.newthought} Then louder: "Henry?"
+
+Metal scraped the tile floor behind me and I turned. Young, perfect
+Henry stood up from a stool behind the door. He had a photo vault in his
+hands, its thin display pages sprawled open like an old-fashioned book.
+
+"Why didn't you come to me for real?" I wailed. "We could have had years
+together."
+
+He shook his head. "I fucked up my life, Mia. There was no other way
+back to you."
+
+"You never stopped using, did you?" I wasn't accusing him. I understood
+why he'd lied to me. "That's why you never came for me."
+
+"I quit years ago. After I got clean, I went looking for you." He closed
+his eyes. "Someone else was the father of your kids, and you seemed
+happy. So I started over without you, but there was no life for me
+without you. Not clean." His mouth trembled. "So I started using again."
+
+"Oh, god, Henry," I whispered. "I would have left him for you in a
+heartbeat."
+
+He put his face in his hands and wept. I wept with him.
+
+"Well, we're here now," I finally croaked. He lifted his face, and I
+pulled him to me. "Spend the rest of your life with me, Henry Wilton.
+Till death do us part."
+
+We kissed urgently, greedily, until his lips no longer pressed into mine
+but only brushed them; then they were gone, and I was left kissing air
+beside a puddle of dead in a gravewalker suit.
+
+------------------------------------------------------------------------
+
+[My husband called me out on the photograph]{.newthought} when he got
+home after midnight. "What's this supposed to mean?" he said, his voice
+equal parts worry and anger. "Why is your old boyfriend's picture on the
+mantel?"
+
+"In memoriam," I called from the bedroom. "I found out Henry died
+today."
+
+"Huh," my husband grunted, unbuckling his pants as he came into the
+room. "Well, that's a shame, honey. I know he meant a lot to you once.
+Awful young to die."
+
+"Yes," I said.
+
+"Do you want to go to the funeral?" he asked, suddenly magnanimous. "We
+can get a sitter for the kids."
+
+"No." I shook my head. "I don't need to see the body. I've already said
+my own private goodbye."
+
+My husband nodded and climbed into bed. "I'm sure he heard you, sweetie,
+wherever he is now."
+
+"Yes." I laid my hand on his and gave him a little squeeze. "I know he
+did."
