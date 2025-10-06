@@ -178,10 +178,7 @@ body > footer {
     margin-top: 4rem;
 }
 
-/* style the mirrored elements in header, footer from top to bottom */
-body > header > nav.back-to-main { /* back to main site link */
-    margin-bottom: 1rem;
-}
+/* style the mirrored elements in header, footer */
 body > header > p { /* name of site */
 	font-size: 0.9rem; 
 	color: var(--subduedcolor);
@@ -192,6 +189,9 @@ body > header > nav { /* nav links */
 	font-size: 0.8rem;
 	color: var(--subduedcolor);
 	margin: 0 0 0.7rem 0;
+}
+body > header > nav.back-to-main { /* back to main site link */
+    margin-bottom: 1rem;
 }
 /* footer version */
 body > footer > p { /* copyright text, link to license */
