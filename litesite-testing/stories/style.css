@@ -182,7 +182,7 @@ body > header > p { /* name of site */
     border-bottom: 1px solid var(--subduedcolor);
     margin-bottom: 0.2rem;  
 }
-body > header > nav > p { /* nav links */
+body > header > nav { /* nav links */
 	font-size: 0.8rem;
 	color: var(--subduedcolor);
 	margin: 0 0 0.7rem 0;
