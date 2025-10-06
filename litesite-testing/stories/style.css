@@ -223,6 +223,9 @@ body > footer {
     border-top: 1px solid var(--subduedcolor);
     margin-top: 4rem;
 }
+body > footer > nav.back-to-main { /* back to main site link */
+    margin-top: 1rem;
+}
 /* --- end of page header / footer styling --- */
 
 
