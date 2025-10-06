@@ -32,7 +32,6 @@ html {
 	font-family: var(--sans-serif-font-stack);
 	background: var(--backgroundcolor);
     max-width: 70ch;
-	font-size: 100%; /* default setting: 1rem = 16px */
     padding: 1em;
     margin: auto;
     line-height: 1.75;
