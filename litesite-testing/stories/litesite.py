@@ -45,8 +45,9 @@ a TOC at this location.
 
 How to Use:
     Copy litesite.py into the local folder of the site you want to build.
-    Customize the USER SETTINGS section, then run the script. Upload the
-    resulting files to your web hosting.
+    Customize the USER SETTINGS section. Change the first line in the file
+    appropriately, then run the script. Upload the resulting files to your 
+    web hosting.
 
 Requirements:
     - Python 3.13.7 or later, plus all modules in the `import` section.
