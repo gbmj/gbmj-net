@@ -200,7 +200,7 @@ body > footer > p { /* copyright text, link to license */
 	color: var(--subduedcolor);
     padding-top: 0.2rem; /* to match spacing from line with header spacing */
     margin-top: 0;
-    margin-bottom: 0.5rem;  /* spacing to element below */
+    margin-bottom: 0.2rem;  /* spacing to element below */
 }
 body > footer > nav { /* nav links */
 	font-size: 0.8rem;
