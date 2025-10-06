@@ -140,6 +140,9 @@ aside {
 
 /* ---- END GENERAL STYLING ---- */
 /* ---- SPECIFIC OVERRIDES ---- */
+section.toc h1 {
+    font-size: 2rem;
+}
 section.toc dl > dt > a { /* ToC story names */
     font-size: 1.2rem;
 }
