@@ -173,8 +173,15 @@ body > header {
     text-align: center;
 	margin-bottom: 4rem; /* same spacing as above the footer, see below */
 }
+body > footer {
+	text-align: center;
+    margin-top: 4rem;
+}
 
-/* style the site name and navigation links */
+/* style the mirrored elements in header, footer from top to bottom */
+body > header > nav.back-to-main { /* back to main site link */
+    margin-bottom: 1rem;
+}
 body > header > p { /* name of site */
 	font-size: 0.9rem; 
 	color: var(--subduedcolor);
@@ -186,9 +193,23 @@ body > header > nav { /* nav links */
 	color: var(--subduedcolor);
 	margin: 0 0 0.7rem 0;
 }
-body > header > nav.back-to-main { /* back to main site link */
-    margin-bottom: 1rem;
+/* footer version */
+body > footer > p { /* copyright text, link to license */
+	font-size: 0.8rem; /* note, smaller than site name in header */
+	color: var(--subduedcolor);
+    border-top: 1px solid var(--subduedcolor);
+    padding-top: 0.7rem; /* to match spacing from line with header spacing */
+    margin-bottom: 0.2rem;  /* spacing to nav element below */
 }
+body > footer > nav { /* nav links */
+	font-size: 0.8rem;
+	color: var(--subduedcolor);
+/*	margin: 0.7rem 0 0 0; */
+}
+body > footer > nav.back-to-main { /* back to main site link */
+    margin-top: 1rem;
+}
+
 
 /* some pages have a top quotation; style this */
 body > header > figure {
@@ -214,17 +235,6 @@ body > header > figure > blockquote + figcaption {
     margin-top: 0;
 }
 
-/* every page includes the copyright, links to privacy and license, etc; style this */
-body > footer {
-	text-align: center;
-	font-size: 0.8rem;
-	color: var(--subduedcolor);
-    border-top: 1px solid var(--subduedcolor);
-    margin-top: 4rem;
-}
-body > footer > nav.back-to-main { /* back to main site link */
-    margin-top: 1rem;
-}
 /* --- end of page header / footer styling --- */
 
 
