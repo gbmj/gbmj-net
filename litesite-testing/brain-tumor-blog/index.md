@@ -50,21 +50,21 @@ Meghan received targeted radiation to the top right tumor site for five days, th
 - Meghan’s short-term memory started to worsen; she would forget recent visitors, what she last ate. (Radiation / tumor)
 - Meghan stopped having periods during treatment as a result of the assault on her bone marrow. (Radiation / chemotherapy)
 
-### From the blog {.diary}
-~~~~~ {.diary}
-23 NOVEMBER 2006
-Her memory is slightly worse; she doesn't remember things people have already told her or her radiation session yesterday. She's having occasional trouble finding her words, which frightens her. She couldn't remember how to spell *excited* and *exhausted* when texting a friend. She's noticed changes in her breathing.
-
-None of this is a surprise; she is seven weeks into this -- eleven if you count the month before she had her first MRI, when we thought she'd just pulled a knee ligament -- and she's had no tumor-specific treatment before Tuesday. Those are alarming numbers if she has gliomatosis cerebri: without therapy, patients with glioblastomas uniformly die within 3 months.
-
-I can't find statistics for how alarming they are if she has s-PNET.
-
-She’s had two blood transfusions in the past week for her very low red blood cell count. They’ve given her more energy. She’s lost weight; I can feel sharp hipbones under her pants. Anorexia has kicked in as promised: she hasn’t eaten in four days. We worked very hard to get seven peas, two bites of chicken, two bites of stewed apple, and one bite of rice into her over the course of the day.
-
-Her memory was shockingly bad today. We’ve noticed lapses in her short-term recall, and she’s talked about it some herself. But today was worse than we’d seen before.
-
-She got a DuoDerm patch at the base of her spine, to protect the skin there. It’s starting to get red from all the friction of moving around in bed. Her back is peeling like a hefty sunburn; her scalp is mostly peeled out.
-~~~~~
+<aside class=".cancer-diary">
+### From the blog 
+> 23 NOVEMBER 2006
+>Her memory is slightly worse; she doesn't remember things people have already told her or her radiation session yesterday. She's having occasional trouble finding her words, which frightens her. She couldn't remember how to spell *excited* and *exhausted* when texting a friend. She's noticed changes in her breathing.
+>
+>None of this is a surprise; she is seven weeks into this -- eleven if you count the month before she had her first MRI, when we thought she'd just pulled a knee ligament -- and she's had no tumor-specific treatment before Tuesday. Those are alarming numbers if she has gliomatosis cerebri: without therapy, patients with glioblastomas uniformly die within 3 months.
+>
+>I can't find statistics for how alarming they are if she has s-PNET.
+>
+>She’s had two blood transfusions in the past week for her very low red blood cell count. They’ve given her more energy. She’s lost weight; I can feel sharp hipbones under her pants. Anorexia has kicked in as promised: she hasn’t eaten in four days. We worked very hard to get seven peas, two bites of chicken, two bites of stewed apple, and one bite of rice into her over the course of the day.
+>
+>Her memory was shockingly bad today. We’ve noticed lapses in her short-term recall, and she’s talked about it some herself. But today was worse than we’d seen before.
+>
+>She got a DuoDerm patch at the base of her spine, to protect the skin there. It’s starting to get red from all the friction of moving around in bed. Her back is peeling like a hefty sunburn; her scalp is mostly peeled out.
+</aside>
 
 ## Treatment ends
 ### January 5, 2007

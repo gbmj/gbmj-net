@@ -149,13 +149,23 @@ section.toc dl > dt {
     margin-top: 2rem;
 }
 
-span.newthought { /* for text starting a new section in-story */
-    font-variant: small-caps;
-    font-size: 1.2em;
-}
+/* for asides on eg story backstory pages, brain tumor blog diary quotes */
 h4:has(+ blockquote) { /* for the header right before a quote */
     margin-top: 3rem;
     margin-bottom: 0.2rem;
+}
+
+/* specific to /brain-tumor-blog/ */
+aside.cancer-diary {
+    background: var(--prebackgroundcolor);
+    margin-bottom: 3rem;
+    padding-bottom: 1rem;
+}
+
+/* specific to /stories/ */
+span.newthought { /* for text starting a new section in-story */
+    font-variant: small-caps;
+    font-size: 1.2em;
 }
 /* for the stage directions in Liz Builds a Robot */
 pre.liz, pre.liz > code {
