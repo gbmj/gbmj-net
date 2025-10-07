@@ -11,7 +11,8 @@ pub: Galaxy's Edge Magazine
 
 ~~~~~ {.liz}
 ===
-video opens on smiling woman
+video opens
+on smiling woman
 ===
 ~~~~~
 
@@ -21,7 +22,8 @@ definitely the most ambitious robot I've made yet. Viewers, meet OrgBa.
 
 ~~~~~ {.liz}
 ===
-video pans right
+video pans
+right
 ===
 ~~~~~
 
@@ -35,7 +37,8 @@ OrgBa's working really well. She's already alphabetized my books
 
 ~~~~~ {.liz}
 ===
-pans across bookcase
+pans across
+bookcase
 ===
 ~~~~~
 
@@ -45,11 +48,14 @@ and organized my dishes.
 ===
 pans left
 ===
-hand appears in frame, 
-opens cabinet
+hand appears in 
+frame, opens
+cabinet
 ===
-pans over neat rows of glasses, 
-then up to neatly stacked plates
+pans over neat rows
+of glasses, then up
+to neatly stacked
+plates
 ===
 ~~~~~
 
@@ -65,7 +71,8 @@ for now!
 
 ~~~~~ {.liz}
 ===
-video opens on smiling woman
+video opens
+on smiling woman
 ===
 ~~~~~
 
@@ -75,7 +82,8 @@ strategies.
 
 ~~~~~ {.liz}
 ===
-pans across bookshelf
+pans across
+bookshelf
 ===
 ~~~~~
 
@@ -102,7 +110,8 @@ guys.
 
 ~~~~~ {.liz}
 ===
-video opens on smiling woman
+video opens
+on smiling woman
 ===
 ~~~~~
 
@@ -114,11 +123,15 @@ today. So you're probably thinking, hey Liz, why are you standing
 ===
 pans to door
 ===
-hand appears, turns doorknob
+hand appears,
+turns doorknob
 ===
-thwacking sound as door stops halfway
+thwacking sound
+as door stops
+halfway
 ===
-advances two feet into apartment
+advances two feet
+into apartment
 ===
 pans across room
 ===
@@ -128,7 +141,8 @@ As you can see, OrgBa's making rainbows.
 
 ~~~~~ {.liz}
 ===
-pans all the way left, zooms
+pans all the way
+left, zooms
 ===
 ~~~~~
 
@@ -167,7 +181,8 @@ while we're learning a new skill, right? She'll work out the kinks.
 
 ~~~~~ {.liz}
 ===
-video opens on smiling woman
+video opens
+on smiling woman
 ===
 ~~~~~
 
@@ -179,7 +194,8 @@ OrgBa's done today.
 ===
 pans to door
 ===
-hand appears, turns doorknob
+hand appears,
+turns doorknob
 ===
 door opens
 ===
@@ -190,7 +206,8 @@ OrgBa's over the hump! I can't wait to see what she's done.
 
 ~~~~~ {.liz}
 ===
-advances into apartment
+advances into
+apartment
 ===
 pans across room
 ===
@@ -201,7 +218,8 @@ didn't think I had this much yarn, it's not like I...
 
 ~~~~~ {.liz}
 ===
-whips chaotically back and forth
+whips chaotically
+back and forth
 ===
 ~~~~~
 
@@ -213,9 +231,11 @@ zooms in on sofa
 ===
 lurches toward sofa
 ===
-hand appears, picks up fistful of 
-color-coded strands, further 
-sorted by length
+hand appears,
+picks up fistful of
+color-coded strands,
+further sorted
+by length
 ===
 ~~~~~
 
@@ -225,7 +245,8 @@ Is that my grandmother's heirloom braided rug?!?
 ===
 image blurs
 ===
-comes to rest sideways 
+comes to rest
+sideways
 at ground level
 ===
 ~~~~~
@@ -236,7 +257,8 @@ OrgBa! Oh, honey, what have you done?!?
 
 ~~~~~ {.liz}
 ===
-video opens on smiling woman
+video opens
+on smiling woman
 ===
 ~~~~~
 
@@ -246,8 +268,10 @@ Well, as you can see, everything's back to normal.
 
 ~~~~~ {.liz}
 ===
-pans across moderately disheveled 
-but otherwise ordinary room
+pans across
+moderately disheveled
+but otherwise ordinary
+room
 ===
 ~~~~~
 
@@ -260,8 +284,9 @@ more yarn.
 ===
 turns 180 degrees
 ===
-pans across ceiling-high stack 
-of woven rugs and blankets
+pans across
+ceiling-high stack of
+woven rugs and blankets
 ===
 ~~~~~
 
@@ -274,10 +299,13 @@ then Rothko and Pollock. And now she's making her own designs!
 
 ~~~~~ {.liz}
 ===
-pans across half-finished blanket
+pans across
+half-finished blanket
 ===
-zooms in on extensible robotic arm
-as it weaves faster than the eye 
+zooms in on
+extensible robotic arm
+as it weaves
+faster than the eye
 can follow
 ===
 ~~~~~
