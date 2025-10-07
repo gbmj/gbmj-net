@@ -25,7 +25,7 @@ Meghan’s pathologist identified the tumor tissue as very aggressively malignan
 Three weeks after the biopsy, we finally had a diagnosis (PNET) and a treatment plan.
 
 <aside class=".cancer-diary">
-#### From the blog 
+#### From the blog:
 >7 NOVEMBER 2006
 >
 >My eldest child has a brain tumor. In fact, she has several probably cancerous areas spread throughout her brain: one very large ball in the right hemisphere, and smeary areas elsewhere. We don't yet know exactly what she has, and making a diagnosis has turned out to be hard. Her neurologist describes her situation as "atypical, unusual, and baffling."
@@ -56,8 +56,9 @@ Meghan received targeted radiation to the top right tumor site for five days, th
 - Meghan stopped having periods during treatment as a result of the assault on her bone marrow. (Radiation / chemotherapy)
 
 <aside class=".cancer-diary">
-#### From the blog 
+#### From the blog:
 > 23 NOVEMBER 2006
+> 
 >Her memory is slightly worse; she doesn't remember things people have already told her or her radiation session yesterday. She's having occasional trouble finding her words, which frightens her. She couldn't remember how to spell *excited* and *exhausted* when texting a friend. She's noticed changes in her breathing.
 >
 >None of this is a surprise; she is seven weeks into this -- eleven if you count the month before she had her first MRI, when we thought she'd just pulled a knee ligament -- and she's had no tumor-specific treatment before Tuesday. Those are alarming numbers if she has gliomatosis cerebri: without therapy, patients with glioblastomas uniformly die within 3 months.
