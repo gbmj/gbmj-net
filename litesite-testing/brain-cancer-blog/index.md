@@ -3,11 +3,9 @@ litesite: standalone
 title: The Brain Cancer Blog
 ---
 # My eldest child has a brain tumor.
-Those were the first words of my second-ever blog post back in 2006. I'd started the blog as a place to store ideas and random musings, but it soon became The Cancer Blog, read by friends and family and very many strangers around the globe.
+Those were the first words of my second-ever blog post back in 2006. I'd started the blog as a place to store ideas and random musings, but it soon became The Cancer Blog, read by friends and family and very many strangers around the globe. 
 
-Despite radiation and chemotherapy our daughter's cancer kept growing. She died five weeks after she turned 16, thirteen months after her initial diagnosis.
-
-In time the blog seemed too intimate to keep online. But I wanted a way to share Meghan's story with others seeking the kind of personal, blow-by-blow information I had found so useful while we were in the thick of things. So I distilled the essence of Meghan's journey to create this website. I hope it helps you feel a little less alone during a very difficult time.
+Our daughter lost her battle with brain cancer, and in time the blog seemed too intimate to keep online. But I wanted a way to share Meghan's story with others seeking the kind of personal, blow-by-blow information I had found so useful while we were in the thick of things. So I distilled the essence of Meghan's journey to create this website. I hope it helps you feel a little less alone during a very difficult time.
 
 ## The first signs of trouble
 ### September 2006
