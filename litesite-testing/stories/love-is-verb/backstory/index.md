@@ -29,3 +29,10 @@ happened, and happened to me:
 That murky process that roils and writhes deep in the writing heart spit
 them all up together one weekend. And when&mdash;almost two years
 later&mdash;the dust had settled, I saw why. And I finally had my title.
+
+### [From The Brain Tumor Blog](DOMAIN_URL_PHbrain-tumor-blog/)
+~~~~~
+I mistakenly dumped my daughter's underwear into the hospital laundry. I asked Kim what would happen to it; she said it was gone forever: the laundry is contracted out and goes to hospitals all over the country. She said they once lost a ten-thousand dollar heart monitor that way. Ah, well, I said, no biggie; we can get more.
+
+An hour later, I opened a drawer in my daughter's room and found a bag containing the wayward underwear. Kim had gone investigating; the dirty laundry was still around, and she fished through it all to find them.
+~~~~~
