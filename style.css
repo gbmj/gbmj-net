@@ -111,6 +111,7 @@ h1 + h3 { /* /stories/ titles + author */
     margin-bottom: 3rem;
 }
 h2 { /* mainly for /brain-cancer-blog/ section titles */
+    margin-top: 2rem;
     margin-bottom: 0.5rem;
 }
 h2 + h3 { /* /brain-cancer-blog/ sections + date */
@@ -133,11 +134,12 @@ hr:after {
     top: -0.8rem; /* to vertically center it; depends also on <p> margins/padding */
 }
 
-aside {
+aside { /* for quotes from the blog */
     border-top: 1px dotted var(--main-txt-color);
     border-bottom: 1px dotted var(--main-txt-color);
+    background: var(--prebackgroundcolor);
     margin: 3rem 0;
-    padding: 3rem 0;
+    padding: 2rem 0;
     text-align: center;
     font-style: italic;
     font-size: 0.9rem;
@@ -157,15 +159,6 @@ section.toc dl > dt > a { /* ToC story names */
 }
 section.toc dl > dt {
     margin-top: 2rem;
-}
-
-/* specific to /brain-tumor-blog/ */
-aside.cancer-diary {
-    border-bottom: 1px dotted var(--main-txt-color);
-    background: var(--prebackgroundcolor);
-    padding-top: 1rem;
-    margin-bottom: 3rem;
-    padding-bottom: 1rem;
 }
 
 /* specific to /stories/ */
