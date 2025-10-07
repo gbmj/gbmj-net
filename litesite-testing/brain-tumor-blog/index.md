@@ -22,17 +22,20 @@ After two weeks on the rehab floor, Meghan wasn’t improving. Her doctors order
 Meghan’s pathologist identified the tumor tissue as very aggressively malignant (stage IV), but he wasn’t able to determine precisely what kind of tumor she had. In the end three different pathologists around the world took a shot at Meghan’s tumor; none could positively identify it. It contained characteristics of both a glioblastoma multiforme (GBM) and a supratentorial PNET.
 Three weeks after the biopsy, we finally had a diagnosis (PNET) and a treatment plan.
 
-### From the blog {.diary}
-~~~~~ {.diary}
-7 NOVEMBER 2006
-My eldest child has a brain tumor. In fact, she has several probably cancerous areas spread throughout her brain: one very large ball in the right hemisphere, and smeary areas elsewhere. We don't yet know exactly what she has, and making a diagnosis has turned out to be hard. Her neurologist describes her situation as "atypical, unusual, and baffling."
-
-17 NOVEMBER 2006
-Though a definite diagnosis has eluded us, one thing is certain: my fifteen-year-old daughter has aggressive primary malignant brain tumors. The pathologist at Johns Hopkins grades them as 4+ on a 1-4 severity scale. They are not PNETs or germ cell tumors. The doctors feel they are probably gliomas of some kind. 
-
-18 NOVEMBER 2006
-The written report from Johns Hopkins arrived yesterday. My daughter's tumors have the radiologic signature of gliomatosis cerebri, but Johns Hopkins felt it could also be supratentorial PNET. The good news is that some people do survive s-PNET. Pretty much no one survives gliomatosis cerebri.
-~~~~~
+<aside class=".cancer-diary">
+#### From the blog 
+>7 NOVEMBER 2006
+>
+>My eldest child has a brain tumor. In fact, she has several probably cancerous areas spread throughout her brain: one very large ball in the right hemisphere, and smeary areas elsewhere. We don't yet know exactly what she has, and making a diagnosis has turned out to be hard. Her neurologist describes her situation as "atypical, unusual, and baffling."
+>
+>17 NOVEMBER 2006
+>
+>Though a definite diagnosis has eluded us, one thing is certain: my fifteen-year-old daughter has aggressive primary malignant brain tumors. The pathologist at Johns Hopkins grades them as 4+ on a 1-4 severity scale. They are not PNETs or germ cell tumors. The doctors feel they are probably gliomas of some kind. 
+>
+>18 NOVEMBER 2006
+>
+>The written report from Johns Hopkins arrived yesterday. My daughter's tumors have the radiologic signature of gliomatosis cerebri, but Johns Hopkins felt it could also be supratentorial PNET. The good news is that some people do survive s-PNET. Pretty much no one survives gliomatosis cerebri.
+</aside>>
 
 ## Radiation and chemotherapy begin
 ### November 2006
@@ -51,7 +54,7 @@ Meghan received targeted radiation to the top right tumor site for five days, th
 - Meghan stopped having periods during treatment as a result of the assault on her bone marrow. (Radiation / chemotherapy)
 
 <aside class=".cancer-diary">
-### From the blog 
+#### From the blog 
 > 23 NOVEMBER 2006
 >Her memory is slightly worse; she doesn't remember things people have already told her or her radiation session yesterday. She's having occasional trouble finding her words, which frightens her. She couldn't remember how to spell *excited* and *exhausted* when texting a friend. She's noticed changes in her breathing.
 >

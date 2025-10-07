@@ -136,6 +136,10 @@ aside {
     font-style: italic;
     font-size: 0.9rem;
 }
+aside:has(> h4 > blockquote) {
+    font-style: normal;
+    text-align: left;
+}
 
 /* ---- END GENERAL STYLING ---- */
 /* ---- SPECIFIC OVERRIDES ---- */
@@ -147,12 +151,6 @@ section.toc dl > dt > a { /* ToC story names */
 }
 section.toc dl > dt {
     margin-top: 2rem;
-}
-
-/* for asides on eg story backstory pages, brain tumor blog diary quotes */
-h4:has(+ blockquote) { /* for the header right before a quote */
-    margin-top: 3rem;
-    margin-bottom: 0.2rem;
 }
 
 /* specific to /brain-tumor-blog/ */
@@ -177,7 +175,6 @@ pre.liz, pre.liz > code {
     margin-top: 0.4em; 
     margin-bottom: 0.4em;
 }
-
 /* style the very top and very bottom of the page content, 
    ie, the page header and footer sections. Note this
    leaves possible headers and footers in other sections
