@@ -30,7 +30,7 @@ That murky process that roils and writhes deep in the writing heart spit
 them all up together one weekend. And when&mdash;almost two years
 later&mdash;the dust had settled, I saw why. And I finally had my title.
 
-### [From The Brain Tumor Blog](DOMAIN_URL_PHbrain-tumor-blog/)
+### [From The Brain Tumor Blog](DOMAIN_URL_PHbrain-tumor-blog/) {.pre-heading}
 ~~~~~
 I mistakenly dumped my daughter's underwear into the hospital laundry. 
 I asked Kim what would happen to it; she said it was gone forever: the 
