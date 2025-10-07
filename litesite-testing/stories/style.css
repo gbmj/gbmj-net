@@ -153,7 +153,7 @@ span.newthought { /* for text starting a new section in-story */
     font-variant: small-caps;
     font-size: 1.2em;
 }
-h4 + blockquote { /* for the header right before a quote */
+h4:has(+ blockquote) { /* for the header right before a quote */
     margin-top: 3rem;
     margin-bottom: 0.2rem;
 }
