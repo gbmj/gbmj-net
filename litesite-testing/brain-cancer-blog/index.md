@@ -1,3 +1,7 @@
+---
+litesite: standalone
+title: The Brain Cancer Blog
+---
 # My eldest child has a brain tumor.
 Those were the first words of my second-ever blog post back in 2006. I'd started the blog as a place to store ideas and random musings, but it soon became The Cancer Blog, read by friends and family and very many strangers around the globe.
 
@@ -35,7 +39,7 @@ Three weeks after the biopsy, we finally had a diagnosis (PNET) and a treatment 
 >18 NOVEMBER 2006
 >
 >The written report from Johns Hopkins arrived yesterday. My daughter's tumors have the radiologic signature of gliomatosis cerebri, but Johns Hopkins felt it could also be supratentorial PNET. The good news is that some people do survive s-PNET. Pretty much no one survives gliomatosis cerebri.
-</aside>>
+</aside>
 
 ## Radiation and chemotherapy begin
 ### November 2006

@@ -131,13 +131,12 @@ hr:after {
 aside {
     border-top: 1px dotted var(--main-txt-color);
     margin-top: 3rem;
-    padding-top: 1rem;
+    padding-top: 3rem;
     text-align: center;
     font-style: italic;
     font-size: 0.9rem;
 }
 aside:has(h4 + blockquote) {
-    padding-top: 3rem;
     font-style: normal;
     text-align: left;
 }
