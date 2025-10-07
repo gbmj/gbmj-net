@@ -45,9 +45,11 @@ and organized my dishes.
 ===
 pans left
 ===
-hand appears in frame, opens cabinet
+hand appears in frame, 
+opens cabinet
 ===
-pans over neat rows of glasses, then up to neatly stacked plates
+pans over neat rows of glasses, 
+then up to neatly stacked plates
 ===
 ~~~~~
 
@@ -211,8 +213,9 @@ zooms in on sofa
 ===
 lurches toward sofa
 ===
-hand appears, picks up fistful of color-coded strands, further sorted by
-length
+hand appears, picks up fistful of 
+color-coded strands, further 
+sorted by length
 ===
 ~~~~~
 
@@ -222,7 +225,8 @@ Is that my grandmother's heirloom braided rug?!?
 ===
 image blurs
 ===
-comes to rest sideways at ground level
+comes to rest sideways 
+at ground level
 ===
 ~~~~~
 
@@ -242,7 +246,8 @@ Well, as you can see, everything's back to normal.
 
 ~~~~~ {.liz}
 ===
-pans across moderately disheveled but otherwise ordinary room
+pans across moderately disheveled 
+but otherwise ordinary room
 ===
 ~~~~~
 
@@ -255,7 +260,8 @@ more yarn.
 ===
 turns 180 degrees
 ===
-pans across ceiling-high stack of woven rugs and blankets
+pans across ceiling-high stack 
+of woven rugs and blankets
 ===
 ~~~~~
 
@@ -270,8 +276,9 @@ then Rothko and Pollock. And now she's making her own designs!
 ===
 pans across half-finished blanket
 ===
-zooms in on extensible robotic arm as it weaves faster than the eye can
-follow
+zooms in on extensible robotic arm
+as it weaves faster than the eye 
+can follow
 ===
 ~~~~~
 
