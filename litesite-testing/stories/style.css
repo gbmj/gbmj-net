@@ -137,6 +137,7 @@ aside {
     font-size: 0.9rem;
 }
 aside:has(> h4 > blockquote) {
+    padding-top: 3rem;
     font-style: normal;
     text-align: left;
 }
