@@ -100,4 +100,6 @@ the Texaco, armed with a giant bag of Doritos and two sixteen-ounce
 Cokes. Kate silently wishes them well and pulls out onto I-80 East,
 toward the rising sun and her grieving baby sister.
 
+<aside>
 [Read this story\'s backstory](backstory/).
+</aside>
