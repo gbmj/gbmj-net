@@ -169,7 +169,7 @@ section.toc h1 + h3 { /* see above, override page title + author styling */
     font-style: normal;
     color: var(--main-txt-color);
     margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.3rem;
 }
 section.toc h2 + h3 { /* see above, override cancer blog entry title + date styling */
     font-style: normal;
@@ -178,7 +178,7 @@ section.toc h2 + h3 { /* see above, override cancer blog entry title + date styl
 }
 section.toc h3 { /* ToC story names, cancer blog page names */
     font-size: 1.2rem; /* smaller in section, article, aside, nav elts; compensate */
-    margin: 0;
+    margin: 0.3rem;
 }
 section.toc p {
     margin-top: 0.3rem;
