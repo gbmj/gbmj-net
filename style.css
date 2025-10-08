@@ -167,6 +167,9 @@ section.toc dl > dt > a { /* ToC story names */
 section.toc dl > dt {
     margin-top: 2rem;
 }
+section.toc.noblurb dl > dt {
+    margin-top: 0.5rem;
+}
 
 /* specific to /stories/ */
 span.newthought { /* for text starting a new section in-story */

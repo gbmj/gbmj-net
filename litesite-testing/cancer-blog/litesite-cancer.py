@@ -198,6 +198,7 @@ SORTKEY = 1  # 0 = title, 1 = date, anything else = don't sort
 SORT_REVERSED = False
 TOC_TITLE = 'Table of Contents'
 TOC_CLASS_NAME = 'toc'  # for css styling
+TOC_NOBLURB_CLASS = 'noblurb'  # class added on if PRINT_BLURBS = False
 TOC_PRINT_YEAR_HEADINGS = False
 TOC_PRINT_BLURBS = True
 PREV_ANCHOR_TXT = 'prev'
@@ -385,7 +386,9 @@ if __name__ == '__main__' and not _testing:
         path.write_text(html_page)
 
     # complete the TOC
-    toc = f'<section class={TOC_CLASS_NAME}>\n'
+    toc_classes = TOC_CLASS_NAME
+    toc_classes += f' {TOC_NOBLURB_CLASS}' if not TOC_PRINT_BLURBS else ''
+    toc = f'<section class="{toc_classes}">\n'
     toc += ppd.convert_text(toc_md, 'html', 'markdown+smart')
     toc += '</section>'
 
