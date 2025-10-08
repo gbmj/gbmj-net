@@ -183,6 +183,9 @@ section.toc h3 { /* ToC story names, cancer blog page names */
 section.toc p {
     margin-top: 0.3rem;
 }
+section.toc h3 + p {
+    margin-top: 0;
+}
 section.toc p + h3 { /* spacing from prev element when there are blurbs */
     margin-top: 2rem;
 }
