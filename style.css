@@ -168,7 +168,7 @@ section.toc h1 {
 section.toc h1 + h3 { /* see above, override page title + author styling */
     font-style: normal;
     color: var(--main-txt-color);
-    margin-top: 0.5rem;
+    margin-top: 1rem;
     margin-bottom: 0.3rem;
 }
 section.toc h2 + h3 { /* see above, override cancer blog entry title + date styling */
