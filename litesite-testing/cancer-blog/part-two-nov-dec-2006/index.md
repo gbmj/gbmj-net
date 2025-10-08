@@ -1,0 +1,149 @@
+---
+litesite: collection
+title: "Part Two: Nov-Dec 2006"
+date: 2006-11-28
+blurb: The first week of treatment.
+---
+
+## Visit Day One
+### 28 Nov 2006
+Our daughter didn't shave her head. She was exhausted on Sunday, so lethargic that my ex-husband and his wife were very worried about her. Yesterday, the day we arrived, was a much better day.
+
+She's in relatively good spirits in a nearly unworkable situation. She has almost no control over her right arm and leg and must thus be helped by two nurses every time she wants to pee. Her new port-a-cath hurts, much like a nasty gash in your hand from a kitchen knife; the pain will subside as the wound heals, but it's pulled and pushed every time she's helped to stand.
+
+She was terrified after yesterday's radiation treatment: she stared blankly out in front of her as she lay on the brancard waiting for Tuggy to come wheel her back. I stroked her hair and asked her yes/no questions; she wasn't able to speak. Are you tired, or scared, or both? Shake. Are you tired? Shake. Are you scared? Nod.
+
+Earlier in the day, while I was scratching her back and my husband was off getting us some food, she said, "You know, I might die from this."
+
+She has one last targeted radiation treatment today; full craniospinal begins tomorrow and will continue for four weeks. Then she'll have another six targeted treatments. Chemotherapy begins today. She'll get carboplatin for about 15 minutes each day and vincristine as a "push"&mdash;a shot directly into her catheter&mdash;once a week. Chemo is daily at 11 AM; radiation is daily at 3 PM.
+
+Significant side effects&mdash;hair loss, metabolic problems, thyroid problems&mdash;will take 10 to 14 days to begin; nausea may begin immediately. Her throat is sore and it's hard to swallow; this will also worsen.
+
+We left her drifting off to sleep at 10:45 PM, after the Ativan and Seroquel started to work their magic.
+
+## Visit Day Two
+### 29 Nov 2006
+My daughter felt much worse yesterday. She didn't sleep well and was still dozing when we arrived at 8:30 AM. When she woke, she was grumpy and frustrated. Pretty much the whole day went like that, with brief periods where we were able to coax a smile from her.
+
+Despite receiving Zofran (ondansetron) before her chemotherapy, she was nauseated much of the day. She couldn't get comfortable in bed. She used a bedpan instead of getting up to the bedside commode.
+
+When she's miserably uncomfortable like that, everything is "no," "I don't care," "it doesn't matter."
+
+She was again terrified before and after her radiation treatment; I can only imagine how terrified she was during: we have to wait in the lobby. The Ativan only takes the edge off her anxiety.
+
+Despite her loud protests, I insisted she get a sponge bath. This morning she'll have a student nurse one on one until noon; I plan to ask the nurse to bathe her and wash her hair.
+
+## Visit Day Three
+### 29 Nov 2006
+My daughter's morning was crappy, but she had a really good period in the afternoon. If it becomes a pattern, we want to take advantage of it: get her out of her room, play games, make cards, visit the butterfly garden.
+
+She had her first full craniospinal radiation treatment today. Her anxiety level was noticeably lower today before and after radiation. She also had a CT scan to see if there's a reason for her recent bladder and bowel trouble: she wet her bed several times last night and had another accident this morning. Needless to say, these make her even more miserable than she already is.
+
+She got another sponge bath today, and we washed her hair&mdash;sort of. We used a hospital shampoo that doesn't have to be rinsed out. The result isn't stellar. I've already prepped her for a real honest-to-goodness shower with me tomorrow: we'll get the nurses to help her into the shower, and then she and I will relax under the streaming warm water and I'll gently massage her scalp. I can't wait. She is less enthused, but open.
+
+I'm slowly learning the names of all her drugs. Synthroid. Pepcid. Colace. Decadron. Zofran. Vincristine. Carboplatin. Ativan. Seroquel.
+
+## [Ode to the Nurse](HOME_URL_PHode-nurse/)
+### 30 Nov 2006
+
+## Visit Day Four
+### 1 Dec 2006
+Yesterday was a better day, though it got off to a rocky start. The occupational therapist, a nurse assistant and I helped my daughter shower. I finally got to wash her hair! It was a Herculean ordeal. To add agony to exhaustion, the dressing on her venous catheter got wet despite the baggie, and when the nurse went to flush the port, it didn't. They had to put in a new needle, and because they didn't want to risk it clotting off, they couldn't numb the area with Emla first.
+
+We were able to get outside for a short while in the afternoon, but my daughter was feeling very nauseated.
+
+Her first hair has fallen out: a tiny clump of 15 or so hairs, root and all.
+
+She ate some of the macaroni my husband cooked up for her, the recipe our neighbors used to make when she'd have dinner with them. She also ate lots of strawberries and blueberries. Tuggy, who wheels her very tenderly to and from radiation, gave her some of his homemade lemonade. Talk about good! Sweet enough to bring you out of a diabetic coma, but tart and lemony and hard to put down.
+
+My husband will be flying back to the Netherlands on Sunday. I'll be staying here. I can't imagine leaving. I really miss my other two children; we hope to get them over here around Christmastime. I won't have seen them for four weeks by then.
+
+There's little to no space at the Ronald McDonald House, so our friends Dave and Rita have graciously offered to let me keep staying with them. They'll drive me back and forth to the hospital every day. These are the times when you just have to let go of not wanting to impose on others. This is what friends are for.
+
+## Visit Days Five and Six
+### 2 Dec 2006
+My daughter felt miserable through Friday morning, but she had a pretty good four hours from 2 to 6 PM. We wheeled her outside into the balmy North Carolina air for about twenty minutes.
+
+She was again much calmer before and after radiation.
+
+She had another visualization therapy with Alyssa, the psychologist.
+
+I contracted a mild stomach virus and spent Friday night throwing up. We got to the hospital quite a bit later than usual Saturday, around 10:45 AM, and my daughter was very unhappy. She was starving, but her mouth and throat are beginning to hurt so much she can't eat. We picked up all the soft foods we could think of at the store. She sipped down some refried beans mixed with cheese and milk, some chocolate ice cream, and some chicken noodle soup. By the end, she was used enough to the pain to eat her blueberries.
+
+Ashley, her nurse today, told us that if her ANC goes down too far, she'll have to forgo fresh fruits and vegetables. Sigh.
+
+Her multivitamin finally came in&mdash;it has to be ordered through the hospital pharmacy so they know exactly what's going into her.
+
+She's resting right now. We plan to make her get up after a half hour and get into the wheelchair; if she doesn't sit up enough, she can contract pneumonia, which her body cannot fight off. We want to take her outside again; today it's crisp and clear and vivid blue, a perfect autumn day. Also on the list are brushing her teeth, doing her leg and arm exercises, and getting dressed.
+
+No radiation or chemo today and tomorrow. We hope that means she'll feel good more hours of the day.
+
+We brought in a hair clipper to shave her head. She's been asking all week, but her dad took his clipper back home last Sunday and it hasn't made it back up here.
+
+Her current mood is sullen and fatalistic. She resents being pushed; I keep reminding her why we're pushing her, and indeed, why she's doing all this in the first place.
+
+## Visit Day Six (second half)
+### 3 Dec 2006
+My daughter had another accident; we didn't get her to the bedside commode in time. I was helping her stand, and my pants got soaked. Fortunately she and I are pretty much the same size; I borrowed a pair of hers.
+
+I gave her a sponge bath and got her dressed and into the wheelchair. Her dad and stepmom came in just as we were starting to shave her head. It looks surprisingly good on her. Right after, she started crying. It's good to see her let out some of her fear and sadness, though it breaks my heart too.
+
+We bundled her up in blankets and a hat and went outside. After fifteen minutes we trundled her back inside, to the Corner Café. She ordered macaroni and cheese and a bagel. We went back up to her floor and sat in the open play area to eat. She's getting used to the pain in her mouth; she was able to down several bites of the macaroni, and she ate some of the stuffed pasta shells on her dinner tray.
+
+It seems to be a definite pattern: mornings are very difficult and her mood is poor; afternoons are better, and she's pleasant if not upbeat. (And frankly, what's there to be upbeat about?)
+
+She'll be getting fluconazole, an anti-fungal, from now on.
+
+We did her leg and arm exercises, but didn't brush her teeth.
+
+She and I lay in bed together listening to her relaxation CD (Enya's *Watermark*).
+
+Nausea suddenly hit her hard at 7:30 PM. Harder than before, because she raised the head of her bed and asked for a towel to put in the bucket to keep it from splashing. I asked Ashley to go ahead and give her her bedtime dose of Ativan (it also helps nausea, and she'd had all the Zofran she could have for a few more hours).
+
+I couldn't help crying as I watched her, hairless, slumped into a green puke bucket, miserable. This is not the way it's supposed to be.
+
+It's just the way it is.
+
+## Visit Day Seven
+### 4 Dec 2006
+Today was a great day. My daughter was awake and in great spirits when we walked in at 9:30 AM. She said she'd slept well (a first), and she'd already had a muffin for breakfast.
+
+My husband said a quick goodbye before heading for his plane in DC.
+
+I helped her dress and move into her wheelchair. She wanted to make cards with the stickers I'd brought, but not in her room. We wheeled out to the open area, where she wanted to sit in a chair. Nurse Ashley and I are pushing her to really use her good arm and leg to move herself around; we hope to help her achieve greater independence. My daughter's good about trying hard when she's feeling well, but by this time&mdash;perhaps 45 minutes after I arrived&mdash;she was exhausted. It's hard work.
+
+We went back to her room, where her reward was rest after one last valiant push to get from her chair to the bed. She spent the rest of the day in bed, too tired to get up again but pleasant and feeling mostly good.
+
+Her aunt stopped by for several hours. Her dad, stepmother, and baby sister also came by, bearing homemade guacamole, a gingerbread house kit, and a hot pink wig.
+
+There's so much she wants to do when she's feeling good, and we rarely get to much of it at all.
+
+She ate quite well today. We did her arm and leg exercises twice, and she brushed her teeth twice with a special sponge. We listened to a Christmas CD over and over; later we listened to Enya.
+
+I dread tomorrow, when chemo and radiation start back up.
+
+## Visit Day Eight
+### 5 Dec 2006 | St. Nicholas Eve
+Another very good day for my daughter despite starting chemo and radiation again. For me, long, and in places, very hard.
+
+She asked me to walk to Ben and Jerry's&mdash;a good hour's walk there and back&mdash;to get her some ice cream. She got mad at me when I said no. At moments like these I remember what it used to be like on our dark days, back when our biggest problem&mdash;itself insurmountable&mdash;was her "missing circuit," as I think of it. Her three-year-old view of the world. Her lack of empathy. The way she treats other people as objects designed to meet her needs.
+
+She's come a long way since then, learned a lot of social habits that come naturally to most of us. She's not a bad person. She wants to be caring, empathetic, interested. She just doesn't have the equipment for it.
+
+I told her not to get snippy with me. I could have gone home yesterday, I said, but I didn't. I'm missing Saint Nicholas Eve with your brother and sister, I said. I'm missing my normal life.
+
+Yeah, well I am too, she replied. I know, I said; that's why I'm here. I'm here for you. I want to be here for you. So don't get snippy with me.
+
+We got her bathed and dressed, brushed her teeth, and did her exercises before 10 AM. She started on her gingerbread house with the occupational therapist. After that we made cards, one for our neighbors and one for her best friend. She got tired and was resting when the schoolteacher came in; they did some geometry. Chemo came and went with no nausea; ditto radiation. Nausea didn't hit until late afternoon and was quickly relieved with a little morphine, to tide her over until she could have her next dose of Zofran.
+
+She ate extremely well, and often.
+
+She didn't want Ativan until bedtime, not even before radiation. She didn't want to be sleepy. I think this is marvelous progress.
+
+Her oncologist is sending the pharmacist over tomorrow to check out some supplements my father sent up for her: a whole-foods multivitamin and -mineral, a liver cleanser, and iodine. My grandfather cured himself of bone marrow cancer with iodine and vitamin C, the story goes. I'm inclined to believe it. I've seen the power of herbal remedies firsthand. I'm all for adding some holism into this equation, as long as it doesn't interfere with her treatment. No unintended interactions.
+
+She asked me to stay for her talk with the psychologist, which went well. She stayed present for even the "boring" stuff about the negative aspects of what's going on with her, her fears and worries.
+
+I pushed her repeatedly to help herself scoot up in bed. To try to think of new ways to make it work. To try hard, knowing that it might not work right now, but eventually it will. At times she was helpless, hopeless, and whiny; that passed, and she kept trying.
+
+

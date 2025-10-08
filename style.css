@@ -117,6 +117,7 @@ h2 { /* /cancer-blog/ entry titles */
     margin-bottom: 0.5rem;
 }
 h2 + h3 { /* date after /cancer-blog/ entry title */
+    font-style: italic;
     font-color: var(--subduedcolor);
     margin-top: 0rem;
 }
