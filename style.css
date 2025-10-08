@@ -58,7 +58,7 @@ figcaption {
 blockquote {
     font-style: italic;
     font-size: 90%;
-	margin-left: 2em;
+	margin: 2em;
     border-left: 3px solid;
     padding-left: 1em;  
 }
