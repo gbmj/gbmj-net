@@ -161,13 +161,13 @@ aside > h4 {
 section.toc h1 {
     font-size: 2rem;
 }
-section.toc dl > dt > a { /* ToC story names */
+section.toc h3 > a { /* ToC story names */
     font-size: 1.2rem;
 }
-section.toc dl > dt {
+section.toc h3 {
     margin-top: 2rem;
 }
-section.toc.noblurb dl > dt {
+section.toc.noblurb h3 {
     margin-top: 0.5rem;
 }
 
