@@ -178,11 +178,11 @@ import frontmatter  # parse input files containing YAML frontmatter
 import pypandoc as ppd  # convert input files to html
 
 #   -- USER SETTINGS ---
-SITE_NAME = 'The Brain Cancer Blog'
+SITE_NAME = 'The Cancer Blog'
 LANGUAGE = 'en'  # two-letter iso code
 DOMAIN = 'https://gbmj.net/'  # include protocol and end in /
 PATH_FROM_DOMAIN_TO_HERE = (
-    'litesite-testing/brain-cancer-blog/'  # end in / if not ''
+    'litesite-testing/cancer-blog/'  # end in / if not ''
 )
 HHF_SUBDIR = 'cmn/'  # where head, header, footer files are; end in /
 HDFN = 'head.html'
