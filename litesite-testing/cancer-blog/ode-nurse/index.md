@@ -1,0 +1,27 @@
+---
+litesite: standalone
+title: Ode to the Nurse
+---
+
+# Ode to the Nurse
+### 30 Nov 2006
+
+I mistakenly dumped my daughter's underwear into the hospital laundry. I asked Kim what would happen to it; she said it was gone forever: the laundry is contracted out and goes to hospitals all over the country. She said they once lost a ten-thousand dollar heart monitor that way. Ah, well, I said, no biggie; we can get more.
+
+An hour later, I opened a drawer in my daughter's room and found a bag containing the wayward underwear. Kim had gone investigating; the dirty laundry was still around, and she fished through it all to find them.
+
+-------------
+
+My daughter kept getting a liquid-only tray from Dietary. Late Monday evening, long after mealtime, she said she really wanted a salad; I mentioned we hadn't gotten a form to fill out for Tuesday's meals. Ashley promised to make sure a salad happened Tuesday.
+
+An hour later, a salad tray appeared.
+
+-------------
+
+A nurse whose name I didn't catch popped her head in to tell us volunteers were holding a dinner buffet for parents. We could stop by the sixth flour lounge and pick some up. The nurses and I were busy helping my daughter to the bathroom, so my husband told her, "Thanks; we'll stop by later."
+
+When I went out to tell him we were finished, he was holding two trays: on each, fried chicken, salad, mashed potatoes and gravy, sweet potato pie, and a cup of sweet tea. The nurse had gotten it for us.
+
+-------------
+
+I've had more than a dozen of these experiences since we arrived, turning around to find that some need, expressed in an offhand comment or perhaps just noticed by watchful eyes, has been silently met. There are angels in the world, and they are nurses.

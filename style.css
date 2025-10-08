@@ -107,9 +107,12 @@ h1 { /* mainly for /stories/ titles */
 }
 h1 + h3 { /* /stories/ titles + author */
     font-style: italic;
+    font-color: var(--subduedcolor);
     margin-top: 0rem;
     margin-bottom: 3rem;
 }
+
+/* TODO -- can remove these when journal version is done */
 h2 { /* mainly for /brain-cancer-blog/ section titles */
     margin-top: 2rem;
     margin-bottom: 0.5rem;
@@ -118,6 +121,7 @@ h2 + h3 { /* /brain-cancer-blog/ sections + date */
     font-color: var(--subduedcolor);
     margin-top: 0rem;
 }
+/* end TODO */
 
 hr {  /* used semantically, as scene divider in-story */
     border: none;
@@ -134,7 +138,7 @@ hr:after {
     top: -0.8rem; /* to vertically center it; depends also on <p> margins/padding */
 }
 
-aside { /* for quotes from the blog */
+aside { /* for quotes from the blog -- see if I still need all this TODO */
     border-top: 1px dotted var(--main-txt-color);
     border-bottom: 1px dotted var(--main-txt-color);
     background: var(--prebackgroundcolor);

@@ -65,9 +65,15 @@ Meghan received targeted radiation to the top right tumor site for five days, th
 >
 >I can't find statistics for how alarming they are if she has s-PNET.
 >
+> 27 DECEMBER 2006
+>
 >She’s had two blood transfusions in the past week for her very low red blood cell count. They’ve given her more energy. She’s lost weight; I can feel sharp hipbones under her pants. Anorexia has kicked in as promised: she hasn’t eaten in four days. We worked very hard to get seven peas, two bites of chicken, two bites of stewed apple, and one bite of rice into her over the course of the day.
 >
+> 2 JANUARY 2007
+>
 >Her memory was shockingly bad today. We’ve noticed lapses in her short-term recall, and she’s talked about it some herself. But today was worse than we’d seen before.
+>
+> 11 JANUARY 2007
 >
 >She got a DuoDerm patch at the base of her spine, to protect the skin there. It’s starting to get red from all the friction of moving around in bed. Her back is peeling like a hefty sunburn; her scalp is mostly peeled out.
 </aside>
