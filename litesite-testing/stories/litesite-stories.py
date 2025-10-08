@@ -255,11 +255,11 @@ def _create_meta_defaults(path: Path) -> dict[str, typ.Any]:
     m: dict[str, typ.Any] = {}
 
     if path.stem == 'index':
-        slash = '/'
         p = path.parent
+        slash = '/' if not p.samefile(BASEDIR) else ''
     else:
-        slash = ''
         p = path
+        slash = ''
 
     m['title'] = p.stem.replace('-', ' ').title()
     m['date'] = dt.date(1, 1, 1)  # January 1, 0001
