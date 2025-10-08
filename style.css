@@ -114,7 +114,7 @@ h1 + h3 { /* author after /stories/ title */
 
 h2 { /* /cancer-blog/ entry titles */
     margin-top: 3rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.3rem;
 }
 h2 + h3 { /* date after /cancer-blog/ entry title */
     font-style: italic;
