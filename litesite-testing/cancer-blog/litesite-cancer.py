@@ -195,7 +195,7 @@ CONVERT_FROM = 'markdown+smart'  # pandoc input type, with optional extensions
 OPTS: list[str] = []  # pandoc options to pass in to conversion
 MAXDEPTH = 2  # 1 = root only
 SORTKEY = 1  # 0 = title, 1 = date, anything else = don't sort
-SORT_REVERSED = True
+SORT_REVERSED = False
 TOC_TITLE = 'Table of Contents'
 TOC_CLASS_NAME = 'toc'  # for css styling
 TOC_PRINT_YEAR_HEADINGS = False

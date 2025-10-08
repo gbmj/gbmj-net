@@ -1,0 +1,120 @@
+---
+litesite: collection
+title: "Part Five: Dec 2006 - Jan 2007"
+date: 2006-12-29
+blurb: The three days over New Year's.
+---
+
+## Christmas Visit Day Five
+### 29 Dec 2006
+Jan from OT and Mandy from PT came by today and got her up with a walker. The walker has a rest for her right arm, which may also help with her weight and balance. She didn't walk, but it's a start.
+
+We talked again with Dr. Gold, her oncologist, about plans once treatment ends. She has six weeks off before her year of 3-week chemotherapy cycles begins. My husband and I have been talking about options, and they've ranged from pulling her out of the hospital completely and renting an apartment here for six weeks to taking her to the beach for two weeks after four weeks of Rehab. We presented this last option to Dr. Gold, and he thought it sounded very good, with caveats:
+
+- Rehab won't take her in the first place unless she's making progress by the end of treatment.
+- Her motivation will largely determine how well she does in Rehab, and thus how soon they will be willing to release her.
+- Medically this plan sounds 100% doable, but should her condition change, it might no longer be feasible.
+
+My husband and I think this plan has several pluses. First, it gives her four weeks of intensive therapy to regain as much control and use of her right side as she can, which will make her more independent and able to move about more freely. Second, it keeps her close to the hospital (in it, in fact) until the temporary side effects of treatment have abated (low red blood cell count, sore throat, lack of energy) which, assuming all goes as expected, makes us feel safer about taking her somewhere three hours away. Third, it gives her a major carrot to motivate her in Rehab: we want to take her to the beach for two weeks of real vacation, playing games and walking on the beach with a sizeable Dutch contingent: the four of us, Oma and Opa, and her best friend, Charlotte.
+
+Dr. Gold emphasized again that he wants us four parents to work out a plan together. That may be hard, considering we've seen neither hide nor hair of her dad and stepmom this week. No one ever sees much of them. In fact, Jan from OT took us aside and asked if everything was okay with them because she hadn't seen them in so long.
+
+We called them this evening to arrange a talk. They plan to come visit in two days; we'll talk then.
+
+I will refrain from posting my opinion on that, but let me say they may be the only people who do not share it.
+
+Our Comfort Inn doesn't have laundry facilities, so we did laundry in the single washing machine and dryer available to families at the hospital. My daughter had a royal case of diarrhea in the middle of the night, adding enough to the clothes from yesterday to make nearly a full load. The reader will understand why we aren't waiting for the home team to wash them.
+
+I washed my daughter's scalp and massaged in a lotion nurse Ashley brought us to help with her flaking skin.
+
+She took all her pills&mdash;many fewer today than yesterday; they've cut back on the laxatives (hear, hear) and she's finished with Septra, her antibiotic, until Monday.
+
+She drank several sips of milk and ate ten bites of tuna sub&mdash;in one sitting!&mdash;before radiation, but nothing after that, alas. I'm still fine-tuning my bribes: today it was five bites of sub per back-scratching session. Tomorrow I'll raise the ante again.
+
+Dr. Zinn, her neurologist back at the very beginning, stopped by today. We were delighted to see him; my husband and I regard him highly, and he's fun. It was great to chat for a few minutes.
+
+We got out of the room only once, with much coaxing (though she did sit up on the edge of her bed a few times, and she got out to the bedside commode three times). Despite her lack of enthusiasm, we went back down to the piano, and eventually she did ping out Frère Jacques again for her sister. Then, much to my delight, she pulled the book of Christmas songs over and thumbed through it; she played the melody for two of them.
+
+Then we pushed on to the hospital Wendy's, but we couldn't entice her to eat.
+
+She wants to stay up till midnight on New Year's Eve. We plan to buy supplies for the big event: party tooters, party hats, sparkling apple cider and plastic champagne glasses. Too bad we can't get oliebollen and fireworks over here. We'll try to find sparklers instead and see if we can get her downstairs and outside at midnight to light them.
+
+## Christmas Visit Day Six
+### 30 Dec 2006
+Today was a fantastic day. She worked incredibly hard at moving herself around. She didn't use the bedpan a single time, and she sat on the edge of the bed for probably three hours total. She also got into the wheelchair with shoes on to go to the piano downstairs with Jan from OT.
+
+We arrived at 10:30 AM, later than usual; we bought New Year's Eve supplies at Wal-Mart beforehand. She didn't seem upset that we were late.
+
+She didn't object to the morning sponge bath.
+
+She had another poop accident. She wiped herself each time after peeing, another new milestone. Given the fluidity of her poop these days, I think it's best to wait on having her wipe that herself until it gets back to normal.
+
+We all watched *Freaky Friday* (the Jamie Lee Curtis-Lindsay Lohan version).
+
+My husband took our two youngest on a long walk to Franklin Street Pizza and Pasta to get dinner. The kids have done remarkably well in the hospital, but today it was definitely time for some outdoor romping.
+
+In the early evening, the five of us played several games (31, guess-who's-sitting-where, Jenga) and frequently dissolved into belly laughter. It was great fun.
+
+She ate quite a bit of penne and tomato sauce, plus a bite of chicken, four bites of tuna sub, two bites of pineapple, half a chocolate, two pieces of candy, and several sips of milk. I didn't have to do any bribing today at all.
+
+Her mood took a downturn shortly before we left, when she threw up. She worried that all the pasta she'd eaten had been for nothing. I assured her that a good part of it had gotten digested in the three hours since she'd eaten it.
+
+The vomiting is recent but consistent; it seems this side effect of chemo and radiation is cumulative. She threw up last night after we'd gone and she'd fallen asleep. Today is the fourth time in six days, and it looks like it may become a daily routine.
+
+We spoke with Chris, the social worker helping us facilitate the upcoming transition. He said there are families that donate vacation-home time to kids in her situation, and he'll check what's available around the time we're hoping to go.
+
+Chris also told us he was glad I would be staying: staff have said she's more motivated when I'm around. I was pleased, and moved, to hear this. What more could I ask for?
+
+All in all, this is the best day I've seen her have since this all started. And thus it's one of my best, too.
+
+## Christmas Visit Day Seven
+### 31 Dec 2006 | New Year's Eve
+Today was one of the worst days I've seen her have so far. That made it incredibly draining for me. I'm exhausted.
+
+It started out well; she was in good spirits when we arrived at 11:30 AM. Nurse Ashley took the needle out of her port-a-cath, and with my husband's help we got her from the bed to the shower, using her walker with the arm rest. Granted, there were two people holding her up and helping her shuffle forward and a third managing her right leg, but she did it.
+
+Not long after her shower, she started feeling nauseated and having severe bowel cramps. It's probably just gas, but I know from past bouts of diarrhea how painful that can be. It plagued her all day. She was miserable. She threw up late afternoon, even though she'd gotten Zofran.
+
+I managed to talk her into joining us in the parent conference room for some card games around 9 PM. Either way you'll be having these cramps, I said (again), but at least this way you might be distracted from the pain.
+
+She was determined to stay up until midnight, and refused pain medication that would make her sleepy.
+
+She ate and drank very, very little today: one bite of cheesecake, one grape, one bite of carrot, two sips of milk.
+
+We all managed to stay awake and welcome in the new year. We put on our party hats and necklaces and toasted with champagne (and sparkling grape juice) after watching the countdown in Times Square. Then we went out to the sitting garden in front of the hospital to do our "fireworks"&mdash;those paper-streamer-filled ones that go "pop" when you pull the string. She didn't want a glass for the toast, but she did clink her hand against my cup. At first she didn't want to pull any fireworks herself, but after a short while she got into it, and we even saw some smiles.
+
+We talked with her dad and stepmom about plans for her six-week break. They thought the beach plan sounded very good. My husband brought up the visitation issue, which provoked the response I'd expected from my ex-husband: a defensive spew. His wife said, "you're right, and I've been feeling bad about that." She already does so much for my daughter; the last thing I want is for her to feel she isn't doing enough. It isn't even her child.
+
+I'd be happy for my ex-husband to get that message, but he won't. I guess it just boils down to not understanding how he can live ten minutes away from his eldest child, three months into a likely deadly brain tumor, and not see her every day.
+
+I'd love to live ten minutes away and be able to see her for an hour or two every day. To be able to have my life and be there for her, too. To not have to choose between 100% on and 100% off.
+
+The big question is, what happens after these six weeks? Her year of chemotherapy will be mostly outpatient; she'll only be in the hospital a few days out of every cycle. Her father and stepmother have made it clear that her coming home is not an option, and I understand that; our daughter has burned a lot of bridges. They were looking into group homes before all this happened; we'd been looking into group homes before she moved back to the US. But where will she go? What are our options?
+
+I've toyed with the idea of bringing her back to live with us. Even aside from the logistic difficulties (insurance, treatment, school, a new residence permit), it's probably not a good idea. There's a reason she doesn't live with us any more, and it's the same reason she can't go home to her father and stepmother.
+
+On the other hand, she's my daughter, and she's going through an ordeal that makes the hurdles most of us face look like cake walks.
+
+## Christmas Visit Day Eight
+### 1 Jan 2007
+We all slept scandalously late this morning (aside from my husband, who got up at 9 AM to do a little work). My son got up at 10, my youngest and I at noon. My daughter was still sleeping when we arrived at 12:45. We went to get some lunch and finally woke her at 2 PM. She was in fairly good spirits and no pain, thank goodness. She said she slept well.
+
+No chemo and radiation on this holiday day.
+
+She ate a handful of cheetos, a sip of milkshake, and a few grapes. Not much, but more than yesterday. She was unmotivated today; whether she was feeling down or just feeling lazy, I don't know. She was just kind of flat. On days like these, I talk to her about her future.
+
+Today I said, let's assume you'll beat this cancer thing. You've got another sixty or seventy years to go. If you need someone to help you turn over every single time, then you'll be spending those years in a nursing home, because that's where people who need 24/7 help live. So work as hard as you can to move independently. Practice moving your right leg by hooking your left leg under it. Turning yourself over is hard now, but with practice it'll become second nature, and as quick as doing it with all parts working normally.
+
+I don't know how much of this gets through to her, but I know it can't hurt.
+
+Her memory was shockingly bad today. We've noticed lapses in her short-term recall, and she's talked about it some herself. But today was worse than we'd seen before. At 6 PM she didn't remotely remember her stepmother visiting her around 3 PM. She gets people confused; she said nurse Blythe had asked her on Friday about her Christmas bag from Santa, but that was her stepmom this afternoon.
+
+She was also much weaker today. She put her full weight on me when moving, which I can't support for long.
+
+On the positive side, she's used the bedside commode every time for the past three days, even yesterday when she felt so terrible. The bedpan may well be a thing of the past. I think that's great progress.
+
+She got up once and played cards with us for about half an hour.
+
+Her father didn't come up. He was ostensibly driving the car in circles while the baby slept as stepmom visited. I greatly appreciate stepmom putting an acceptable twist onto his absence for my daughter's sake; sleeping babies in infant carseats are pretty darn portable.
+
+We left her a little earlier than usual, at 7:15 PM, to have dinner at the restaurant where my sister works. It was great to see her. She was upbeat and looked fantastic. Dinner was tasty and our kids were charming. It's amazing how nice an evening like this can be, what a welcome break it is. And how much I now appreciate just being able to do it.

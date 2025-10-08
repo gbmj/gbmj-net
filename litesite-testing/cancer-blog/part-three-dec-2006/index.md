@@ -1,6 +1,6 @@
 ---
 litesite: collection
-title: "Part Two: Nov-Dec 2006"
+title: "Part Three: Dec 2006"
 date: 2006-12-07
 blurb: The second week of treatment.
 ---
@@ -85,7 +85,7 @@ Said father bought me a ticket to fly home Saturday. We'll all return on Christm
 
 My ex-husband called and exploded at me on the phone for leaving; he'd heard from my mother before I'd had a chance to call him. I suppose he has mislaid his understanding of the fact I'm here for my daughter, not to make his life easier. I told him to calm down; I'd arranged for someone to be with her every day until we return. He yelled that none of those people could handle the doctors. Funny thing is, there's very little doctor to handle on a day-to-day basis. I've barely seen doctors, and when I have, it's been for a very short "just checking in" chat.
 
-I think what's really going on is that my being here alleviates his discomfort at not being with her. Up until this past Monday, he had no job, and his mother-in-law was visiting (for weeks) to watch the baby. He lives literally twelve minutes down the road. He could have done what I'm doing; he could have really been there for her, hour in, hour out. But he didn't. He never has.
+I think what's really going on is that my being here alleviates his discomfort at not being with her. Up until this past Monday, he had no job, and his mother-in-law was visiting (for weeks) to watch the baby. He lives literally twelve minutes down the road. He could have done what I'm doing; he could have really been there for her, hour in, hour out. But he didn't. He never has. It's not that he doesn't love her. He just isn't equipped for these things.   
 
 ## Visit Day Twelve
 ### 9 Dec 2006
