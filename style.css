@@ -161,14 +161,20 @@ aside > h4 {
 section.toc h1 {
     font-size: 2rem;
 }
-section.toc h3 > a { /* ToC story names */
-    font-size: 1.2rem;
-}
-section.toc h3 {
-    margin-top: 2rem;
-}
-section.toc.noblurb h3 {
+section.toc h1 + h3 { /* see above, override page title + author styling */
+    font-style: normal;
+    color: var(--main-txt-color);
     margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+/* also need to override the h2 + h3 styling above, because if toc years
+get printed the first entry in the toc will be an h2 + h3 */
+
+section.toc h3 > a { /* ToC story names, cancer blog page names */
+/*    font-size: 1.2rem; /* don't need now that they're h3s instead of dts */
+}
+section.toc h3 + p { /* spacing to next element when there are blurbs */
+    margin-bottom: 2rem; /* I could maybe do this actually with the <p> element used for hte blurb? */
 }
 
 /* specific to /stories/ */

@@ -254,17 +254,15 @@ def _create_meta_defaults(path: Path) -> dict[str, typ.Any]:
     """Set up fallback values for page metadata."""
     m: dict[str, typ.Any] = {}
 
-    if path.stem == 'index':
-        p = path.parent
-        slash = '/' if not p.samefile(BASEDIR) else ''
-    else:
-        p = path
-        slash = ''
+    p = path.parent if path.stem == 'index' else path
 
     m['title'] = p.stem.replace('-', ' ').title()
     m['date'] = dt.date(1, 1, 1)  # January 1, 0001
     m['blurb'] = ''
-    m['url'] = f'{BASEURL}{str(p.relative_to(BASEDIR))}{slash}'
+    u = f'{BASEURL}{str(p.relative_to(BASEDIR))}/'
+    # pathlib relative_to returns . if paths are the same;
+    # strip off the trailing /. in that case
+    m['url'] = u if not p.samefile(BASEDIR) else u[:-3]
     m['path'] = path.with_suffix('.html')
 
     # add your custom defaults here
