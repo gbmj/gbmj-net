@@ -7,13 +7,13 @@ blurb: From diagnosis to the end of the first treatment cycle.
 
 (This is the start of the journal.)
 
-# Glioma, Glioblastoma, Gliomatosis, Oh My
+## Glioma, Glioblastoma, Gliomatosis, Oh My
 ### 7 Nov 2006
 My eldest child has a brain tumor. In fact, she has several probably cancerous areas spread throughout her brain: one very large ball in the right hemisphere, and smeary areas elsewhere. We don't yet know exactly what she has, and making a diagnosis has turned out to be hard.
 
 Her neurologist describes her situation as "atypical, unusual, and baffling." Her presenting symptoms (weakness on her right side, known as hemiparesis) and initial MRIs and spinal tap led to a tentative diagnosis of multiple sclerosis in early October. When her symptoms didn't improve after steroids and physical therapy, another MRI led to a biopsy. A week's staining and staring at the extracted tissue came back inconclusive; now the sample is off to an expert at Johns Hopkins for further study.
 
-# From Himalayan Peak to Appalachian Slope....Maybe
+## From Himalayan Peak to Appalachian Slope....Maybe
 ### 8 Nov 2006
 The neurosurgeons and neuropathologists discussed my daughter's case again today:
 
@@ -28,7 +28,7 @@ My daughter's prognosis is likely to be less rosy, since there is more than one 
 
 But there's a lot of room between these numbers and "dead in 12 months."
 
-# It's Still a Mystery
+## It's Still a Mystery
 ### 15 Nov 2006
 The tentative reply from Johns Hopkins is in: they, too, are unable to pinpoint what kind of brain cancer my daughter has. I had no idea this could happen. Once you have an honest-to-goodness real-live sample of tumor tissue, how can you not be able to discover what makes it tick? To lay bare all its secrets?
 
@@ -36,7 +36,7 @@ Clearly I am operating under mistaken assumptions, because the capable doctors a
 
 In any case, we have to decide on treatment. The tumors aren't likely to spontaneously vanish.
 
-# Radiation and Chemotherapy
+## Radiation and Chemotherapy
 ### 17 Nov 2006
 Though a definite diagnosis has eluded us, one thing is certain: my daughter (15) has aggressive primary malignant brain tumors. Dr. Berger, the pathologist at Johns Hopkins, grades them as 4+ on a 1-4 severity scale. They are not PNETs or germ cell tumors. The doctors feel they are probably gliomas of some kind. Alas, gliomatosis cerebri is still in the running.
 
@@ -48,7 +48,7 @@ She will also receive chemotherapy, either during or after her radiation treatme
 
 Her stepfather and I are getting flu shots today in preparation for our second trip to see her. I am by nature a reluctant vaccinee, but a little thimerosal and aluminum in my system seems a small price to pay: in exchange, I'll know I did what I could (and what was asked of me) to protect her compromised immune system.
 
-# Craniospinal and New Chemo Drugs
+## Craniospinal and New Chemo Drugs
 ### 18 Nov 2006
 The written report from Johns Hopkins arrived yesterday. My daughter's tumors have the radiologic signature of gliomatosis cerebri, but Johns Hopkins felt it could also be supratentorial PNET. The good news is that some people do survive s-PNET. Pretty much no one survives gliomatosis cerebri.
 
@@ -58,7 +58,7 @@ Chemotherapy will start after Thanksgiving. She will receive Vincristine instead
 
 My husband and I spoke directly with the radiologist last night. He was very straight up about my daughter's prognosis. I really appreciated that. I've read enough to know she has little chance of surviving long. It's comforting to hear her doctor confirm that: it's so hard not knowing. Reading doom and gloom, but hoping you're reading the wrong things. Unsure whether to be as frightened and sad as you are. Unable to come to terms with her disease, because you aren't sure you have the right information.
 
-# Quality of Life and Hard Decisions
+## Quality of Life and Hard Decisions
 ### 20 Nov 2006
 My daughter has four parents. Her father and I divorced when she was 2. We are both remarried to wonderful people who love her. She lived with her stepfather and me until she was 12, moving with us from the US to the Netherlands when she was 10, then returned to the US to live with her father and stepmother.
 
@@ -82,7 +82,7 @@ My father put it well: it sounds like a treatment you might survive but wish you
 
 All we have are the odds. And the odds are grim.
 
-# Relief, and a Thrill of Hope
+## Relief, and a Thrill of Hope
 ### 21 Nov 2006
 Last night we four parents had a conference call with our daughter's primary doctor. My husband and I had prepared a slew of questions:
 
@@ -101,7 +101,7 @@ It no longer matters whether treatment is horrible, side effects are permanent, 
 
 The immense relief that suffused me upon hearing this surprised me. I hadn't realized how heavily making this decision for her weighed on me&mdash;on all of us. But what surprised me more was the hope. I still know she's unlikely to make it&mdash;her doctor said her chances are much less than 50-50, and her tumor is "very worrisome"&mdash;yet I'm buoyed by her choice.
 
-# Suspense
+## Suspense
 ### 22 Nov 2006
 I'm desperate to know how my daughter's first radiation session went yesterday. How does she feel?
 
@@ -109,7 +109,7 @@ We called last night as usual (midnight our time, to catch her at 6 PM her time)
 
 It's far too early to call her now; we'll wait another four hours or so.
 
-# Resolution, Part I
+## Resolution, Part I
 ### 22 Nov 2006
 I got a stranger on the phone when I called my daughter this afternoon. I must have the wrong number, he said; they were admitted last night.
 
@@ -117,7 +117,7 @@ We finally got hold of my ex-husband. Our daughter has been moved to a new room 
 
 She wasn't in when we called just now; probably at physical therapy. Her second radiation session will be around 3 PM East Coast time.
 
-# Resolution, Part II
+## Resolution, Part II
 ### 23 Nov 2006
 We spoke with our daughter last night around 6 PM her time. She sounded tired and a little down. She wasn't sure how many radiation treatments she'd already had (two), but they were short and they didn't hurt. She's not in any pain; she doesn't feel sick.
 
@@ -125,7 +125,7 @@ Yet, she said. She doesn't feel sick yet. So she hasn't forgotten what she's fac
 
 We'll be there in four more days. I wish we were there now.
 
-# Another Valley
+## Another Valley
 ### 23 Nov 2006 
 **valley 2 a** : a low, gloomy, or fearsome place or situation «the valley of the shadow of death»
 
@@ -141,7 +141,7 @@ I can't find statistics for how alarming they are if she has s-PNET.
 
 I wish we were there now.
 
-# Sinead O'Connor
+## Sinead O'Connor
 ### 26 Nov 2006
 My daughter wants to shave her head. She plans to do it today. Her father surmises it's one thing she can control in a pretty helpless situation.
 
@@ -149,7 +149,7 @@ She's going to donate her hair to a program that makes wigs for children who've 
 
 We're flying out at 1 PM today. We hope to make the drive from DC to NC in time to see her before her operation tomorrow morning: she's getting a permanent IV for the chemo.
 
-# Visit Day One
+## Visit Day One
 ### 28 Nov 2006
 Our daughter didn't shave her head. She was exhausted on Sunday, so lethargic that my ex-husband and his wife were very worried about her. Yesterday, the day we arrived, was a much better day.
 
@@ -165,7 +165,7 @@ Significant side effects&mdash;hair loss, metabolic problems, thyroid problems&m
 
 We left her drifting off to sleep at 10:45 PM, after the Ativan and Seroquel started to work their magic.
 
-# Visit Day Two
+## Visit Day Two
 ### 29 Nov 2006
 My daughter felt much worse yesterday. She didn't sleep well and was still dozing when we arrived at 8:30 AM. When she woke, she was grumpy and frustrated. Pretty much the whole day went like that, with brief periods where we were able to coax a smile from her.
 
@@ -177,7 +177,7 @@ She was again terrified before and after her radiation treatment; I can only ima
 
 Despite her loud protests, I insisted she get a sponge bath. This morning she'll have a student nurse one on one until noon; I plan to ask the nurse to bathe her and wash her hair.
 
-# Visit Day Three
+## Visit Day Three
 ### 29 Nov 2006
 My daughter's morning was crappy, but she had a really good period in the afternoon. If it becomes a pattern, we want to take advantage of it: get her out of her room, play games, make cards, visit the butterfly garden.
 
@@ -187,10 +187,10 @@ She got another sponge bath today, and we washed her hair&mdash;sort of. We used
 
 I'm slowly learning the names of all her drugs. Synthroid. Pepcid. Colace. Decadron. Zofran. Vincristine. Carboplatin. Ativan. Seroquel.
 
-# [Ode to the Nurse](HOME_URL_PHode-nurse/)
+## [Ode to the Nurse](HOME_URL_PHode-nurse/)
 ### 30 Nov 2006
 
-# Visit Day Four
+## Visit Day Four
 ### 1 Dec 2006
 Yesterday was a better day, though it got off to a rocky start. The occupational therapist, a nurse assistant and I helped my daughter shower. I finally got to wash her hair! It was a Herculean ordeal. To add agony to exhaustion, the dressing on her venous catheter got wet despite the baggie, and when the nurse went to flush the port, it didn't. They had to put in a new needle, and because they didn't want to risk it clotting off, they couldn't numb the area with Emla first.
 
@@ -204,7 +204,7 @@ My husband will be flying back to the Netherlands on Sunday. I'll be staying her
 
 There's little to no space at the Ronald McDonald House, so our friends Dave and Rita have graciously offered to let me keep staying with them. They'll drive me back and forth to the hospital every day. These are the times when you just have to let go of not wanting to impose on others. This is what friends are for.
 
-# Visit Days Five and Six
+## Visit Days Five and Six
 ### 2 Dec 2006
 My daughter felt miserable through Friday morning, but she had a pretty good four hours from 2 to 6 PM. We wheeled her outside into the balmy North Carolina air for about twenty minutes.
 
@@ -226,7 +226,7 @@ We brought in a hair clipper to shave her head. She's been asking all week, but 
 
 Her current mood is sullen and fatalistic. She resents being pushed; I keep reminding her why we're pushing her, and indeed, why she's doing all this in the first place.
 
-# Visit Day Six (second half)
+## Visit Day Six (second half)
 ### 3 Dec 2006
 My daughter had another accident; we didn't get her to the bedside commode in time. I was helping her stand, and my pants got soaked. Fortunately she and I are pretty much the same size; I borrowed a pair of hers.
 
