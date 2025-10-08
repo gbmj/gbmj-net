@@ -219,7 +219,7 @@ body > footer > p { /* copyright text, link to license */
 	font-size: 0.8rem; /* note, smaller than site name in header */
 	color: var(--subduedcolor);
 /*    padding-top: 0.2rem; /* to match spacing from line with header spacing */
-    margin-top: 0;
+/*    margin-top: 0; */
     margin-bottom: 0.2rem;  /* spacing to element below */
     border-top: 1px solid var(--subduedcolor);
 }
