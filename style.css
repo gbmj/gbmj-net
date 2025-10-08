@@ -162,7 +162,7 @@ section.toc {
     margin: 2em 0;
 }
 section.toc h1 {
-/*    font-size: 2rem; /* don't think I still need this? */
+   font-size: 2rem; /* smaller in section, article, aside, nav elts; compensate */
 }
 section.toc h1 + h3 { /* see above, override page title + author styling */
     font-style: normal;
@@ -223,7 +223,7 @@ body > header > nav { /* nav links */
 	color: var(--subduedcolor);
 /*	margin: 0 0 0.7rem 0; */
 }
-body > header > nav.back-to-main { /* back to main site link */
+body > header > nav.back-to-main { /* top nav element on site */
     margin-bottom: 1rem;
 }
 /* footer version */
@@ -240,7 +240,7 @@ body > footer > nav { /* nav links */
 	color: var(--subduedcolor);
 /*	margin: 0.7rem 0 0 0; */
 }
-body > footer > nav.back-to-main { /* back to main site link */
+body > footer > nav.back-to-main { /* bottom nav element on site */
     margin-top: 1rem;
 }
 
