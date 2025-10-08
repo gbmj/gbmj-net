@@ -170,10 +170,6 @@ Tips:
     slash. Modify the script if you prefer different behavior.
 """
 
-# TODO after that: turn at least part of the Sadie site into .md
-# and run the script on it. Test in litesite-testing/sadie/. This
-# is the non-collection test.
-
 import datetime as dt  # enable sorting on date
 from operator import itemgetter  # to create key fn for sorted
 from pathlib import Path  # system-independent filepath manipulation
@@ -199,9 +195,11 @@ MAXDEPTH = 3  # 1 = root only
 SORTKEY = 1  # 0 = title, 1 = date, anything else = don't sort
 SORT_REVERSED = True
 TOC_TITLE = 'Table of Contents'
-TOC_CLASS_NAME = 'toc'  # for css styling
 TOC_PRINT_YEAR_HEADINGS = False
 TOC_PRINT_BLURBS = True
+TOC_CLASS_NAME = 'toc'  # for css styling
+TOC_NOBLURB_CLASS = 'noblurb'  # css class added on if PRINT_BLURBS = False
+TOC_ANCHOR_ID = 'toc-anchor'  # css id to enable jumping straight to TOC
 PREV_ANCHOR_TXT = 'prev'
 HOME_ANCHOR_TXT = 'TOC'
 NEXT_ANCHOR_TXT = 'next'
@@ -388,7 +386,7 @@ if __name__ == '__main__' and not _testing:
         prev = PREV_ANCHOR_TXT
         if idx != 0:
             prev = f'<a href="{sorted_meta[idx - 1][idx_url]}">{prev}</a>'
-        home = f'<a href="{BASEURL}">{HOME_ANCHOR_TXT}</a>'
+        home = f'<a href="{BASEURL}{TOC_ANCHOR_ID}">{HOME_ANCHOR_TXT}</a>'
         next = NEXT_ANCHOR_TXT
         if idx != len(sorted_meta) - 1:
             next = f'<a href="{sorted_meta[idx + 1][idx_url]}">{next}</a>'
@@ -401,7 +399,9 @@ if __name__ == '__main__' and not _testing:
         path.write_text(html_page)
 
     # complete the TOC
-    toc = f'<section class={TOC_CLASS_NAME}>\n'
+    toc_classes = TOC_CLASS_NAME
+    toc_classes += f' {TOC_NOBLURB_CLASS}' if not TOC_PRINT_BLURBS else ''
+    toc = f'<section class="{toc_classes}" id="{TOC_ANCHOR_ID}">\n'
     toc += ppd.convert_text(toc_md, 'html', 'markdown+smart')
     toc += '</section>'
 
