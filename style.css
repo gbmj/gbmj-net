@@ -5,7 +5,7 @@
     --main-txt-color: #171717;
     --main-link-color: #46b;
     --second-link-color: #84b;
-	--subduedcolor: #444444;
+	--subduedcolor: #666666;
     --highlightcolor: #a3a3a3;
 
     --sans-serif-font-stack: ui-sans-serif, system-ui, sans-serif;
@@ -19,7 +19,7 @@
 		--main-txt-color: #aaa;
         --main-link-color: #8ad;
         --second-link-color: #a8d;
-		--subduedcolor: #bbb;
+		--subduedcolor: #969696;
 		--highlightcolor: #a0a0a0;
     }
 }
@@ -113,7 +113,7 @@ h1 + h3 { /* author after /stories/ title */
 }
 
 h2 { /* /cancer-blog/ entry titles */
-    margin-top: 2rem;
+    margin-top: 3rem;
     margin-bottom: 0.5rem;
 }
 h2 + h3 { /* date after /cancer-blog/ entry title */
