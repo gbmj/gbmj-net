@@ -188,6 +188,7 @@ section.toc h3 + p {
 }
 section.toc p + h3 { /* spacing from prev element when there are blurbs */
     margin-top: 2rem;
+    margin-bottom: 0.2rem;
 }
 
 /* specific to /stories/ */
