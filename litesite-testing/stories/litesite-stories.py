@@ -252,17 +252,15 @@ def _create_meta_defaults(path: Path) -> dict[str, typ.Any]:
     """Set up fallback values for page metadata."""
     m: dict[str, typ.Any] = {}
 
-    if path.stem == 'index':
-        p = path.parent
-        slash = '/' if not p.samefile(BASEDIR) else ''
-    else:
-        p = path
-        slash = ''
+    p = path.parent if path.stem == 'index' else path
 
     m['title'] = p.stem.replace('-', ' ').title()
     m['date'] = dt.date(1, 1, 1)  # January 1, 0001
     m['blurb'] = ''
-    m['url'] = f'{BASEURL}{str(p.relative_to(BASEDIR))}{slash}'
+    u = f'{BASEURL}{str(p.relative_to(BASEDIR))}/'
+    # pathlib relative_to returns . if paths are the same;
+    # strip off the trailing /. in that case
+    m['url'] = u if not p.samefile(BASEDIR) else u[:-3]
     m['path'] = path.with_suffix('.html')
 
     # add your custom defaults here
@@ -379,14 +377,14 @@ if __name__ == '__main__' and not _testing:
         if TOC_PRINT_YEAR_HEADINGS and (date.year != year):
             toc_md += f'\n## {date.year}\n\n'
             year = date.year
-        toc_md += f'[{title}]({url})\n'
-        toc_md += f':    {blurb}\n\n' if TOC_PRINT_BLURBS else ''
+        toc_md += f'### [{title}]({url})\n'
+        toc_md += f'{blurb}\n\n' if TOC_PRINT_BLURBS else ''
 
         # update nav links in page itself
         prev = PREV_ANCHOR_TXT
         if idx != 0:
             prev = f'<a href="{sorted_meta[idx - 1][idx_url]}">{prev}</a>'
-        home = f'<a href="{BASEURL}{TOC_ANCHOR_ID}">{HOME_ANCHOR_TXT}</a>'
+        home = f'<a href="{BASEURL}#{TOC_ANCHOR_ID}">{HOME_ANCHOR_TXT}</a>'
         next = NEXT_ANCHOR_TXT
         if idx != len(sorted_meta) - 1:
             next = f'<a href="{sorted_meta[idx + 1][idx_url]}">{next}</a>'
@@ -409,7 +407,7 @@ if __name__ == '__main__' and not _testing:
     outfile = Path(BASEDIR).joinpath('index.html')
     infile = Path(BASEDIR).joinpath(f'index.{INFILE_EXT}')
     if infile.exists():
-        html_page = outfile.read_text().replace('TOC_BLOCK_PH', toc)
+        html_page = outfile.read_text().replace('<p>TOC_BLOCK_PH</p>', toc)
     else:
         prev = PREV_ANCHOR_TXT
         next = NEXT_ANCHOR_TXT
