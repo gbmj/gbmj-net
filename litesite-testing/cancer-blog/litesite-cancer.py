@@ -374,7 +374,7 @@ if __name__ == '__main__' and not _testing:
         prev = PREV_ANCHOR_TXT
         if idx != 0:
             prev = f'<a href="{sorted_meta[idx - 1][idx_url]}">{prev}</a>'
-        home = f'<a href="{BASEURL}{TOC_ANCHOR_ID}">{HOME_ANCHOR_TXT}</a>'
+        home = f'<a href="{BASEURL}#{TOC_ANCHOR_ID}">{HOME_ANCHOR_TXT}</a>'
         next = NEXT_ANCHOR_TXT
         if idx != len(sorted_meta) - 1:
             next = f'<a href="{sorted_meta[idx + 1][idx_url]}">{next}</a>'
