@@ -171,14 +171,14 @@ section.toc h1 + h3 { /* see above, override page title + author styling */
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
 }
-h2 + h3 { /* see above, override cancer blog entry title + date styling */
+section.toc h2 + h3 { /* see above, override cancer blog entry title + date styling */
     font-style: normal;
     color: var(--main-txt-color);
     margin-top: 0.5rem;
 }
-
-section.toc h3 > a { /* ToC story names, cancer blog page names */
+section.toc h3 { /* ToC story names, cancer blog page names */
     font-size: 1.2rem; /* smaller in section, article, aside, nav elts; compensate */
+    margin: 0;
 }
 section.toc h3 + p { /* spacing to next element when there are blurbs */
     margin-bottom: 2rem; /* I could maybe do this actually with the <p> element used for hte blurb? */
