@@ -107,7 +107,7 @@ h1 { /* page titles */
 }
 h1 + h3 { /* author after /stories/ title */
     font-style: italic;
-    font-color: var(--subduedcolor);
+    color: var(--subduedcolor);
     margin-top: 0rem;
     margin-bottom: 3rem;
 }
@@ -118,7 +118,7 @@ h2 { /* /cancer-blog/ entry titles */
 }
 h2 + h3 { /* date after /cancer-blog/ entry title */
     font-style: italic;
-    font-color: var(--subduedcolor);
+    color: var(--subduedcolor);
     margin-top: 0rem;
 }
 /* end TODO */
@@ -170,8 +170,11 @@ section.toc h1 + h3 { /* see above, override page title + author styling */
     margin-top: 0.5rem;
     margin-bottom: 0.5rem;
 }
-/* also need to override the h2 + h3 styling above, because if toc years
-get printed the first entry in the toc will be an h2 + h3 */
+h2 + h3 { /* see above, override cancer blog entry title + date styling */
+    font-style: normal;
+    color: var(--main-txt-color);
+    margin-top: 0.5rem;
+}
 
 section.toc h3 > a { /* ToC story names, cancer blog page names */
 /*    font-size: 1.2rem; /* don't need now that they're h3s instead of dts */

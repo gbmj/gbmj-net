@@ -395,7 +395,7 @@ if __name__ == '__main__' and not _testing:
     outfile = Path(BASEDIR).joinpath('index.html')
     infile = Path(BASEDIR).joinpath(f'index.{INFILE_EXT}')
     if infile.exists():
-        html_page = outfile.read_text().replace('TOC_BLOCK_PH', toc)
+        html_page = outfile.read_text().replace('<p>TOC_BLOCK_PH</p>', toc)
     else:
         prev = PREV_ANCHOR_TXT
         next = NEXT_ANCHOR_TXT
