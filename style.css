@@ -102,7 +102,7 @@ h1, h2, h3, h4 {
 	line-height: 1.3;
 }
 h1 { /* page titles */
-    margin-top: 2rem;
+    margin-top: 3rem;
     margin-bottom: 0.5rem;
 }
 h1 + h3 { /* author after /stories/ title */
@@ -180,8 +180,11 @@ section.toc h3 { /* ToC story names, cancer blog page names */
     font-size: 1.2rem; /* smaller in section, article, aside, nav elts; compensate */
     margin: 0;
 }
-section.toc h3 + p { /* spacing to next element when there are blurbs */
-    margin-bottom: 2rem; /* I could maybe do this actually with the <p> element used for hte blurb? */
+section.toc p {
+    margin-top: 0.3rem;
+}
+section.toc p + h3 { /* spacing from prev element when there are blurbs */
+    margin-top: 2rem;
 }
 
 /* specific to /stories/ */
