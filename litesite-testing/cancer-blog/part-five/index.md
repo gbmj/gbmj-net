@@ -1,8 +1,7 @@
 ---
 litesite: collection
-title: "Part Five: Dec 2006 - Jan 2007"
+title: "Part Five: The start of treatment week five"
 date: 2006-12-29
-blurb: The three days over New Year's.
 ---
 
 ## Christmas Visit Day Five

@@ -1,8 +1,7 @@
 ---
 litesite: collection
-title: "Part Four: Dec 2006"
+title: "Part Four: Treatment weeks three and four"
 date: 2006-12-13
-blurb: The third, fourth and fifth weeks of treatment.
 ---
 
 ## Luxuries

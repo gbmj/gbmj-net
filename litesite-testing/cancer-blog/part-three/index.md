@@ -1,8 +1,7 @@
 ---
 litesite: collection
-title: "Part Three: Dec 2006"
+title: "Part Three: The second week of treatment"
 date: 2006-12-07
-blurb: The second week of treatment.
 ---
 
 ## Visit Day Nine

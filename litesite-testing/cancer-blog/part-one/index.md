@@ -1,8 +1,7 @@
 ---
 litesite: collection
-title: "Part One: Nov 2006"
+title: "Part One: From diagnosis to the start of treatment"
 date: 2006-11-07
-blurb: From diagnosis to the start of treatment.
 ---
 
 (This is the start of the journal.)
