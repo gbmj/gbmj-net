@@ -178,7 +178,7 @@ section.toc h2 + h3 { /* see above, override cancer blog entry title + date styl
 }
 section.toc h3 { /* ToC story names, cancer blog page names */
     font-size: 1.2rem; /* smaller in section, article, aside, nav elts; compensate */
-    margin: 0.3rem 0;
+    margin: 0.5rem 0;
 }
 section.toc p {
     margin-top: 0.3rem;
