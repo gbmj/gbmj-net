@@ -209,7 +209,7 @@ TOC_PRINT_YEAR_HEADINGS = False
 TOC_PRINT_BLURBS = False
 TOC_CLASS_NAME = 'toc'  # for css styling
 TOC_NOBLURB_CLASS = 'noblurb'  # css class added on if PRINT_BLURBS = False
-TOC_ID = ''  # '' = top of home page; any other text jump to TOC title
+TOC_ID = ''  # '' = top of home page; '#foo' for any foo, jump to TOC title
 PREV_ANCHOR_TXT = 'prev'
 HOME_ANCHOR_TXT = 'TOC'
 NEXT_ANCHOR_TXT = 'next'
@@ -381,7 +381,7 @@ if __name__ == '__main__' and not _testing:
         prev = PREV_ANCHOR_TXT
         if idx != 0:
             prev = f'<a href="{sorted_meta[idx - 1][idx_url]}">{prev}</a>'
-        home = f'<a href="{BASEURL}#{TOC_ID}">{HOME_ANCHOR_TXT}</a>'
+        home = f'<a href="{BASEURL}{TOC_ID}">{HOME_ANCHOR_TXT}</a>'
         next = NEXT_ANCHOR_TXT
         if idx != len(sorted_meta) - 1:
             next = f'<a href="{sorted_meta[idx + 1][idx_url]}">{next}</a>'
