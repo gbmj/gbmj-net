@@ -132,7 +132,7 @@ hr:after {
     top: -0.8rem; /* to vertically center it; depends also on <p> margins/padding */
 }
 ol, ul {
-    list-style-type: '§';
+    list-style-type: '§  ';
 }
 /* for the stage directions in Liz Builds a Robot */
 pre.liz, pre.liz > code {
