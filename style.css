@@ -202,7 +202,7 @@ footer.inner {
 header > p { /* name of site */
 	font-size: 0.9rem; /* note, larger than the rest of header/footer text */
     border-bottom: 1px solid var(--secondary-txt-color);
-    padding-bottom: 0.2rem;  /* spacing from text to border */
+/*    padding-bottom: 0.2rem;  /* spacing from text to border */
 }
 footer > p { /* copyright text, link to license */
     border-top: 1px solid var(--secondary-txt-color);
@@ -211,7 +211,7 @@ footer > p { /* copyright text, link to license */
 
 /* where the header and footer sections differ */
 header > p + nav { /* site nav links right under the site name */
-    margin-top: 0.2rem;  /* spacing to border on p element */
+ /*   margin-top: 0.2rem;  /* spacing to border on p element */
 }
 
 
