@@ -2,14 +2,14 @@
 litesite: standalone
 title: The Story Behind Time Travel Is a Voodoo Rite
 ---
-# #TheStoryBehind: Time Travel Is a Voodoo Rite
+# The Story Behind "Time Travel Is a Voodoo Rite"
 
 by Grayson Bray Morris ⋅ 2018
 
 (Read [the story](HOME_URL_PHtime-travel-voodoo-rite/) first, if you haven't
 yet.)
 
-In 2006, my then-fifteen-year-old daughter developed brain cancer. She
+In 2006, my then-fifteen-year-old [daughter developed brain cancer](DOMAIN_URL_PHcancer-blog/). She
 died thirteen months later. As it happened, I was four months pregnant
 when she died.
 
