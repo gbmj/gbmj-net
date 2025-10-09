@@ -163,50 +163,55 @@ span.newthought { /* to use for first words of a new section, where desired */
 }
 
 
-/* style the very top and very bottom of the page content, 
-   ie, the page header and footer sections. Note this
-   leaves possible headers and footers in other sections
-   unchanged */
-body > header {
+/* I'm using multiple header and footer elements for the various
+   levels of nav from 'this page' to 'this site' to 'the main site'.
+   This sets their relative spacing to one another and to the page's
+   main content. The setup for header should mirror that for footer
+   (and obv. vice versa). Note: to style footers within the page's main content,
+   use main > <elt> to override these settings.
+*/
+
+/* global header, footer settings common to both */
+header, footer {
     text-align: center;
+    font-size: 0.8rem;
+	color: var(--secondary-txt-color);
+}
+/* spacing from one <elt> to the next */
+header {
 	margin-bottom: 2rem; /* same spacing as above the footer, see below */
 }
-body > footer {
-	text-align: center;
+footer {
     margin-top: 2rem;
 }
-
-/* style the mirrored elements in header, footer */
-body > header > p { /* name of site */
-	font-size: 0.9rem; 
-	color: var(--secondary-txt-color);
-    border-bottom: 1px solid var(--secondary-txt-color);
-    margin-bottom: 0.2rem;  
+/* the outermost header and footer: spacing to edge of site */
+header.outer {
+    margin-top: 1rem;
 }
-body > header > nav { /* nav links */
-	font-size: 0.8rem;
-	color: var(--secondary-txt-color);
-/*	margin: 0 0 0.7rem 0; */
-}
-body > header > nav.back-to-main { /* top nav element on site */
+footer.outer {
     margin-bottom: 1rem;
 }
-/* footer version */
-body > footer > p { /* copyright text, link to license */
-	font-size: 0.8rem; /* note, smaller than site name in header */
-	color: var(--secondary-txt-color);
-/*    padding-top: 0.2rem; /* to match spacing from line with header spacing */
-/*    margin-top: 0; */
-    margin-bottom: 0.2rem;  /* spacing to element below */
+/* the innermost header and footer: spacing to page main content */
+header.inner {
+    margin-bottom: 2rem;
+}
+footer.inner {
+    margin-top: 2rem;
+}
+/* text elements marking the edge of the page content from the site nav */
+header > p { /* name of site */
+	font-size: 0.9rem; /* note, larger than the rest of header/footer text */
+    border-bottom: 1px solid var(--secondary-txt-color);
+    padding-bottom: 0.2rem;  /* spacing from text to border */
+}
+footer > p { /* copyright text, link to license */
     border-top: 1px solid var(--secondary-txt-color);
+    padding-top: 0.2rem;  /* spacing from border to text */
 }
-body > footer > nav { /* nav links */
-	font-size: 0.8rem;
-	color: var(--secondary-txt-color);
-/*	margin: 0.7rem 0 0 0; */
-}
-body > footer > nav.back-to-main { /* bottom nav element on site */
-    margin-top: 1rem;
+
+/* where the header and footer sections differ */
+header > p + nav { /* site nav links right under the site name */
+    margin-top: 0.2rem;  /* spacing to border on p element */
 }
 
 
