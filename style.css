@@ -59,7 +59,6 @@ figcaption {
 /* for quotes in running text */
 blockquote {
     font-style: italic;
-    font-size: 90%;
 	margin: 2em;
     border-left: 3px solid;
     padding-left: 1em;  
@@ -84,6 +83,15 @@ a:hover { /* :focus puts a border around a link by default, so no need to also d
 a:visited {
     color: var(--secondary-link-color);
     text-decoration-color: var(--secondary-link-color);
+}
+
+aside { 
+    border-top: 1px dotted var(--primary-txt-color);
+    border-bottom: 1px dotted var(--primary-txt-color);
+    background: var(--secondary-bg-color);
+    margin: 3rem 0;
+    padding: 1rem;
+    font-size: 1rem;
 }
 
 /* SEMANTIC HEADINGS */
@@ -121,14 +129,6 @@ hr:after {
     top: -0.8rem; /* to vertically center it; depends also on <p> margins/padding */
 }
 
-aside { 
-    border-top: 1px dotted var(--primary-txt-color);
-    border-bottom: 1px dotted var(--primary-txt-color);
-    background: var(--secondary-bg-color);
-    margin: 3rem 0;
-    padding: 1rem 0;
-    font-size: 1rem;
-}
 /* ---- END GENERAL STYLING ---- */
 /* ---- SPECIFIC OVERRIDES ---- */
 section.toc {
