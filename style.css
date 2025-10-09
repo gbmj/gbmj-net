@@ -1,12 +1,14 @@
-/* ---- VARIABLE DEFINITIONS ---- */
-* {
-	--backgroundcolor: #fff;
-    --prebackgroundcolor: #ededed;
-    --main-txt-color: #171717;
-    --main-link-color: #46b;
-    --second-link-color: #84b;
-	--subduedcolor: #666666;
-    --highlightcolor: #a3a3a3;
+/* ---- VARIABLES ---- */
+/* TODO: look into relative color definitions, esp for 'subdued' def 
+    see https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_colors/Relative_colors
+    esp the Color palette generator example, monochrome */
+* {  
+	--primary-bg-color: #fff;
+    --secondary-bg-color: #ededed;
+    --primary-txt-color: #171717;
+	--secondary-txt-color: #73787c;
+    --primary-link-color: #46b;
+    --secondary-link-color: #84b;
 
     --sans-serif-font-stack: ui-sans-serif, system-ui, sans-serif;
     --monospace-font-stack: ui-monospace, monospace;
@@ -14,13 +16,12 @@
 
 @media (prefers-color-scheme: dark) {
     * {
-		--backgroundcolor: #121212;
-		--prebackgroundcolor: #2f2f2f;
-		--main-txt-color: #aaa;
-        --main-link-color: #8ad;
-        --second-link-color: #a8d;
-		--subduedcolor: #969696;
-		--highlightcolor: #a0a0a0;
+		--primary-bg-color: #121212;
+		--secondary-bg-color: #3f3f3f;
+		--primary-txt-color: #aaa;
+		--secondary-txt-color: #969696;
+        --primary-link-color: #7391bd;
+        --secondary-link-color: #987ac5;
     }
 }
 
@@ -28,12 +29,12 @@
 /* ---- GENERAL STYLING ---- */
 html {
 	font-family: var(--sans-serif-font-stack);
-	background: var(--backgroundcolor);
+	background: var(--primary-bg-color);
     max-width: 70ch;
     padding: 1em;
     margin: auto;
     line-height: 1.75;
-	color: var(--main-txt-color);
+	color: var(--primary-txt-color);
 	/* next 3 lines disable auto-inflate on various mobile browsers */
 	-moz-text-size-adjust: none;
 	-webkit-text-size-adjust: none;
@@ -64,11 +65,11 @@ blockquote {
 }
 
 code {
-    background: var(--prebackgroundcolor);
+    background: var(--secondary-bg-color);
 }
 
 pre {
-    background: var(--prebackgroundcolor);
+    background: var(--secondary-bg-color);
     padding: 2px 4px;
     overflow: auto;
 }
@@ -79,21 +80,21 @@ video {
 
 /* style link behavior to use clear colors and underlining for visual clarity */
 a {
-    color: var(--main-link-color);
+    color: var(--primary-link-color);
     text-decoration-line: underline; /* text-decoration single line shorthand not working in Safari */
     text-decoration-style: dashed;
     text-decoration-thickness: 1px;
     text-underline-offset: 0.15rem;
 }
 a:link {
-    text-decoration-color: var(--main-link-color);
+    text-decoration-color: var(--primary-link-color);
 }
 a:hover { /* :focus puts a border around a link by default, so no need to also do this */
     font-weight: bolder;
 }
 a:visited {
-    color: var(--second-link-color);
-    text-decoration-color: var(--second-link-color);
+    color: var(--secondary-link-color);
+    text-decoration-color: var(--secondary-link-color);
 }
 
 /* headings */
@@ -107,7 +108,7 @@ h1 { /* page titles */
 }
 h1 + h3 { /* author after /stories/ title */
     font-style: italic;
-    color: var(--subduedcolor);
+    color: var(--secondary-txt-color);
     margin-top: 0rem;
     margin-bottom: 3rem;
 }
@@ -118,12 +119,12 @@ h2 { /* /cancer-blog/ entry titles */
 }
 h2 + h3 { /* date after /cancer-blog/ entry title */
     font-style: italic;
-    color: var(--subduedcolor);
+    color: var(--secondary-txt-color);
     margin-top: 0rem;
 }
 /* end TODO */
 
-hr {  /* used semantically, as scene divider in-story */
+hr {  /* used semantically, as scene divider */
     border: none;
     overflow: visible;
     text-align: center;
@@ -139,9 +140,9 @@ hr:after {
 }
 
 aside { /* for quotes from the blog -- see if I still need all this TODO */
-    border-top: 1px dotted var(--main-txt-color);
-    border-bottom: 1px dotted var(--main-txt-color);
-    background: var(--prebackgroundcolor);
+    border-top: 1px dotted var(--primary-txt-color);
+    border-bottom: 1px dotted var(--primary-txt-color);
+    background: var(--secondary-bg-color);
     margin: 3rem 0;
     padding: 1rem 0;
     text-align: center;
@@ -167,13 +168,13 @@ section.toc h1 {
 }
 section.toc h1 + h3 { /* see above, override page title + author styling */
     font-style: normal;
-    color: var(--main-txt-color);
+    color: var(--primary-txt-color);
     margin-top: 1rem;
     margin-bottom: 0.3rem;
 }
 section.toc h2 + h3 { /* see above, override cancer blog entry title + date styling */
     font-style: normal;
-    color: var(--main-txt-color);
+    color: var(--primary-txt-color);
     margin-top: 0.5rem;
 }
 section.toc h3 { /* ToC story names, cancer blog page names */
@@ -198,7 +199,7 @@ span.newthought { /* for text starting a new section in-story */
 }
 /* for the stage directions in Liz Builds a Robot */
 pre.liz, pre.liz > code {
-    background: var(--backgroundcolor);
+    background: var(--primary-bg-color);
     font-family: var(--monospace-font-stack);
     text-align: center;
     font-size: 0.7rem;
@@ -222,13 +223,13 @@ body > footer {
 /* style the mirrored elements in header, footer */
 body > header > p { /* name of site */
 	font-size: 0.9rem; 
-	color: var(--subduedcolor);
-    border-bottom: 1px solid var(--subduedcolor);
+	color: var(--secondary-txt-color);
+    border-bottom: 1px solid var(--secondary-txt-color);
     margin-bottom: 0.2rem;  
 }
 body > header > nav { /* nav links */
 	font-size: 0.8rem;
-	color: var(--subduedcolor);
+	color: var(--secondary-txt-color);
 /*	margin: 0 0 0.7rem 0; */
 }
 body > header > nav.back-to-main { /* top nav element on site */
@@ -237,15 +238,15 @@ body > header > nav.back-to-main { /* top nav element on site */
 /* footer version */
 body > footer > p { /* copyright text, link to license */
 	font-size: 0.8rem; /* note, smaller than site name in header */
-	color: var(--subduedcolor);
+	color: var(--secondary-txt-color);
 /*    padding-top: 0.2rem; /* to match spacing from line with header spacing */
 /*    margin-top: 0; */
     margin-bottom: 0.2rem;  /* spacing to element below */
-    border-top: 1px solid var(--subduedcolor);
+    border-top: 1px solid var(--secondary-txt-color);
 }
 body > footer > nav { /* nav links */
 	font-size: 0.8rem;
-	color: var(--subduedcolor);
+	color: var(--secondary-txt-color);
 /*	margin: 0.7rem 0 0 0; */
 }
 body > footer > nav.back-to-main { /* bottom nav element on site */
@@ -264,7 +265,7 @@ body > header > figure > blockquote {
 body > header > figure > blockquote > p {
     text-align: center;
     font-size:0.8rem;
-	color: var(--subduedcolor);
+	color: var(--secondary-txt-color);
     font-style: italic;
 	padding-top: 0.2rem;
 	padding-bottom: 0.2rem;
@@ -273,7 +274,7 @@ body > header > figure > blockquote > p {
 }
 body > header > figure > blockquote + figcaption {
     font-size: 0.7rem;
-	color: var(--subduedcolor);
+	color: var(--secondary-txt-color);
     margin-top: 0;
 }
 
