@@ -18,8 +18,8 @@ Assumed folder structure:
        |_ head.html     (required; name customizable)
        |_ cheader.html  (required; name customizable)
        |_ cfooter.html  (required; name customizable)
-       |_ sheader.html  (optional; name customizable)
-       |_ sfooter.html  (optional; name customizable)
+       |_ nheader.html  (optional; name customizable)
+       |_ nfooter.html  (optional; name customizable)
     */                  (0+ other folders)
         |_ *.foo        (0+ input files)
         |_ *.*          (0+ other files)
@@ -40,7 +40,7 @@ using YAML frontmatter:
       This means you can also use the chosen extension for other things.
 
 Collection pages use the cheader and cfooter files; standalone pages
-use sheader and sfooter. This allows you to tailor the site navigation
+use nheader and nfooter. This allows you to tailor the site navigation
 to the page type. If you want all pages to have the same header and footer,
 use cheader and cfooter for both.
 
@@ -168,6 +168,14 @@ Tips:
     choices, except for one: the URL it generates for pages named
     `index` goes to the enclosing folder and contains a trailing
     slash. Modify the script if you prefer different behavior.
+
+Limitations:
+    This script is only 'aware' of page-level headers and footers:
+    their contents are inserted between the <body> and <main> (
+    resp. </main> and </body>) tags. If you need section-level headers,
+    footers, nav blocks or other in-page content that repeats on all pages,
+    check out a more full-featured site generator like Jekyll or
+    Hugo.
 """
 
 import datetime as dt  # enable sorting on date
@@ -259,8 +267,8 @@ def _create_meta_defaults(path: Path) -> dict[str, typ.Any]:
     m['blurb'] = ''
     u = f'{BASEURL}{str(p.relative_to(BASEDIR))}/'
     # pathlib relative_to returns . if paths are the same;
-    # strip off the trailing /. in that case
-    m['url'] = u if not p.samefile(BASEDIR) else u[:-3]
+    # strip off the trailing ./ in that case
+    m['url'] = u if not p.samefile(BASEDIR) else u[:-2]
     m['path'] = path.with_suffix('.html')
 
     # add your custom defaults here
@@ -375,10 +383,10 @@ if __name__ == '__main__' and not _testing:
     for idx, (title, date, blurb, url, path) in enumerate(sorted_meta):
         # add page listing to TOC
         if TOC_PRINT_YEAR_HEADINGS and (date.year != year):
-            toc_md += f'\n## {date.year}\n\n'
+            toc_md += f'\n{date.year}' + r'\{.subtitle\}' + '\n\n'
             year = date.year
-        toc_md += f'### [{title}]({url})\n'
-        toc_md += f'{blurb}\n\n' if TOC_PRINT_BLURBS else ''
+        toc_md += f'- [{title}]({url})\n'
+        toc_md += f'    {blurb}\n\n' if TOC_PRINT_BLURBS else ''
 
         # update nav links in page itself
         prev = PREV_ANCHOR_TXT
