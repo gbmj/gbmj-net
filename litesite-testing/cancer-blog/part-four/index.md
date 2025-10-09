@@ -5,7 +5,8 @@ date: 2006-12-13
 ---
 
 ## Luxuries
-### 13 Dec 2006
+13 Dec 2006
+
 Monday I walked for ten minutes through a cold December rain to bring my six-year-old's bike home.
 
 Tuesday I biked into a biting wind.
@@ -15,7 +16,8 @@ Wednesday I climbed onto a stool to coax a reluctant platter from the top shelf.
 My daughter can't do any of these things.
 
 ## Close Scrapes
-### 21 Dec 2006
+21 Dec 2006
+
 It's been more than a week since I've posted. A week full of difficult moments, but also a good week. Being home is wonderful. My youngest two children are happy and energetic, loving and silly. We've lived in our normal rhythm of work, school, dance class and scouting, early to rise and dinner at 6.
 
 The contrast with my daughter's life in the hospital is immense. Should I feel guilty about that? I don't think so. She can't choose to go home for two weeks of normalcy and come back refreshed. Does that mean I shouldn't either? I don't think so. What good am I to her&mdash;or to the rest of my family&mdash;if I use myself up?
@@ -43,7 +45,8 @@ My teary-eyed ex-husband hugged my husband's parents as he thanked them for gett
 This doesn't mean she won't want to quit next week, or even tomorrow. But now I know she wants to continue. I know that "let me stop" is an ephemeral plea based on current misery, not a well-considered choice about her future.
 
 ## All Backed Up
-### 23 Dec 2006
+23 Dec 2006
+
 My daughter is severely constipated. She's had a tube down her nose since lunchtime yesterday, first pumping out bile, then pumping in laxative. It will stay there until she poops, which could be today or next week.
 
 I fail to see how this got overlooked. Her chemo medications are constipating, and she's been refusing her Colace pill for days. This didn't sneak up on anyone. Her every efflux and excretion gets recorded to the nearest hour. Why didn't hospital staff notice this earlier?
@@ -55,13 +58,15 @@ I wish they'd come in at, say, day four and told us they'd have to stick this tu
 Her father told us she keeps trying to take the tube out. Picking at the tape on her nose, saying "Just for five minutes." Let's hope she poops today.
 
 ## Quick Results
-### 24 Dec 2006 | Christmas Eve
+24 Dec 2006 | Christmas Eve
+
 The tube is out&mdash;she's pooping! Resolution came yesterday morning.
 
 Tomorrow we fly to the US again: my husband and two youngest children on one flight, I on another. They'll rent a car in DC and drive down to NC, bunking down somewhere along the way and arriving Tuesday morning. I'll fly directly to RDU, where my father will pick me up and take me to the hospital. If I don't get delayed, I should see my daughter before she goes to sleep.
 
 ## Christmas Visit Days One and Two
-### 26 Dec 2006
+26 Dec 2006
+
 All our flights were uneventful and on time. I saw my daughter for about half an hour Monday evening. She was happy to see me, and surprised (short-term memory problem? she didn't think I'd be coming the night I arrived, though that's the only plan I've ever had).
 
 My husband and children arrived Tuesday morning around 10:30. We opened presents with my parents and sister at her house, then went to the hospital and opened more. My daughter had presents for us: chocolates for me, a T-shirt for my husband, Play-Doh and other toys for her siblings. I was touched by this. My mother told me my daughter had asked to go to the hospital gift shop to get presents; the first one she bought was mine.
@@ -75,7 +80,8 @@ She's had two blood transfusions in the past week for her very low red blood cel
 Her last radiation treatment is January 4; her last chemo, January 10.
 
 ## Christmas Visit Day Three
-### 27 Dec 2006
+27 Dec 2006
+
 She seemed more down today. We did get outside twice, each time for about twenty minutes. Her new wheelchair has a headrest and a tray, which came in handy for playing Mancala. She's enjoying her brother and sister. Children's buoyancy is usually a good thing in situations like these.
 
 A milestone: today was her last full craniospinal radiation. The rest will be targeted head radiation.
@@ -87,7 +93,8 @@ Her last radiation will be January 5, not January 4. Apparently this is a flexib
 My husband and I are trying to work out what comes next. The apparent plan of action is for her to go to the Rehab floor during her six treatment-free weeks. We think it's a death sentence not to let her leave the hospital for at least a few days first. After slogging through, not quitting, going the distance... she still doesn't get to come home for a visit? I think that would be emotionally crushing. Surely we can get her a few days on The Outside to boost her spirits and replenish her emotional reserves.
 
 ## Christmas Visit Day Four
-### 28 Dec 2006
+28 Dec 2006
+
 She was still sleeping when we arrived at 9:30 AM; she woke at 10.
 
 The good news: she pooped again. The bad news: she didn't make it to the bedside commode in time. Her poop was very watery and her pants got soaked; it ran all down her legs. Nurse Blythe changed her bed and I got her cleaned up. But it beats a tube down her nose!

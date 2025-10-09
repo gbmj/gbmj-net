@@ -5,7 +5,8 @@ date: 2006-11-28
 ---
 
 ## Visit Day One
-### 28 Nov 2006
+28 Nov 2006
+
 Our daughter didn't shave her head. She was exhausted on Sunday, so lethargic that my ex-husband and his wife were very worried about her. Yesterday, the day we arrived, was a much better day.
 
 She's in relatively good spirits in a nearly unworkable situation. She has almost no control over her right arm and leg and must thus be helped by two nurses every time she wants to pee. Her new port-a-cath hurts, much like a nasty gash in your hand from a kitchen knife; the pain will subside as the wound heals, but it's pulled and pushed every time she's helped to stand.
@@ -21,7 +22,8 @@ Significant side effects&mdash;hair loss, metabolic problems, thyroid problems&m
 We left her drifting off to sleep at 10:45 PM, after the Ativan and Seroquel started to work their magic.
 
 ## Visit Day Two
-### 29 Nov 2006
+29 Nov 2006
+
 My daughter felt much worse yesterday. She didn't sleep well and was still dozing when we arrived at 8:30 AM. When she woke, she was grumpy and frustrated. Pretty much the whole day went like that, with brief periods where we were able to coax a smile from her.
 
 Despite receiving Zofran (ondansetron) before her chemotherapy, she was nauseated much of the day. She couldn't get comfortable in bed. She used a bedpan instead of getting up to the bedside commode.
@@ -33,7 +35,8 @@ She was again terrified before and after her radiation treatment; I can only ima
 Despite her loud protests, I insisted she get a sponge bath. This morning she'll have a student nurse one on one until noon; I plan to ask the nurse to bathe her and wash her hair.
 
 ## Visit Day Three
-### 29 Nov 2006
+29 Nov 2006
+
 My daughter's morning was crappy, but she had a really good period in the afternoon. If it becomes a pattern, we want to take advantage of it: get her out of her room, play games, make cards, visit the butterfly garden.
 
 She had her first full craniospinal radiation treatment today. Her anxiety level was noticeably lower today before and after radiation. She also had a CT scan to see if there's a reason for her recent bladder and bowel trouble: she wet her bed several times last night and had another accident this morning. Needless to say, these make her even more miserable than she already is.
@@ -43,10 +46,12 @@ She got another sponge bath today, and we washed her hair&mdash;sort of. We used
 I'm slowly learning the names of all her drugs. Synthroid. Pepcid. Colace. Decadron. Zofran. Vincristine. Carboplatin. Ativan. Seroquel.
 
 ## [Ode to the Nurse](HOME_URL_PHode-nurse/)
-### 30 Nov 2006
+30 Nov 2006
+
 
 ## Visit Day Four
-### 1 Dec 2006
+1 Dec 2006
+
 Yesterday was a better day, though it got off to a rocky start. The occupational therapist, a nurse assistant and I helped my daughter shower. I finally got to wash her hair! It was a Herculean ordeal. To add agony to exhaustion, the dressing on her venous catheter got wet despite the baggie, and when the nurse went to flush the port, it didn't. They had to put in a new needle, and because they didn't want to risk it clotting off, they couldn't numb the area with Emla first.
 
 We were able to get outside for a short while in the afternoon, but my daughter was feeling very nauseated.
@@ -60,7 +65,8 @@ My husband will be flying back to the Netherlands on Sunday. I'll be staying her
 There's little to no space at the Ronald McDonald House, so our friends Dave and Rita have graciously offered to let me keep staying with them. They'll drive me back and forth to the hospital every day. These are the times when you just have to let go of not wanting to impose on others. This is what friends are for.
 
 ## Visit Days Five and Six
-### 2 Dec 2006
+2 Dec 2006
+
 My daughter felt miserable through Friday morning, but she had a pretty good four hours from 2 to 6 PM. We wheeled her outside into the balmy North Carolina air for about twenty minutes.
 
 She was again much calmer before and after radiation.
@@ -82,7 +88,8 @@ We brought in a hair clipper to shave her head. She's been asking all week, but 
 Her current mood is sullen and fatalistic. She resents being pushed; I keep reminding her why we're pushing her, and indeed, why she's doing all this in the first place.
 
 ## Visit Day Six (second half)
-### 3 Dec 2006
+3 Dec 2006
+
 My daughter had another accident; we didn't get her to the bedside commode in time. I was helping her stand, and my pants got soaked. Fortunately she and I are pretty much the same size; I borrowed a pair of hers.
 
 I gave her a sponge bath and got her dressed and into the wheelchair. Her dad and stepmom came in just as we were starting to shave her head. It looks surprisingly good on her. Right after, she started crying. It's good to see her let out some of her fear and sadness, though it breaks my heart too.
@@ -104,7 +111,8 @@ I couldn't help crying as I watched her, hairless, slumped into a green puke buc
 It's just the way it is.
 
 ## Visit Day Seven
-### 4 Dec 2006
+4 Dec 2006
+
 Today was a great day. My daughter was awake and in great spirits when we walked in at 9:30 AM. She said she'd slept well (a first), and she'd already had a muffin for breakfast.
 
 My husband said a quick goodbye before heading for his plane in DC.
@@ -122,7 +130,8 @@ She ate quite well today. We did her arm and leg exercises twice, and she brushe
 I dread tomorrow, when chemo and radiation start back up.
 
 ## Visit Day Eight
-### 5 Dec 2006 | St. Nicholas Eve
+5 Dec 2006 | St. Nicholas Eve
+
 Another very good day for my daughter despite starting chemo and radiation again. For me, long, and in places, very hard.
 
 She asked me to walk to Ben and Jerry's&mdash;a good hour's walk there and back&mdash;to get her some ice cream. She got mad at me when I said no. At moments like these I remember what it used to be like on our dark days, back when our biggest problem&mdash;itself insurmountable&mdash;was her "missing circuit," as I think of it. Her three-year-old view of the world. Her lack of empathy. The way she treats other people as objects designed to meet her needs.
