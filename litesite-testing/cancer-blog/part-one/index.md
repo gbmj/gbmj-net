@@ -7,7 +7,7 @@ date: 2006-11-07
 (This is the start of the journal.)
 
 ## Glioma, Glioblastoma, Gliomatosis, Oh My
-7 Nov 2006 {.subtitle}
+7 Nov 2006
 
 My eldest child has a brain tumor. In fact, she has several probably cancerous areas spread throughout her brain: one very large ball in the right hemisphere, and smeary areas elsewhere. We don't yet know exactly what she has, and making a diagnosis has turned out to be hard.
 

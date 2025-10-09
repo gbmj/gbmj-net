@@ -99,7 +99,7 @@ h2 { /* section titles */
     margin-top: 3rem;
     margin-bottom: 0.3rem;
 }
-p.subtitle { /* after h1 or h2 */
+h1 + p, h2 + p { /* first p elt after h1 or h2 is author, date, or similar */
     font-style: italic;
     color: var(--secondary-txt-color);
     margin-top: 0rem;
