@@ -41,7 +41,7 @@ html {
 	text-size-adjust: none; 
 }
 
-/* for story artwork */
+/* for story artwork, drawings page */
 figure {
     text-align: center;
     margin-bottom: 2em
@@ -56,6 +56,7 @@ figcaption {
     font-style: italic;
 }
 
+/* for quotes in running text */
 blockquote {
     font-style: italic;
     font-size: 90%;
@@ -63,20 +64,8 @@ blockquote {
     border-left: 3px solid;
     padding-left: 1em;  
 }
-
-code {
-    background: var(--secondary-bg-color);
-}
-
-pre {
-    background: var(--secondary-bg-color);
-    padding: 2px 4px;
-    overflow: auto;
-}
-
-video {
-    width: 100%;
-}
+/* maybe add a figure > blockquote set of styling, for quotes on main site pages?
+to replace the intricate stuff below, after revising mains site pages */
 
 /* style link behavior to use clear colors and underlining for visual clarity */
 a {
@@ -97,8 +86,8 @@ a:visited {
     text-decoration-color: var(--secondary-link-color);
 }
 
-/* headings */
-h1, h2, h3, h4 {
+/* SEMANTIC HEADINGS */
+h1, h2 {
 	font-weight: normal;
 	line-height: 1.3;
 }
@@ -106,24 +95,18 @@ h1 { /* page titles */
     margin-top: 3rem;
     margin-bottom: 0.5rem;
 }
-h1 + h3 { /* author after /stories/ title */
+h2 { /* section titles */
+    margin-top: 3rem;
+    margin-bottom: 0.3rem;
+}
+p.subtitle { /* after h1 or h2 */
     font-style: italic;
     color: var(--secondary-txt-color);
     margin-top: 0rem;
     margin-bottom: 3rem;
 }
 
-h2 { /* /cancer-blog/ entry titles */
-    margin-top: 3rem;
-    margin-bottom: 0.3rem;
-}
-h2 + h3 { /* date after /cancer-blog/ entry title */
-    font-style: italic;
-    color: var(--secondary-txt-color);
-    margin-top: 0rem;
-}
-/* end TODO */
-
+/* DIVIDERS */
 hr {  /* used semantically, as scene divider */
     border: none;
     overflow: visible;
@@ -139,61 +122,35 @@ hr:after {
     top: -0.8rem; /* to vertically center it; depends also on <p> margins/padding */
 }
 
-aside { /* for quotes from the blog -- see if I still need all this TODO */
+aside { 
     border-top: 1px dotted var(--primary-txt-color);
     border-bottom: 1px dotted var(--primary-txt-color);
     background: var(--secondary-bg-color);
     margin: 3rem 0;
     padding: 1rem 0;
-    text-align: center;
-    font-style: italic;
     font-size: 1rem;
 }
-aside:has(h4 + blockquote) {
-    font-style: normal;
-    text-align: left;
-}
-aside > h4 {
-    margin-left: 2em; /* match blockquote */
-}
-
 /* ---- END GENERAL STYLING ---- */
 /* ---- SPECIFIC OVERRIDES ---- */
 section.toc {
     margin: 2rem 0;
 }
-section.toc h1 {
+section.toc h1 { /* toc heading, such as 'Table of Contents' */
    font-size: 2rem; /* smaller in section, article, aside, nav elts; compensate */
    margin-bottom: 1rem;
 }
-section.toc h1 + h3 { /* see above, override page title + author styling */
-    font-style: normal;
-    color: var(--primary-txt-color);
-    margin-top: 1rem;
-    margin-bottom: 0.3rem;
+/* see if I still need this styling now for toc entry titles */
+/* section.toc li > a {
+   margin: 0.5rem 0;
 }
-section.toc h2 + h3 { /* see above, override cancer blog entry title + date styling */
-    font-style: normal;
-    color: var(--primary-txt-color);
-    margin-top: 0.5rem;
-}
-section.toc h3 { /* ToC story names, cancer blog page names */
-/*    font-size: 1.2rem; /* smaller in section, article, aside, nav elts; compensate */
-    margin: 0.5rem 0;
-}
-section.toc p {
+ */
+/* see if I still need this styling now, for toc blurbs */
+/* section.toc p {
     margin-top: 0.3rem;
 }
-section.toc h3 + p {
-    margin-top: 0;
-}
-section.toc p + h3 { /* spacing from prev element when there are blurbs */
-    margin-top: 2rem;
-    margin-bottom: 0.2rem;
-}
+    */
 
-/* specific to /stories/ */
-span.newthought { /* for text starting a new section in-story */
+span.newthought { /* to use for first words of a new section, where desired */
     font-variant: small-caps;
     font-size: 1.2em;
 }
@@ -207,6 +164,8 @@ pre.liz, pre.liz > code {
     margin-top: 0.4em; 
     margin-bottom: 0.4em;
 }
+
+
 /* style the very top and very bottom of the page content, 
    ie, the page header and footer sections. Note this
    leaves possible headers and footers in other sections
@@ -254,7 +213,8 @@ body > footer > nav.back-to-main { /* bottom nav element on site */
 }
 
 
-/* some pages have a top quotation; style this */
+/* some pages have a top quotation; style this -- NOTE I may be able to delete all this
+once I revise the main site pages */
 body > header > figure {
     padding: 0.6rem;
     margin: 0;

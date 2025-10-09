@@ -7,13 +7,15 @@ date: 2006-11-07
 (This is the start of the journal.)
 
 ## Glioma, Glioblastoma, Gliomatosis, Oh My
-### 7 Nov 2006
+[7 Nov 2006]{.subtitle}
+
 My eldest child has a brain tumor. In fact, she has several probably cancerous areas spread throughout her brain: one very large ball in the right hemisphere, and smeary areas elsewhere. We don't yet know exactly what she has, and making a diagnosis has turned out to be hard.
 
 Her neurologist describes her situation as "atypical, unusual, and baffling." Her presenting symptoms (weakness on her right side, known as hemiparesis) and initial MRIs and spinal tap led to a tentative diagnosis of multiple sclerosis in early October. When her symptoms didn't improve after steroids and physical therapy, another MRI led to a biopsy. A week's staining and staring at the extracted tissue came back inconclusive; now the sample is off to an expert at Johns Hopkins for further study.
 
 ## From Himalayan Peak to Appalachian Slope....Maybe
-### 8 Nov 2006
+[8 Nov 2006]{.subtitle}
+
 The neurosurgeons and neuropathologists discussed my daughter's case again today:
 
 >The feelings amongst the group are that this is a high grade tumor, but the origin or type is still unknown. Everyone agrees that it has defied any usual patterns that we know of. The pathologist does not think it arose from the glia, thus it does not look like what we call a glioma, or even gliomatosis cerebri. "High grade" means that it is aggressive, in that the cells are dividing and growing out of control. This is very uncharacteristic for gliomatosis. It usually means it will be more amenable to treatment, if the cells are growing fast.
@@ -28,7 +30,8 @@ My daughter's prognosis is likely to be less rosy, since there is more than one 
 But there's a lot of room between these numbers and "dead in 12 months."
 
 ## It's Still a Mystery
-### 15 Nov 2006
+[15 Nov 2006]{.subtitle}
+
 The tentative reply from Johns Hopkins is in: they, too, are unable to pinpoint what kind of brain cancer my daughter has. I had no idea this could happen. Once you have an honest-to-goodness real-live sample of tumor tissue, how can you not be able to discover what makes it tick? To lay bare all its secrets?
 
 Clearly I am operating under mistaken assumptions, because the capable doctors at UNC Hospitals and at Johns Hopkins have done all they can, and done it well. I'm just surprised. Astonished. I had no idea. I wonder how often it happens. Is my daughter a supreme anomaly in the world of brain cancer, or is she joined by, say, 2% of her tumorous peers?
@@ -36,7 +39,8 @@ Clearly I am operating under mistaken assumptions, because the capable doctors a
 In any case, we have to decide on treatment. The tumors aren't likely to spontaneously vanish.
 
 ## Radiation and Chemotherapy
-### 17 Nov 2006
+[17 Nov 2006]{.subtitle}
+
 Though a definite diagnosis has eluded us, one thing is certain: my daughter (15) has aggressive primary malignant brain tumors. Dr. Berger, the pathologist at Johns Hopkins, grades them as 4+ on a 1-4 severity scale. They are not PNETs or germ cell tumors. The doctors feel they are probably gliomas of some kind. Alas, gliomatosis cerebri is still in the running.
 
 They will not be attempting surgical removal.
@@ -48,7 +52,8 @@ She will also receive chemotherapy, either during or after her radiation treatme
 Her stepfather and I are getting flu shots today in preparation for our second trip to see her. I am by nature a reluctant vaccinee, but a little thimerosal and aluminum in my system seems a small price to pay: in exchange, I'll know I did what I could (and what was asked of me) to protect her compromised immune system.
 
 ## Craniospinal and New Chemo Drugs
-### 18 Nov 2006
+[18 Nov 2006]{.subtitle}
+
 The written report from Johns Hopkins arrived yesterday. My daughter's tumors have the radiologic signature of gliomatosis cerebri, but Johns Hopkins felt it could also be supratentorial PNET. The good news is that some people do survive s-PNET. Pretty much no one survives gliomatosis cerebri.
 
 My daughter's treatment plan has thus changed to follow the s-PNET protocol. She will receive 2 weeks of radiation to the primary tumor site and full craniospinal radiation for the next 4 weeks. (So long to enough hair for even the Roman tonsure.) Her quality of life will be dismal during that time; craniospinal radiation causes anorexia, nausea, vomiting, sore throat, and swallowing issues. But the radiologist says this is her best shot treatment-wise.
@@ -58,7 +63,8 @@ Chemotherapy will start after Thanksgiving. She will receive Vincristine instead
 My husband and I spoke directly with the radiologist last night. He was very straight up about my daughter's prognosis. I really appreciated that. I've read enough to know she has little chance of surviving long. It's comforting to hear her doctor confirm that: it's so hard not knowing. Reading doom and gloom, but hoping you're reading the wrong things. Unsure whether to be as frightened and sad as you are. Unable to come to terms with her disease, because you aren't sure you have the right information.
 
 ## Quality of Life and Hard Decisions
-### 20 Nov 2006
+[20 Nov 2006]{.subtitle}
+
 My daughter has four parents. Her father and I divorced when she was 2. We are both remarried to wonderful people who love her. She lived with her stepfather and me until she was 12, moving with us from the US to the Netherlands when she was 10, then returned to the US to live with her father and stepmother.
 
 Her life hasn't been an easy one. She has a diagnosis of Asperger syndrome and a tentative diagnosis of borderline. She is a very difficult person, through no fault of her own. Some circuit never got connected for her, something didn't develop as it should; we don't know exactly what happened. But she has worn out the people who most love her, and burned a lot of bridges behind her.
@@ -82,7 +88,8 @@ My father put it well: it sounds like a treatment you might survive but wish you
 All we have are the odds. And the odds are grim.
 
 ## Relief, and a Thrill of Hope
-### 21 Nov 2006
+[21 Nov 2006]{.subtitle}
+
 Last night we four parents had a conference call with our daughter's primary doctor. My husband and I had prepared a slew of questions:
 
 - What is the prognosis in our daughter's specific case, given the extent, location, and size of her tumors and the fact they aren't going to be resected?
@@ -101,7 +108,8 @@ It no longer matters whether treatment is horrible, side effects are permanent, 
 The immense relief that suffused me upon hearing this surprised me. I hadn't realized how heavily making this decision for her weighed on me&mdash;on all of us. But what surprised me more was the hope. I still know she's unlikely to make it&mdash;her doctor said her chances are much less than 50-50, and her tumor is "very worrisome"&mdash;yet I'm buoyed by her choice.
 
 ## Suspense
-### 22 Nov 2006
+[22 Nov 2006]{.subtitle}
+
 I'm desperate to know how my daughter's first radiation session went yesterday. How does she feel?
 
 We called last night as usual (midnight our time, to catch her at 6 PM her time) but didn't reach her. We texted ("how did it go? We love you and we're thinking of you") but haven't heard back.
@@ -109,7 +117,8 @@ We called last night as usual (midnight our time, to catch her at 6 PM her time)
 It's far too early to call her now; we'll wait another four hours or so.
 
 ## Resolution, Part I
-### 22 Nov 2006
+[22 Nov 2006]{.subtitle}
+
 I got a stranger on the phone when I called my daughter this afternoon. I must have the wrong number, he said; they were admitted last night.
 
 We finally got hold of my ex-husband. Our daughter has been moved to a new room on the oncology floor. He said the radiation session was quick and painless. Through the holiday weekend she'll be getting tumor-area-only radiation; full craniospinal will begin next week. Chemotherapy begins next week too.
@@ -117,7 +126,8 @@ We finally got hold of my ex-husband. Our daughter has been moved to a new room 
 She wasn't in when we called just now; probably at physical therapy. Her second radiation session will be around 3 PM East Coast time.
 
 ## Resolution, Part II
-### 23 Nov 2006
+[23 Nov 2006]{.subtitle}
+
 We spoke with our daughter last night around 6 PM her time. She sounded tired and a little down. She wasn't sure how many radiation treatments she'd already had (two), but they were short and they didn't hurt. She's not in any pain; she doesn't feel sick.
 
 Yet, she said. She doesn't feel sick yet. So she hasn't forgotten what she's facing.
@@ -125,7 +135,8 @@ Yet, she said. She doesn't feel sick yet. So she hasn't forgotten what she's fac
 We'll be there in four more days. I wish we were there now.
 
 ## Another Valley
-### 23 Nov 2006 
+[23 Nov 2006]{.subtitle}
+
 **valley 2 a** : a low, gloomy, or fearsome place or situation «the valley of the shadow of death»
 
 We got another middle-of-the-night call last night, this one at a respectable 6:15 AM our time. My ex-husband and his wife had just spent two hours calming our daughter. Her panicky evening calls to them are becoming frequent. The day ends and her visitors leave; she has several hours to get through before her sleep medication arrives. Distractionless hours, full of time to think.
@@ -141,7 +152,8 @@ I can't find statistics for how alarming they are if she has s-PNET.
 I wish we were there now.
 
 ## Sinead O'Connor
-### 26 Nov 2006
+[26 Nov 2006]{.subtitle}
+
 My daughter wants to shave her head. She plans to do it today. Her father surmises it's one thing she can control in a pretty helpless situation.
 
 She's going to donate her hair to a program that makes wigs for children who've lost theirs. I wonder if she could get her own hair back as a wig. Somehow this idea amuses me.

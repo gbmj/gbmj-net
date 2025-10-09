@@ -371,10 +371,10 @@ if __name__ == '__main__' and not _testing:
     for idx, (title, date, blurb, url, path) in enumerate(sorted_meta):
         # add page listing to TOC
         if TOC_PRINT_YEAR_HEADINGS and (date.year != year):
-            toc_md += f'\n## {date.year}\n\n'
+            toc_md += f'\n{date.year}' + r'\{.subtitle\}' + '\n\n'
             year = date.year
-        toc_md += f'### [{title}]({url})\n'
-        toc_md += f'{blurb}\n\n' if TOC_PRINT_BLURBS else ''
+        toc_md += f'1. [{title}]({url})\n'
+        toc_md += f'    {blurb}\n\n' if TOC_PRINT_BLURBS else ''
 
         # update nav links in page itself
         prev = PREV_ANCHOR_TXT
