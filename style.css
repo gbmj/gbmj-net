@@ -95,6 +95,7 @@ aside , details { /* style the same; their function is the same, only one is clo
     padding: 1rem 2rem;
     font-size: 1rem;
 }
+details > summary {font-size: 2rem;}
 
 /* SEMANTIC HEADINGS */
 h1, h2 {
