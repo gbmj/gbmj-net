@@ -90,7 +90,7 @@ aside {
     border-bottom: 1px dotted var(--primary-txt-color);
     background: var(--secondary-bg-color);
     margin: 3rem 0;
-    padding: 1rem;
+    padding: 1rem 2rem;
     font-size: 1rem;
 }
 
@@ -129,12 +129,22 @@ hr:after {
     top: -0.8rem; /* to vertically center it; depends also on <p> margins/padding */
 }
 
-/* ---- END GENERAL STYLING ---- */
-/* ---- SPECIFIC OVERRIDES ---- */
+/* for the stage directions in Liz Builds a Robot */
+pre.liz, pre.liz > code {
+    background: var(--primary-bg-color);
+    font-family: var(--monospace-font-stack);
+    text-align: center;
+    font-size: 0.7rem;
+    line-height: 1.3;
+    margin-top: 0.4em; 
+    margin-bottom: 0.4em;
+}
+
+/* table of contents styling */
 section.toc {
     margin: 2rem 0;
 }
-section.toc h1 { /* toc heading, such as 'Table of Contents' */
+section.toc h1 { /* toc title, such as 'Table of Contents' */
    font-size: 2rem; /* smaller in section, article, aside, nav elts; compensate */
    margin-bottom: 1rem;
 }
@@ -152,16 +162,6 @@ section.toc h1 { /* toc heading, such as 'Table of Contents' */
 span.newthought { /* to use for first words of a new section, where desired */
     font-variant: small-caps;
     font-size: 1.2em;
-}
-/* for the stage directions in Liz Builds a Robot */
-pre.liz, pre.liz > code {
-    background: var(--primary-bg-color);
-    font-family: var(--monospace-font-stack);
-    text-align: center;
-    font-size: 0.7rem;
-    line-height: 1.3;
-    margin-top: 0.4em; 
-    margin-bottom: 0.4em;
 }
 
 
