@@ -105,7 +105,6 @@ h1, h2 {
 	line-height: 1.3;
 }
 h1 { /* page titles */
-/*    margin-top: 3rem; */
     margin-bottom: 0.5rem; /* because always followed by a p for date, author byline, etc */
 }
 h2 { /* section titles */
@@ -117,7 +116,7 @@ h1 + p, h2 + p { /* first p elt after h1 or h2 is author, date, or similar */
     color: var(--secondary-txt-color);
     margin-top: 0rem;
 }
-h1 + p { /* for page headings, add space to start of content */
+h1 + p { /* for page headings, add space to start of main content */
     margin-bottom: 2rem;
 }
 
@@ -157,7 +156,8 @@ section.toc h1 { /* toc title, such as 'Table of Contents' */
    margin-bottom: 1rem;
 }
 
-span.newthought { /* to use for first words of a new section, where desired */
+ /* to use for first words of a new section, where desired */
+span.newthought {
     font-variant: small-caps;
     font-size: 1.2em;
 }
@@ -202,11 +202,12 @@ footer.inner {
 header > p { /* name of site */
 	font-size: 0.9rem; /* note, larger than the rest of header/footer text */
     border-bottom: 1px solid var(--secondary-txt-color);
+    margin-bottom: 0.5rem; /* normally 0.9; brings the following nav links closer */
 /*    padding-bottom: 0.2rem;  /* spacing from text to border */
 }
 footer > p { /* copyright text, link to license */
     border-top: 1px solid var(--secondary-txt-color);
-    padding-top: 0.2rem;  /* spacing from border to text */
+    padding-top: 0.2rem;  /* spacing from border to text; needed bc font size smaller than in header */
 }
 
 /* where the header and footer sections differ */
