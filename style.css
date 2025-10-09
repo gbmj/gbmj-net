@@ -87,7 +87,7 @@ a:visited {
     text-decoration-color: var(--secondary-link-color);
 }
 
-aside { 
+aside , details { /* style the same; their function is the same, only one is closable */ 
     border-top: 1px dotted var(--primary-txt-color);
     border-bottom: 1px dotted var(--primary-txt-color);
     background: var(--secondary-bg-color);
