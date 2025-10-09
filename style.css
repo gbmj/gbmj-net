@@ -95,8 +95,8 @@ aside , details { /* style the same; their function is the same, only one is clo
     padding: 1rem 2rem;
     font-size: 1rem;
 }
-details > summary { /* the freaking triangle is so tiny otherwise */
-    font-size: 1.2rem;
+details > summary { /* the freaking triangle is so tiny, I've made the text 'click to read' pfft */
+    color: var(--secondary-txt-color);
 }
 
 /* SEMANTIC HEADINGS */
