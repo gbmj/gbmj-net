@@ -103,7 +103,6 @@ h1 + p, h2 + p { /* first p elt after h1 or h2 is author, date, or similar */
     font-style: italic;
     color: var(--secondary-txt-color);
     margin-top: 0rem;
-    margin-bottom: 3rem;
 }
 
 /* DIVIDERS */

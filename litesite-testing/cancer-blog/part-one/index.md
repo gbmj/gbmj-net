@@ -14,7 +14,7 @@ My eldest child has a brain tumor. In fact, she has several probably cancerous a
 Her neurologist describes her situation as "atypical, unusual, and baffling." Her presenting symptoms (weakness on her right side, known as hemiparesis) and initial MRIs and spinal tap led to a tentative diagnosis of multiple sclerosis in early October. When her symptoms didn't improve after steroids and physical therapy, another MRI led to a biopsy. A week's staining and staring at the extracted tissue came back inconclusive; now the sample is off to an expert at Johns Hopkins for further study.
 
 ## From Himalayan Peak to Appalachian Slope....Maybe
-[8 Nov 2006]{.subtitle}
+8 Nov 2006
 
 The neurosurgeons and neuropathologists discussed my daughter's case again today:
 
@@ -30,7 +30,7 @@ My daughter's prognosis is likely to be less rosy, since there is more than one 
 But there's a lot of room between these numbers and "dead in 12 months."
 
 ## It's Still a Mystery
-[15 Nov 2006]{.subtitle}
+15 Nov 2006
 
 The tentative reply from Johns Hopkins is in: they, too, are unable to pinpoint what kind of brain cancer my daughter has. I had no idea this could happen. Once you have an honest-to-goodness real-live sample of tumor tissue, how can you not be able to discover what makes it tick? To lay bare all its secrets?
 
@@ -39,7 +39,7 @@ Clearly I am operating under mistaken assumptions, because the capable doctors a
 In any case, we have to decide on treatment. The tumors aren't likely to spontaneously vanish.
 
 ## Radiation and Chemotherapy
-[17 Nov 2006]{.subtitle}
+17 Nov 2006
 
 Though a definite diagnosis has eluded us, one thing is certain: my daughter (15) has aggressive primary malignant brain tumors. Dr. Berger, the pathologist at Johns Hopkins, grades them as 4+ on a 1-4 severity scale. They are not PNETs or germ cell tumors. The doctors feel they are probably gliomas of some kind. Alas, gliomatosis cerebri is still in the running.
 
@@ -52,7 +52,7 @@ She will also receive chemotherapy, either during or after her radiation treatme
 Her stepfather and I are getting flu shots today in preparation for our second trip to see her. I am by nature a reluctant vaccinee, but a little thimerosal and aluminum in my system seems a small price to pay: in exchange, I'll know I did what I could (and what was asked of me) to protect her compromised immune system.
 
 ## Craniospinal and New Chemo Drugs
-[18 Nov 2006]{.subtitle}
+18 Nov 2006
 
 The written report from Johns Hopkins arrived yesterday. My daughter's tumors have the radiologic signature of gliomatosis cerebri, but Johns Hopkins felt it could also be supratentorial PNET. The good news is that some people do survive s-PNET. Pretty much no one survives gliomatosis cerebri.
 
@@ -63,7 +63,7 @@ Chemotherapy will start after Thanksgiving. She will receive Vincristine instead
 My husband and I spoke directly with the radiologist last night. He was very straight up about my daughter's prognosis. I really appreciated that. I've read enough to know she has little chance of surviving long. It's comforting to hear her doctor confirm that: it's so hard not knowing. Reading doom and gloom, but hoping you're reading the wrong things. Unsure whether to be as frightened and sad as you are. Unable to come to terms with her disease, because you aren't sure you have the right information.
 
 ## Quality of Life and Hard Decisions
-[20 Nov 2006]{.subtitle}
+20 Nov 2006
 
 My daughter has four parents. Her father and I divorced when she was 2. We are both remarried to wonderful people who love her. She lived with her stepfather and me until she was 12, moving with us from the US to the Netherlands when she was 10, then returned to the US to live with her father and stepmother.
 
@@ -88,7 +88,7 @@ My father put it well: it sounds like a treatment you might survive but wish you
 All we have are the odds. And the odds are grim.
 
 ## Relief, and a Thrill of Hope
-[21 Nov 2006]{.subtitle}
+21 Nov 2006
 
 Last night we four parents had a conference call with our daughter's primary doctor. My husband and I had prepared a slew of questions:
 
@@ -108,7 +108,7 @@ It no longer matters whether treatment is horrible, side effects are permanent, 
 The immense relief that suffused me upon hearing this surprised me. I hadn't realized how heavily making this decision for her weighed on me&mdash;on all of us. But what surprised me more was the hope. I still know she's unlikely to make it&mdash;her doctor said her chances are much less than 50-50, and her tumor is "very worrisome"&mdash;yet I'm buoyed by her choice.
 
 ## Suspense
-[22 Nov 2006]{.subtitle}
+22 Nov 2006
 
 I'm desperate to know how my daughter's first radiation session went yesterday. How does she feel?
 
@@ -117,7 +117,7 @@ We called last night as usual (midnight our time, to catch her at 6 PM her time)
 It's far too early to call her now; we'll wait another four hours or so.
 
 ## Resolution, Part I
-[22 Nov 2006]{.subtitle}
+22 Nov 2006
 
 I got a stranger on the phone when I called my daughter this afternoon. I must have the wrong number, he said; they were admitted last night.
 
@@ -126,7 +126,7 @@ We finally got hold of my ex-husband. Our daughter has been moved to a new room 
 She wasn't in when we called just now; probably at physical therapy. Her second radiation session will be around 3 PM East Coast time.
 
 ## Resolution, Part II
-[23 Nov 2006]{.subtitle}
+23 Nov 2006
 
 We spoke with our daughter last night around 6 PM her time. She sounded tired and a little down. She wasn't sure how many radiation treatments she'd already had (two), but they were short and they didn't hurt. She's not in any pain; she doesn't feel sick.
 
@@ -135,7 +135,7 @@ Yet, she said. She doesn't feel sick yet. So she hasn't forgotten what she's fac
 We'll be there in four more days. I wish we were there now.
 
 ## Another Valley
-[23 Nov 2006]{.subtitle}
+23 Nov 2006
 
 **valley 2 a** : a low, gloomy, or fearsome place or situation «the valley of the shadow of death»
 
@@ -152,7 +152,7 @@ I can't find statistics for how alarming they are if she has s-PNET.
 I wish we were there now.
 
 ## Sinead O'Connor
-[26 Nov 2006]{.subtitle}
+26 Nov 2006
 
 My daughter wants to shave her head. She plans to do it today. Her father surmises it's one thing she can control in a pretty helpless situation.
 
