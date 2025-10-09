@@ -371,7 +371,7 @@ if __name__ == '__main__' and not _testing:
     for idx, (title, date, blurb, url, path) in enumerate(sorted_meta):
         # add page listing to TOC
         if TOC_PRINT_YEAR_HEADINGS and (date.year != year):
-            toc_md += f'\n{date.year}' + r'\{.subtitle\}' + '\n\n'
+            toc_md += f'\n{date.year}\n\n'
             year = date.year
         toc_md += f'- [{title}]({url})'
         toc_md += f' &mdash; {blurb}\n' if TOC_PRINT_BLURBS else ''
