@@ -1,4 +1,16 @@
 #! /usr/bin/env python
+
+# Copyright (c) 2025 Grayson Bray Morris.
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+
 # /// script
 # requires-python = ">=3.13"
 # dependencies = [
@@ -186,25 +198,25 @@ import frontmatter  # parse input files containing YAML frontmatter
 import pypandoc as ppd  # convert input files to html
 
 #   -- USER SETTINGS ---
-SITE_NAME = "Grayson's Book of Stories"
+SITE_NAME = 'gbmj.net'
 LANGUAGE = 'en'  # two-letter iso code
 DOMAIN = 'https://gbmj.net/'  # include protocol and end in /
-PATH_FROM_DOMAIN_TO_HERE = 'litesite-testing/stories/'  # end in / if not ''
+PATH_FROM_DOMAIN_TO_HERE = ''  # end in / if not ''
 HHF_SUBDIR = 'cmn/'  # where head, header, footer files are; end in /
 HDFN = 'head.html'
-HDRFN_C = 'cheader.html'
+HDRFN_C = 'nheader.html'
 HDRFN_NC = 'nheader.html'
-FTRFN_C = 'cfooter.html'
+FTRFN_C = 'nfooter.html'
 FTRFN_NC = 'nfooter.html'
 INFILE_EXT = 'md'  # can be anything; no leading dot
 CONVERT_FROM = 'markdown+smart'  # pandoc input type, with optional extensions
 OPTS: list[str] = []  # pandoc options to pass in to conversion
-MAXDEPTH = 3  # 1 = root only
+MAXDEPTH = 1  # 1 = root only
 SORTKEY = 1  # 0 = title, 1 = date, anything else = don't sort
-SORT_REVERSED = True
-TOC_TITLE = "Grayson's Book of Stories"
-TOC_PRINT_YEAR_HEADINGS = False
-TOC_PRINT_BLURBS = True
+SORT_REVERSED = False
+TOC_TITLE = 'TOC'
+TOC_PRINT_YEAR_HEADINGS = True
+TOC_PRINT_BLURBS = False
 TOC_CLASS_NAME = 'toc'  # for css styling
 TOC_NOBLURB_CLASS = 'noblurb'  # css class added on if PRINT_BLURBS = False
 TOC_ID = ''  # '' = top of home page; '#foo' for any foo, jump to TOC title
@@ -265,17 +277,13 @@ def _create_meta_defaults(path: Path) -> dict[str, typ.Any]:
     m['title'] = p.stem.replace('-', ' ').title()
     m['date'] = dt.date(1, 1, 1)  # January 1, 0001
     m['blurb'] = ''
-    u = f'{BASEURL}{str(p.relative_to(BASEDIR))}/'
+    u = f'{BASEURL}{str(p.relative_to(BASEDIR))}'
+    u = u + '/' if path.stem == 'index' else u.replace(f'{INFILE_EXT}', 'html')
     # pathlib relative_to returns . if paths are the same;
     # strip off the trailing ./ in that case
     m['url'] = u if not p.samefile(BASEDIR) else u[:-2]
     m['path'] = path.with_suffix('.html')
-
     # add your custom defaults here
-    m['pub'] = ''
-    m['artist'] = ''
-    m['artlink'] = ''
-    m['art'] = ''
     # end custom defaults
 
     return m
@@ -300,19 +308,27 @@ def _process_complex_meta(meta: dict[str, typ.Any]) -> None:
     # unless you change that
 
     # process custom metadata here
-    if meta['pub']:
-        meta['pub'] = f'First published in <em>{meta["pub"]}</em>.'
-    if meta['artist']:
-        if meta['artlink']:
-            meta['art'] = f'<a href="{meta["artlink"]}">{meta["artist"]}</a>'
-        else:
-            meta['art'] = f'{meta["artist"]}'
-        meta['art'] = f'Custom story artwork copyright {meta["art"]}.'
+    pass
     # end custom processing
 
 
 # --- testing ---
 _testing = False
+
+if _testing:
+    for files in _get_infiles(BASEDIR, rf'*.{INFILE_EXT}', MAXDEPTH):
+        for filepath in files:
+            tags, body = frontmatter.parse(filepath.read_text())
+            if 'litesite' in tags:
+                html_body = (
+                    ppd.convert_text(
+                        body, 'html', CONVERT_FROM, extra_args=OPTS
+                    )
+                    if CONVERT_FROM not in PPD_HTML_TYPES
+                    else body
+                )
+                m = _create_meta_defaults(filepath)
+
 # --- end testing ---
 
 if __name__ == '__main__' and not _testing:
@@ -361,9 +377,6 @@ if __name__ == '__main__' and not _testing:
                 )
                 # --- CUSTOM ---
                 # process any custom placeholders here
-                html_page = html_page.replace('PUB_PH', m['pub']).replace(
-                    'ARTIST_PH', m['art']
-                )
                 # --- END CUSTOM ---
                 m['path'].write_text(html_page)
 
@@ -439,7 +452,6 @@ if __name__ == '__main__' and not _testing:
         # if you added custom placeholders that appear
         # in the header and/or footer for Collection pages,
         # set them appropriately for the home page
-        html_page = html_page.replace('PUB_PH', '').replace('ARTIST_PH', '')
         # --- END CUSTOM ---
         html_page = html_page.replace('<!--BODY-->', toc)
 
