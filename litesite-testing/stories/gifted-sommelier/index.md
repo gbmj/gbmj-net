@@ -7,7 +7,7 @@ pub: Abyss & Apex Magazine
 ---
 # The Gifted Sommelier
 
-### by Grayson Bray Morris
+by Grayson Bray Morris
 
 Into the bowels of our cellar came a knock. We looked up, curious which
 of death's hotels would be its source. There, a dozen paces from me: the

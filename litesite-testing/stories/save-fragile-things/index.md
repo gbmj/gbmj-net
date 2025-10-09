@@ -6,7 +6,7 @@ blurb: Beth hosts a niche science show with a modest audience. When a representa
 ---
 # To Save Fragile Things from the Pounding of Heavy Ages
 
-### by Grayson Bray Morris
+by Grayson Bray Morris
 
 Monday. Six pm. Tension encases Beth like a static field, charged but
 invisible.

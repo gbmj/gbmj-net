@@ -6,7 +6,7 @@ blurb: How would you spend the long years in prison, inching toward Exile Day, i
 ---
 # You Blink
 
-### by Grayson Bray Morris
+by Grayson Bray Morris
 
 It's over. They've denied your final appeal.
 

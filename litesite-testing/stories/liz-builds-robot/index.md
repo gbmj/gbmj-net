@@ -7,7 +7,7 @@ pub: Galaxy's Edge Magazine
 ---
 # In Which Liz Builds a Robot with Unexpected Results
 
-### by Grayson Bray Morris
+by Grayson Bray Morris
 
 ~~~~~ {.liz}
 ===

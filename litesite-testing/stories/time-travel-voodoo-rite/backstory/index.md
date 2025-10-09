@@ -4,7 +4,7 @@ title: The Story Behind Time Travel Is a Voodoo Rite
 ---
 # #TheStoryBehind: Time Travel Is a Voodoo Rite
 
-### by Grayson Bray Morris ⋅ 2018
+by Grayson Bray Morris ⋅ 2018
 
 (Read [the story](HOME_URL_PHtime-travel-voodoo-rite/) first, if you haven't
 yet.)

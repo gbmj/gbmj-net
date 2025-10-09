@@ -8,7 +8,7 @@ pub: Brain, Child Magazine
 ---
 # Time Travel Is a Voodoo Rite
 
-### by Grayson Bray Morris
+by Grayson Bray Morris
 
 <figure>
 <img src="story-artwork-copyright-Zebi-Damen.jpg"

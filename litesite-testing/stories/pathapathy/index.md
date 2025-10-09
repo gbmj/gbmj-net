@@ -6,7 +6,7 @@ blurb: A fleeting encounter sends a laid-back guitarist on an obsessive quest fo
 ---
 # Pathapathy
 
-### by Grayson Bray Morris
+by Grayson Bray Morris
 
 My name is Chaz Whitley, and I'm a musician. Used to be one. Am one.
 Hard to say now. In the six days since a woman in torn jeans and a sexy

@@ -6,7 +6,7 @@ blurb: Conscripted into preparing sacrificial virgins for the town’s local dra
 ---
 # Brightcheeks and Brokenhand
 
-### by Grayson Bray Morris
+by Grayson Bray Morris
 
 Someone was creaking none too quietly down the stairs to my basement
 workshop. I turned to deliver my tenth fatherly lecture to the butcher's

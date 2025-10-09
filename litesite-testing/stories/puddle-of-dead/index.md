@@ -7,7 +7,7 @@ blurb: Fifteen years ago, Mia’s great love left her to chase a different high.
 ---
 # A Puddle of Dead
 
-### by Grayson Bray Morris
+by Grayson Bray Morris
 
 Henry came back to me in 2048, fifteen years after he'd left.
 

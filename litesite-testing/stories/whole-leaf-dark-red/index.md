@@ -6,7 +6,7 @@ blurb: A story of loss seen from the five-year-old mind, when the wall between m
 ---
 # A Whole Leaf, Dark and Red
 
-### by Grayson Bray Morris
+by Grayson Bray Morris
 
 The girl sits in the moist dirt of the wooded lot next door and makes
 cities out of acorns and leaves. At night the people in her cities come

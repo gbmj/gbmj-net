@@ -9,7 +9,7 @@ artlink: https://dariru.com/
 ---
 # The Message Between the Words
 
-### by Grayson Bray Morris
+by Grayson Bray Morris
 
 <figure>
 <img src="story-artwork-copyright-Darryl-Knickrehm.jpg"

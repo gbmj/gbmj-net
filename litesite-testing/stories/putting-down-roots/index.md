@@ -10,7 +10,7 @@ pub: The Glass Parachute
 
 # Putting Down Roots
 
-### by Grayson Bray Morris
+by Grayson Bray Morris
 
 <figure>
 <img src="story-artwork-copyright-Matt-D-Edginton.jpg"
