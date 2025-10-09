@@ -209,7 +209,7 @@ TOC_PRINT_YEAR_HEADINGS = False
 TOC_PRINT_BLURBS = False
 TOC_CLASS_NAME = 'toc'  # for css styling
 TOC_NOBLURB_CLASS = 'noblurb'  # css class added on if PRINT_BLURBS = False
-TOC_ANCHOR_ID = 'toc-anchor'  # css id to enable jumping straight to TOC
+TOC_ID = ''  # '' = top of home page; any other text jump to TOC title
 PREV_ANCHOR_TXT = 'prev'
 HOME_ANCHOR_TXT = 'TOC'
 NEXT_ANCHOR_TXT = 'next'
@@ -373,14 +373,15 @@ if __name__ == '__main__' and not _testing:
         if TOC_PRINT_YEAR_HEADINGS and (date.year != year):
             toc_md += f'\n{date.year}' + r'\{.subtitle\}' + '\n\n'
             year = date.year
-        toc_md += f'- [{title}]({url})\n'
-        toc_md += f'    {blurb}\n\n' if TOC_PRINT_BLURBS else ''
+        toc_md += f'- [{title}]({url})'
+        toc_md += f' &mdash; {blurb}\n' if TOC_PRINT_BLURBS else ''
+        toc_md += '\n'
 
         # update nav links in page itself
         prev = PREV_ANCHOR_TXT
         if idx != 0:
             prev = f'<a href="{sorted_meta[idx - 1][idx_url]}">{prev}</a>'
-        home = f'<a href="{BASEURL}#{TOC_ANCHOR_ID}">{HOME_ANCHOR_TXT}</a>'
+        home = f'<a href="{BASEURL}#{TOC_ID}">{HOME_ANCHOR_TXT}</a>'
         next = NEXT_ANCHOR_TXT
         if idx != len(sorted_meta) - 1:
             next = f'<a href="{sorted_meta[idx + 1][idx_url]}">{next}</a>'
@@ -395,7 +396,7 @@ if __name__ == '__main__' and not _testing:
     # complete the TOC
     toc_classes = TOC_CLASS_NAME
     toc_classes += f' {TOC_NOBLURB_CLASS}' if not TOC_PRINT_BLURBS else ''
-    toc = f'<section class="{toc_classes}" id="{TOC_ANCHOR_ID}">\n'
+    toc = f'<section class="{toc_classes}" id="{TOC_ID}">\n'
     toc += ppd.convert_text(toc_md, 'html', 'markdown+smart')
     toc += '</section>'
 

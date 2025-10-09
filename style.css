@@ -112,6 +112,9 @@ h1 + p, h2 + p { /* first p elt after h1 or h2 is author, date, or similar */
     color: var(--secondary-txt-color);
     margin-top: 0rem;
 }
+h1 + p { /* for page headings, add space to start of content */
+    margin-bottom: 2rem;
+}
 
 /* DIVIDERS */
 hr {  /* used semantically, as scene divider */
@@ -128,7 +131,9 @@ hr:after {
     position: relative;
     top: -0.8rem; /* to vertically center it; depends also on <p> margins/padding */
 }
-
+ol, ul {
+    list-style-type: '§';
+}
 /* for the stage directions in Liz Builds a Robot */
 pre.liz, pre.liz > code {
     background: var(--primary-bg-color);
@@ -148,16 +153,6 @@ section.toc h1 { /* toc title, such as 'Table of Contents' */
    font-size: 2rem; /* smaller in section, article, aside, nav elts; compensate */
    margin-bottom: 1rem;
 }
-/* see if I still need this styling now for toc entry titles */
-/* section.toc li > a {
-   margin: 0.5rem 0;
-}
- */
-/* see if I still need this styling now, for toc blurbs */
-/* section.toc p {
-    margin-top: 0.3rem;
-}
-    */
 
 span.newthought { /* to use for first words of a new section, where desired */
     font-variant: small-caps;
