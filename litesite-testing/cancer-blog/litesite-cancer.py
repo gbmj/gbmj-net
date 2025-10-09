@@ -1,4 +1,16 @@
 #! /usr/bin/env python
+
+# Copyright (c) 2025 Grayson Bray Morris.
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+
 # /// script
 # requires-python = ">=3.13"
 # dependencies = [
@@ -267,7 +279,8 @@ def _create_meta_defaults(path: Path) -> dict[str, typ.Any]:
     m['title'] = p.stem.replace('-', ' ').title()
     m['date'] = dt.date(1, 1, 1)  # January 1, 0001
     m['blurb'] = ''
-    u = f'{BASEURL}{str(p.relative_to(BASEDIR))}/'
+    u = f'{BASEURL}{str(p.relative_to(BASEDIR))}'
+    u = u + '/' if path.stem == 'index' else u.replace(f'{INFILE_EXT}', 'html')
     # pathlib relative_to returns . if paths are the same;
     # strip off the trailing ./ in that case
     m['url'] = u if not p.samefile(BASEDIR) else u[:-2]
