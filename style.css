@@ -105,12 +105,12 @@ h1, h2 {
 	line-height: 1.3;
 }
 h1 { /* page titles */
-    margin-top: 3rem;
-    margin-bottom: 0.5rem;
+/*    margin-top: 3rem; */
+    margin-bottom: 0.5rem; /* because always followed by a p for date, author byline, etc */
 }
 h2 { /* section titles */
-    margin-top: 3rem;
-    margin-bottom: 0.3rem;
+    margin-top: 3rem;  /* more white space in pages with multiple sections */
+    margin-bottom: 0.3rem;  /* because always followed by a p for date, etc */
 }
 h1 + p, h2 + p { /* first p elt after h1 or h2 is author, date, or similar */
     font-style: italic;
@@ -193,10 +193,10 @@ footer.outer {
 }
 /* the innermost header and footer: spacing to page main content */
 header.inner {
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
 }
 footer.inner {
-    margin-top: 2rem;
+    margin-top: 3rem;
 }
 /* text elements marking the edge of the page content from the site nav */
 header > p { /* name of site */
