@@ -17,11 +17,11 @@
 @media (prefers-color-scheme: dark) {
     * {
 		--primary-bg-color: #121212;
-		--secondary-bg-color: #3f3f3f;
+		--secondary-bg-color: #282828;
 		--primary-txt-color: #aaa;
 		--secondary-txt-color: #969696;
         --primary-link-color: #7391bd;
-        --secondary-link-color: #987ac5;
+        --secondary-link-color: #634f80;
     }
 }
 
