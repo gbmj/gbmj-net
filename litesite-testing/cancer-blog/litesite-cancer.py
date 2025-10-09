@@ -205,7 +205,7 @@ MAXDEPTH = 2  # 1 = root only
 SORTKEY = 1  # 0 = title, 1 = date, anything else = don't sort
 SORT_REVERSED = False
 TOC_TITLE = 'The Cancer Blog'
-TOC_PRINT_YEAR_HEADINGS = False
+TOC_PRINT_YEAR_HEADINGS = True
 TOC_PRINT_BLURBS = False
 TOC_CLASS_NAME = 'toc'  # for css styling
 TOC_NOBLURB_CLASS = 'noblurb'  # css class added on if PRINT_BLURBS = False
