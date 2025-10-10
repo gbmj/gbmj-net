@@ -1,6 +1,6 @@
 ---
 litesite: standalone
-title: The Cancer Blog
+title: Table of Contents
 ---
 <details>
 <summary>
