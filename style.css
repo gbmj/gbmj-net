@@ -90,7 +90,7 @@ figure > blockquote {
     color: var(--secondary-txt-color);
 }
 figure > blockquote, figure > blockquote > p {
-        margin-bottom: 0.5em; /* so figcaption for author is closer */
+        margin-bottom: 0.3em; /* so figcaption for author is closer */
 }
 
 /* ------- FIGURES ------- */
