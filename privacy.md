@@ -9,7 +9,7 @@ litesite: standalone
 >Life is too short to help make a world you don't want to live in.
 
 <figcaption>
-[Rob Bell](robbell.com)
+[Rob Bell](https://robbell.com)
 </figcaption>
 </figure>
 
