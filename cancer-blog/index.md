@@ -19,4 +19,10 @@ Her actual name was Meghan, by the way.
 
 TOC_BLOCK_PH
 
+<aside>
+
+The blog is still being uploaded to this site; I've got about 85 posts to go, as of 10 Oct 2025.
+
+</aside>
+
 I also wrote two short stories that draw on this experience: [Time Travel Is a Voodoo Rite](DOMAIN_URL_PHstories/time-travel-voodoo-rite/) and [Love Is a Verb](DOMAIN_URL_PHstories/love-is-verb/).
