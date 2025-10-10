@@ -110,12 +110,11 @@ figcaption {
     font-style: italic;
 }
 
-/* for multiple smaller images beside each other for comparison, such as MRI images */
+/* for multiple smaller images, easier to compare, such as MRI images */
+/* note that on mobile it doesn't much make sense to put them side by side,
+   so we'll skip that and just make them not honking wide on desktop */
 figure > figure {
     margin-bottom: 0;
-}
-figure > figure > img {
-    max-width: 200px; /* should fill more of viewport on phone than on desktop */
 }
 
 /* ------- HEADINGS and SUBTITLES ------- */

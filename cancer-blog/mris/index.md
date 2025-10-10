@@ -16,16 +16,17 @@ MRI images are flipped, meaning what you see on the left is actually on the righ
 
 ## Back View
 
-<img src="MRI_1_s10i23_back.jpg" alt="Meghan’s initial MRI" /> Sadie’s first MRI. You can see the large solid mass at the top right (top left in the image) and the smeary area in the left hemisphere (right in the image). This smear is what made Sophie’s tumor inoperable; it’s like a ribbon around her neural pathways. You can’t see it in this image, but the top right mass and the left smear are connected.
-
-
-<img src="MRI_1_s10i23_back.jpg" alt="Meghan’s initial MRI" />
-
-Sadie’s first MRI. You can see the large solid mass at the top right (top left in the image) and the smeary area in the left hemisphere (right in the image). This smear is what made Sophie’s tumor inoperable; it’s like a ribbon around her neural pathways. You can’t see it in this image, but the top right mass and the left smear are connected.
-
-<img src="MRI_1_s10i23_back.jpg" alt="Meghan’s initial MRI" />
-Sadie’s first MRI. You can see the large solid mass at the top right (top left in the image) and the smeary area in the left hemisphere (right in the image). This smear is what made Sophie’s tumor inoperable; it’s like a ribbon around her neural pathways. You can’t see it in this image, but the top right mass and the left smear are connected.
 
 ## Side View
+
+Right-click to open in a new window
+
+These series of images show changes to the tumor in the left hemisphere between August 10 (top series) and September 18 (bottom series), 2006. Each series starts at the midline in the brain (the dividing line between left and right hemispheres) and proceeds out toward Sadie’s left ear. Note that the August 10 scans begin slightly closer to the midline (you can see Sadie’s spinal cord in the first image) than the September 18 scans. This means each August 10 image comes “before” (closer to the midline than) its corresponding September 18 image.
+
+
+<img src="MRI_5_series_side.jpg" alt="side view May 2007 series" />
+
+<img src="MRI_6_series_side.jpg" alt="side view June 2007 series" />
+
 
 ## The New Brain Stem Tumor
