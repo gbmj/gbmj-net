@@ -87,6 +87,7 @@ blockquote {
 /* for top-of-page quotes on the main site */
 figure > blockquote {
     border-left: none;
+    color: var(--secondary-txt-color);
 }
 figure > blockquote, figure > blockquote > p {
         margin-bottom: 0.5em; /* so figcaption for author is closer */
