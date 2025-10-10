@@ -4,7 +4,6 @@ title: My Search for Meaning
 ---
 
 # My Search for Meaning
-with long, hard looks at the nature of God, depression, genius, ethics and truth
 
 <figure>
 
@@ -14,4 +13,4 @@ with long, hard looks at the nature of God, depression, genius, ethics and truth
 </figcaption>
 </figure>
 
-Coming soon.
+Coming soon, with long, hard looks at the nature of God, depression, genius, ethics and truth.
