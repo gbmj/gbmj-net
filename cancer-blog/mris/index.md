@@ -27,7 +27,7 @@ These images show that the rest of the tumor hasn't seemed to notice there's bee
 <figure>
 <img src="mri-back-pre-post-treatment.jpg" alt="Back view MRI before and after treatment">
 <figcaption>**(l) 27 Oct 2006**: a month after her first MRI, before the biopsy, 3 weeks before treatment began \
-**(r) 27 Feb 2007**: 1.5 months after the end of radiation and vincristine-cisplatin. The dark center in tumor is necrosis (dead tissue), which could be from radiation; it’s also a hallmark of glioblastoma multiforme (GBM): a GBM grows so quickly its blood supply can’t keep up with it, and the center dies off.
+**(r) 27 Feb 2007**: 1.5 months after the end of radiation and vincristine-cisplatin. The dark center in the tumor is necrosis (dead tissue), which could be from radiation; it’s also a hallmark of glioblastoma multiforme (GBM): a GBM grows so quickly its blood supply can’t keep up with it, and the center dies off.
 </figcaption>
 </figure>
 
@@ -42,13 +42,14 @@ From there, it only gets worse:
 
 The images below are another view on the growth you see above. The top series is from 10 April 2007; the bottom from 21 May. Each series starts at the midline in the brain (the dividing line between left and right hemispheres) and proceeds out toward Meghan's left ear. Note that the April scans begin slightly closer to the midline (you can see Meghan's spinal cord in the first image). This means each April image comes “before” (closer to the midline than) its corresponding May image.
 
-
+<figure>
 <img src="MRI_5_series_side.jpg" alt="side view May 2007 series" />
-
+</figure>
+<figure>
 <img src="MRI_6_series_side.jpg" alt="side view June 2007 series" />
+</figure>
 
-
-On 29 Aug 2007 Meghan has another MRI scan, after three relatively stable months. THe existing tumor sites haven't changed since the May MRI, but there’s a new kid in town: a 1.5-cm lesion on Sadie’s medulla oblongata. The medulla oblongata is responsible for heart rate, breathing, swallowing, and vomiting and controls several skeletal muscles involved with speech.
+On 29 Aug 2007 Meghan has another MRI scan, after three relatively stable months. The existing tumor sites haven't changed since the May MRI, but there’s a new kid in town: a 1.5-cm lesion on Sadie’s medulla oblongata. The medulla oblongata is responsible for heart rate, breathing, swallowing, and vomiting and controls several skeletal muscles involved with speech.
 
 <figure>
 <img src="mri-side-brain-stem-lesion.jpg" alt="Side view MRI showing brain stem lesion">
