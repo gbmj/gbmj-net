@@ -110,6 +110,14 @@ figcaption {
     font-style: italic;
 }
 
+/* for multiple smaller images beside each other for comparison, such as MRI images */
+figure > figure {
+    margin-bottom: 0;
+}
+figure > figure > img {
+    max-width: 200px; /* should fill more of viewport on phone than on desktop */
+}
+
 /* ------- HEADINGS and SUBTITLES ------- */
 h1, h2, h3 {
 	font-weight: normal;
