@@ -26,6 +26,7 @@ I met my husband in 1995, and in 2002, we moved to the Netherlands, his home cou
 Along the way I had four kids, [one of whom died](DOMAIN_URL_PHcancer-blog/). Raising kids was awesome but also very intense. Back when I had to show off my employable skills, this was one of my resumé entries:
 
 <aside>
+
 ### Cofounder, Morris-Jacobs Child Dev & Mgmt
 
 Managing an intensive field
@@ -40,6 +41,7 @@ include subject transportation,
 environmental maintenance, and
 sustenance preparation. (Grain of
 salt available upon request.)
+
 </aside>
 
 (Feel free to nab that for yourself, if it applies.)
