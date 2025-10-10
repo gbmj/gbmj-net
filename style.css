@@ -90,6 +90,7 @@ figure > blockquote {
     border-left: none;
 }
 figure > blockquote, figure > blockquote > p {
+        line-height: 1.3; /* for quotes that break over more than one line */
         margin-bottom: 0; /* so figcaption for author is closer */
 }
 
