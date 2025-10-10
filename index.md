@@ -1,6 +1,6 @@
 ---
 litesite: standalone
-title: gbmj.net, the webhome for Grayson Bray Morris
+title: Grayson Bray Morris digilives here
 ---
 
 # Not Yet the Droid You're Looking For
