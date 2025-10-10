@@ -8,16 +8,10 @@ with long, hard looks at the nature of God, depression, genius, ethics and truth
 
 <figure>
 
->God only knows \
-God makes his plan \
-The information's unavailable \
-to the mortal man.
-
+>To have a scientific mind is to respect the consensus facts, which are the resolution of generations of dispute, while maintaining an open mind about the still unknown.
 <figcaption>
-[Paul Simon](https://en.wikipedia.org/wiki/Slip_Slidin%27_Away)
+[Lee Smolin](https://en.wikipedia.org/wiki/Lee_Smolin)
 </figcaption>
 </figure>
 
 Coming soon.
-
-TOC_BLOCK_PH
