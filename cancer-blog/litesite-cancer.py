@@ -201,9 +201,7 @@ import pypandoc as ppd  # convert input files to html
 SITE_NAME = 'The Cancer Blog'
 LANGUAGE = 'en'  # two-letter iso code
 DOMAIN = 'https://gbmj.net/'  # include protocol and end in /
-PATH_FROM_DOMAIN_TO_HERE = (
-    'litesite-testing/cancer-blog/'  # end in / if not ''
-)
+PATH_FROM_DOMAIN_TO_HERE = 'cancer-blog/'  # end in / if not ''
 HHF_SUBDIR = 'cmn/'  # where head, header, footer files are; end in /
 HDFN = 'head.html'
 HDRFN_C = 'cheader.html'
