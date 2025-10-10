@@ -8,8 +8,8 @@ with long, hard looks at the nature of God, depression, genius, ethics and truth
 
 <figure>
 
->God only knows \ 
-God makes his plan \ 
+>God only knows \
+God makes his plan \
 The information's unavailable \
 to the mortal man.
 

@@ -166,12 +166,13 @@ section.toc h1 { /* toc title, such as 'Table of Contents' */
    font-size: 2rem; /* smaller in section, article, aside, nav elts; compensate */
    margin-bottom: 1rem;
 }
-section.toc h1 + p { /* reset behavior for years separating sets of links in the toc */
+section.toc h1 + p { /* reset behavior when years separate sets of links in the toc */
     font-style: normal;
     color: var(--primary-txt-color);
     margin-bottom: 1rem;
 }
 
+/* ------- SPANS ------- */
  /* to use for first words of a new section, where desired */
 span.newthought {
     font-variant: small-caps;
