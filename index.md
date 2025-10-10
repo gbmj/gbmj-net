@@ -29,7 +29,7 @@ Along the way I had four kids, [one of whom died](DOMAIN_URL_PHcancer-blog/). Ra
 
 ### Cofounder, Morris-Jacobs Child Dev & Mgmt
 
-Managing an intensive field
+>Managing an intensive field
 research project into offspring
 development. Responsible for
 subjects’ care and feeding, waste
