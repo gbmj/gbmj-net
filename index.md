@@ -7,7 +7,8 @@ title: gbmj.net, the webhome for Grayson Bray Morris
 
 <figure>
 
->Much madness is divinest sense, to a discerning eye; much sense, the starkest madness.
+>Much madness is divinest sense, to a discerning eye; \
+much sense, the starkest madness.
 
 <figcaption>
 [Emily Dickinson](https://www.poetryfoundation.org/poets/emily-dickinson)
