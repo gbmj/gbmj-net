@@ -10,7 +10,7 @@ title: Meghan's MRIs
 *first visit? click to read*
 </summary>
 
-MRI images are flipped, meaning what you see on the left is actually on the right side of the brain and vice versa. I selected these images as carefully as I could, but they aren’t shots of exactly the same location in exactly the same position. Moreover, the images were taken on different equipment using different contrast fluids, which is why the tumor seems brighter on one image than on another. Last but not least, reading MRI images is an art and a science; I took my descriptions from what the radiologist said, not what I saw myself. I hope these images are helpful to you, but please don’t use them to draw conclusions about your own MRIs.
+MRI images are flipped, meaning what you see on the left is actually on the right side of the brain and vice versa. I selected these images as carefully as I could, but they aren’t shots of exactly the same location in exactly the same position. Moreover, the images were taken on different equipment using different contrast fluids, which is why the tumor seems brighter on one image than on another. Last but not least, reading MRIs is an art and a science; I took my descriptions from what the radiologist said, not what I saw myself. I hope these images are helpful to you, but please don’t use them to draw conclusions about your own MRIs.
 
 </details>
 
@@ -44,8 +44,6 @@ The images below are another view on the growth you see above. The top series is
 
 <figure>
 <img src="MRI_5_series_side.jpg" alt="side view May 2007 series" />
-</figure>
-<figure>
 <img src="MRI_6_series_side.jpg" alt="side view June 2007 series" />
 </figure>
 
