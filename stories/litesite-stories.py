@@ -201,7 +201,7 @@ import pypandoc as ppd  # convert input files to html
 SITE_NAME = "Grayson's Book of Stories"
 LANGUAGE = 'en'  # two-letter iso code
 DOMAIN = 'https://gbmj.net/'  # include protocol and end in /
-PATH_FROM_DOMAIN_TO_HERE = 'litesite-testing/stories/'  # end in / if not ''
+PATH_FROM_DOMAIN_TO_HERE = 'stories/'  # end in / if not ''
 HHF_SUBDIR = 'cmn/'  # where head, header, footer files are; end in /
 HDFN = 'head.html'
 HDRFN_C = 'cheader.html'
