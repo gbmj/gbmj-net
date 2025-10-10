@@ -316,19 +316,8 @@ def _process_complex_meta(meta: dict[str, typ.Any]) -> None:
 _testing = False
 
 if _testing:
-    for files in _get_infiles(BASEDIR, rf'*.{INFILE_EXT}', MAXDEPTH):
-        for filepath in files:
-            tags, body = frontmatter.parse(filepath.read_text())
-            if 'litesite' in tags:
-                html_body = (
-                    ppd.convert_text(
-                        body, 'html', CONVERT_FROM, extra_args=OPTS
-                    )
-                    if CONVERT_FROM not in PPD_HTML_TYPES
-                    else body
-                )
-                m = _create_meta_defaults(filepath)
-
+    # test something here
+    print('testing...')
 # --- end testing ---
 
 if __name__ == '__main__' and not _testing:

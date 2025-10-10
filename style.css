@@ -65,8 +65,11 @@ blockquote {
     border-left: 3px solid;
     padding-left: 1em;  
 }
-/* maybe add a figure > blockquote set of styling, for quotes on main site pages?
-to replace the intricate stuff below, after revising mains site pages */
+/* for top-of-page quotes on the main site */
+figure > blockquote {
+    margin-bottom: 1em; /* so figcaption for author is closer */
+    border-left: none;
+}
 
 /* style link behavior to use clear colors and underlining for visual clarity */
 a {
@@ -216,35 +219,9 @@ footer > p { /* copyright text, link to license */
 }
 
 /* where the header and footer sections differ */
-header > p + nav { /* site nav links right under the site name */
+/* header > p + nav { /* site nav links right under the site name */
  /*   margin-top: 0.2rem;  /* spacing to border on p element */
-}
-
-
-/* some pages have a top quotation; style this -- NOTE I may be able to delete all this
-once I revise the main site pages */
-body > header > figure {
-    padding: 0.6rem;
-    margin: 0;
-}
-body > header > figure > blockquote {
-	margin: 0 auto;
-}
-body > header > figure > blockquote > p {
-    text-align: center;
-    font-size:0.8rem;
-	color: var(--secondary-txt-color);
-    font-style: italic;
-	padding-top: 0.2rem;
-	padding-bottom: 0.2rem;
-    margin: 0 auto; /* the 'auto' for left and right enables centering when max width is reached */
-    max-width: 50ch; /* so quotes wrap more nicely */
-}
-body > header > figure > blockquote + figcaption {
-    font-size: 0.7rem;
-	color: var(--secondary-txt-color);
-    margin-top: 0;
-}
+/* }
 
 /* --- end of page header / footer styling --- */
 
