@@ -316,6 +316,10 @@ def _process_complex_meta(meta: dict[str, typ.Any]) -> None:
 
 # --- testing ---
 _testing = False
+
+if _testing:
+    # test something here
+    print('testing...')
 # --- end testing ---
 
 if __name__ == '__main__' and not _testing:

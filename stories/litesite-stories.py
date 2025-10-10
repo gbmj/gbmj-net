@@ -193,6 +193,7 @@ Limitations:
 import datetime as dt  # enable sorting on date
 from operator import itemgetter  # to create key fn for sorted
 from pathlib import Path  # system-independent filepath manipulation
+import re  # regular expression substition
 import typing as typ  # import Generator, Iterator, Any  # type hinting support
 import frontmatter  # parse input files containing YAML frontmatter
 import pypandoc as ppd  # convert input files to html
@@ -326,6 +327,10 @@ def _process_complex_meta(meta: dict[str, typ.Any]) -> None:
 
 # --- testing ---
 _testing = False
+
+if _testing:
+    # test something here
+    print('testing...')
 # --- end testing ---
 
 if __name__ == '__main__' and not _testing:
@@ -363,15 +368,28 @@ if __name__ == '__main__' and not _testing:
                 else:
                     html_page = TEMPLATE_NC.replace('<!--BODY-->', html_body)
 
+                # replace most placeholders now -- only SELF_URL_PH has to wait
                 html_page = (
                     html_page.replace('SITENAME_TEXT_PH', SITE_NAME)
                     .replace('TITLE_TEXT_PH', m['title'])
-                    .replace('SELF_URL_PH', m['url'])
                     .replace('HOME_URL_PH', BASEURL)
                     .replace('DOMAIN_URL_PH', DOMAIN)
                     .replace('YEAR_TEXT_PH', str(m['date'].year))
                     .replace('DATE_TEXT_PH', str(m['date']))
                 )
+
+                # a page shouldn't have a link to itself, other than
+                # the canonical in the head section, which we haven't yet
+                # filled in. That means we can search and replace
+                # any self-links we do find with just the link text
+                if m['url'] in html_page:
+                    html_page = re.sub(
+                        rf'<a href="{m["url"]}">(.*?)</a>', r'\1', html_page
+                    )
+
+                # and now at last we can replace SELF_URL_PH
+                html_page = html_page.replace('SELF_URL_PH', m['url'])
+
                 # --- CUSTOM ---
                 # process any custom placeholders here
                 html_page = html_page.replace('PUB_PH', m['pub']).replace(
