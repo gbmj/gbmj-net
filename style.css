@@ -88,7 +88,7 @@ blockquote {
 figure > blockquote {
     border-left: none;
 }
-figure > blockquote > p {
+figure > blockquote, figure > blockquote > p {
         margin-bottom: 0.5em; /* so figcaption for author is closer */
 }
 
