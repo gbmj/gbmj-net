@@ -13,8 +13,10 @@ Those were the first words of my second-ever blog post back in 2006. I'd started
 
 After my daughter died, I eventually took the blog down; I created an anonymized site, *Sadie's Brain Tumor*, to share the medical details. But I think it's precisely the personal that helped me when we were in the thick of things. I felt less alone because other people shared not just their MRIs and symptoms, but their days and nights and grief. If you're going through someone's cancer, I hope this journal helps you feel less alone, too.
 
-Her name was really Meghan, by the way.
+Her actual name was Meghan, by the way.
 
 </details>
 
 TOC_BLOCK_PH
+
+I also wrote two short stories that draw on this experience: [Time Travel Is a Voodoo Rite](DOMAIN_URL_PHstories/time-travel-voodoo-rite/) and [Love Is a Verb](DOMAIN_URL_PHstories/love-is-verb/).
