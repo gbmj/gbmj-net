@@ -12,7 +12,7 @@ I'm still working on the table; 33 rows to go as of 11 Oct 2025.
 </aside>
 
 
-| DATE | EVENT | TIME SINCE FIRST MRI | TIME UNTIL DEATH |
+| DATE | EVENT | TIME SINCE MRI 1 | TIME UNTIL DEATH |
 |------|------------------------------|------|------|
 | 2006 | | | |
 | 9 Oct | Meghan falls at school, apparently injuring her right leg. | -1m | 1y 6w |
