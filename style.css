@@ -186,6 +186,14 @@ span.newthought {
     font-size: 1.2em;
 }
 
+/* ------- TABLES ------- */
+tr:nth-child(even) {
+    background-color: var(--secondary-bg-color);
+}
+tr {
+    border-bottom: 1px solid var(--primary-bg-color);
+}
+
 /* ------- HEADERS and FOOTERS ------- */
 /* I'm using multiple header and footer elements for the various
    levels of nav from 'this page' to 'this site' to 'the main site'.
