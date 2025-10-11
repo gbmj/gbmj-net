@@ -208,6 +208,7 @@ thead th {
     top: 0;
     background-color: var(--secondary-bg-color);
     border-bottom: 2px solid var(--primary-txt-color);
+    padding: 0.3rem;
     z-index: 1;
 }
 td {
