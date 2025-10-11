@@ -264,6 +264,9 @@ header > p { /* name of site */
     margin-bottom: 0.3rem; /* normally equals font size; brings the following nav links closer */
 /*    padding-bottom: 0.2rem;  /* spacing from text to border */
 }
+header > p > a { /* sitename link */
+    text-decoration: none;
+}
 footer > p { /* copyright text, link to license */
     border-top: 1px solid var(--secondary-txt-color);
     padding-top: 0.2rem;  /* spacing from border to text; needed bc font size smaller than in header */
