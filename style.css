@@ -192,11 +192,11 @@ table {
     border-collapse: collapse;
 }
 thead {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     background-color: var(--secondary-bg-color);
 }
 th, td {
-    border: 1px solid var(--primary-bg-color);
+    border-bottom: 1px solid var(--primary-txt-color);
 }
 
 th, td {
