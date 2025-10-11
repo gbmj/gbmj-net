@@ -2,7 +2,7 @@
 litesite: standalone
 title: The Story Behind Time Travel Is a Voodoo Rite
 ---
-# The Story Behind "Time Travel Is a Voodoo Rite"
+# The Story Behind "Time Travel Is a Voodoo Rite" {.has-subtitle}
 
 by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a> ⋅ 2018
 

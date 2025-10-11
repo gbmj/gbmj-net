@@ -6,7 +6,7 @@ blurb: It seems all gears and gadgets and the innards of physics, but the truth 
 artist: Zebi Damen
 pub: Brain, Child Magazine
 ---
-# Time Travel Is a Voodoo Rite
+# Time Travel Is a Voodoo Rite {.has-subtitle}
 
 by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 

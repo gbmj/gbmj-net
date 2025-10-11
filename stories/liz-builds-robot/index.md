@@ -5,7 +5,7 @@ date: 2018-01-01
 blurb: Liz loves to tinker with mechanical things—but her latest creation seems to have a mind of its own.
 pub: Galaxy's Edge Magazine
 ---
-# In Which Liz Builds a Robot with Unexpected Results
+# In Which Liz Builds a Robot with Unexpected Results {.has-subtitle}
 
 by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 

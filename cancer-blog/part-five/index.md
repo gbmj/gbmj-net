@@ -4,7 +4,7 @@ title: "Part Five: The start of treatment week five"
 date: 2006-12-29
 ---
 
-## Christmas Visit Day Five
+## Christmas Visit Day Five {.has-subtitle}
 29 Dec 2006
 
 Jan from OT and Mandy from PT came by today and got her up with a walker. The walker has a rest for her right arm, which may also help with her weight and balance. She didn't walk, but it's a start.
@@ -39,7 +39,7 @@ Then we pushed on to the hospital Wendy's, but we couldn't entice her to eat.
 
 She wants to stay up till midnight on New Year's Eve. We plan to buy supplies for the big event: party tooters, party hats, sparkling apple cider and plastic champagne glasses. Too bad we can't get oliebollen and fireworks over here. We'll try to find sparklers instead and see if we can get her downstairs and outside at midnight to light them.
 
-## Christmas Visit Day Six
+## Christmas Visit Day Six {.has-subtitle}
 30 Dec 2006
 
 Today was a fantastic day. She worked incredibly hard at moving herself around. She didn't use the bedpan a single time, and she sat on the edge of the bed for probably three hours total. She also got into the wheelchair with shoes on to go to the piano downstairs with Jan from OT.
@@ -68,7 +68,7 @@ Chris also told us he was glad I would be staying: staff have said she's more mo
 
 All in all, this is the best day I've seen her have since this all started. And thus it's one of my best, too.
 
-## Christmas Visit Day Seven
+## Christmas Visit Day Seven {.has-subtitle}
 31 Dec 2006 | New Year's Eve
 
 Today was one of the worst days I've seen her have so far. That made it incredibly draining for me. I'm exhausted.
@@ -97,7 +97,7 @@ I've toyed with the idea of bringing her back to live with us. Even aside from t
 
 On the other hand, she's my daughter, and she's going through an ordeal that makes the hurdles most of us face look like cake walks.
 
-## Christmas Visit Day Eight
+## Christmas Visit Day Eight {.has-subtitle}
 1 Jan 2007
 
 We all slept scandalously late this morning (aside from my husband, who got up at 9 AM to do a little work). My son got up at 10, my youngest and I at noon. My daughter was still sleeping when we arrived at 12:45. We went to get some lunch and finally woke her at 2 PM. She was in fairly good spirits and no pain, thank goodness. She said she slept well.

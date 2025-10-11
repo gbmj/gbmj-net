@@ -4,7 +4,7 @@ title: Love Is a Verb
 date: 2020-01-01
 blurb: Life is what happens… love is what we do when it does.
 ---
-# Love Is a Verb
+# Love Is a Verb {.has-subtitle}
 
 by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 

@@ -2,7 +2,7 @@
 litesite: standalone
 title: The Story Behind Love Is a Verb
 ---
-# The Story Behind "Love Is a Verb"
+# The Story Behind "Love Is a Verb" {.has-subtitle}
 
 by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a> ⋅ 2020
 

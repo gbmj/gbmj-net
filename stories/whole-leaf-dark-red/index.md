@@ -4,7 +4,7 @@ title: A Whole Leaf, Dark and Red
 date: 2019-01-01
 blurb: A story of loss seen from the five-year-old mind, when the wall between magic and mundane is still porous.
 ---
-# A Whole Leaf, Dark and Red
+# A Whole Leaf, Dark and Red {.has-subtitle}
 
 by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 

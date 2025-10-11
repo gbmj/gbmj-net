@@ -5,7 +5,7 @@ date: 2011-01-01
 blurb: In an augmented world where perfect beauty is the new normal, real bodies attract a certain kind of client&mdash;and Petch has paid the price long enough.
 pub: "Mirror Shards: Extending the Edges of Augmented Reality"
 ---
-# More Real Than Flesh
+# More Real Than Flesh {.has-subtitle}
 
 by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 

@@ -5,7 +5,7 @@ date: 2011-01-01
 pub: Daily Science Fiction
 blurb: Fifteen years ago, Mia’s great love left her to chase a different high. She moved on with her life… until Henry shows up one night at her door.
 ---
-# A Puddle of Dead
+# A Puddle of Dead {.has-subtitle}
 
 by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 

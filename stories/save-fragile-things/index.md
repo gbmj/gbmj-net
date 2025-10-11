@@ -4,7 +4,7 @@ title: To Save Fragile Things from the Pounding of Heavy Ages
 date: 2018-01-01
 blurb: Beth hosts a niche science show with a modest audience. When a representative from the National Office of Truth in Media comes on board to edit scripts, ratings soar&mdash;but at what cost?
 ---
-# To Save Fragile Things from the Pounding of Heavy Ages
+# To Save Fragile Things from the Pounding of Heavy Ages {.has-subtitle}
 
 by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 

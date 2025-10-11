@@ -4,7 +4,7 @@ title: "Part Three: The second week of treatment"
 date: 2006-12-07
 ---
 
-## Visit Day Nine
+## Visit Day Nine {.has-subtitle}
 6 Dec 2006
 
 Today was a great day from my vantage point. For my daughter it seemed quite a bit worse than yesterday.
@@ -33,14 +33,14 @@ The radiation women were slightly taken aback by her being in a wheelchair, not 
 
 I'm exhausted. So many little things have to be repeated endlessly; at least I'm not hoping for different results. There's no one to yell at, no point in complaining. No one is being negligent or surly. Everyone is friendly and working very hard and ably. The little things just get lost in the shuffle. Twice a day I have to tell them she can't swallow the Septra, they'll have to crush it into some juice for her. Every evening we start the sleep dance at 7:30 or so, calling the nurse to make sure her sleep meds arrive at 8 PM as they should. Every night it's 8:30 or later before they do. I say, remember not to take her vitals in the middle of the night; it's in her chart. She'll be unhooked from the IV tonight, right? It's in her chart, she doesn't need fluids at night. Always it's "oh, I'll check that" and depending on who you've got, it may or may not go that way. I don't fight it; I remind, but I don't argue. I'm not going to alienate people who are already on our side.
 
-## Visit Day Ten (early morning)
+## Visit Day Ten (early morning) {.has-subtitle}
 7 Dec 2006
 
 I've just showered, and soon I'll be going out to the kitchen, getting the health shake and coffee Dave made for me, and riding with Rita to the hospital.
 
 I wish I could go home. Not especially right this second, but at moments throughout every day. The way I miss my children leaves a tender place, full of melancholy that rises up like a tsunami in stiller moments of the day.
 
-## Visit Day Ten (the rest)
+## Visit Day Ten (the rest) {.has-subtitle}
 7 Dec 2006
 
 The morning was terrible, but the late afternoon and evening more than made up for it.
@@ -69,7 +69,7 @@ I shouldn't drown in her situation; I have to take care of myself, too. And I do
 
 This won't be over in four weeks, on January 2 when her radiation ends, nor on January 6 when her chemo ends. Assuming all goes well, she'll get chemo&mdash;much more potent than the chemo she's getting now&mdash;every 3 weeks for a year. We will be visiting her quite a lot in 2007.
 
-## Visit Day Eleven
+## Visit Day Eleven {.has-subtitle}
 8 Dec 2006
 
 What a marvelous, magnificent day. It's quite possibly the best afternoon and evening we've ever spent together.
@@ -90,7 +90,7 @@ My ex-husband called and exploded at me on the phone for leaving; he'd heard fro
 
 I think what's really going on is that my being here alleviates his discomfort at not being with her. Up until this past Monday, he had no job, and his mother-in-law was visiting (for weeks) to watch the baby. He lives literally twelve minutes down the road. He could have done what I'm doing; he could have really been there for her, hour in, hour out. But he didn't. He never has. It's not that he doesn't love her. He just isn't equipped for these things.   
 
-## Visit Day Twelve
+## Visit Day Twelve {.has-subtitle}
 9 Dec 2006
 
 A middling day. She had periods where she felt pretty good, but nothing as dramatically effusive as the past two days.
@@ -105,7 +105,7 @@ I'm going to watch the second film in the Matrix series with Dave and Josh, his 
 
 Tomorrow I fly home. I can't wait to see my family there, but I really hate leaving. I've had small moments of brief panic thinking of leaving her. I know it will be fine. She'll have grandparents here the whole time. And I'll be back in two weeks.
 
-## Visit Day Thirteen
+## Visit Day Thirteen {.has-subtitle}
 10 Dec 2006
 
 I arrived a little later Saturday, at 9:45 AM. And left much earlier, of course, to fly home.
@@ -116,7 +116,7 @@ She said it's just too hard. I told her she'll almost certainly die if she stops
 
 I reminded her that she has periods where she feels terrible and periods where she feels pretty good every day. If she can ride out the bad hours, good ones will follow. Take it one day at a time, I said. An oft-empty platitude turned suddenly meaningful.
 
-## Going Home
+## Going Home {.has-subtitle}
 11 Dec 2006
 
 Despite a nearly two-hour delay getting to Newark, I caught my flight to Amsterdam. I sat next to a charming Rumanian who fled his country for the US in 1989. We talked for hours on language, taxation, Rumanian history, and the charms of Maastricht, where he was headed on business.

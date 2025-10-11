@@ -7,7 +7,7 @@ pub: Waylines Magazine
 artist: Darryl Knickrehm
 artlink: https://dariru.com/
 ---
-# The Message Between the Words
+# The Message Between the Words {.has-subtitle}
 
 by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 

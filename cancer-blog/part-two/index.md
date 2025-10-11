@@ -4,7 +4,7 @@ title: "Part Two: The first week of treatment"
 date: 2006-11-28
 ---
 
-## Visit Day One
+## Visit Day One {.has-subtitle}
 28 Nov 2006
 
 Our daughter didn't shave her head. She was exhausted on Sunday, so lethargic that my ex-husband and his wife were very worried about her. Yesterday, the day we arrived, was a much better day.
@@ -21,7 +21,7 @@ Significant side effects&mdash;hair loss, metabolic problems, thyroid problems&m
 
 We left her drifting off to sleep at 10:45 PM, after the Ativan and Seroquel started to work their magic.
 
-## Visit Day Two
+## Visit Day Two {.has-subtitle}
 29 Nov 2006
 
 My daughter felt much worse yesterday. She didn't sleep well and was still dozing when we arrived at 8:30 AM. When she woke, she was grumpy and frustrated. Pretty much the whole day went like that, with brief periods where we were able to coax a smile from her.
@@ -34,7 +34,7 @@ She was again terrified before and after her radiation treatment; I can only ima
 
 Despite her loud protests, I insisted she get a sponge bath. This morning she'll have a student nurse one on one until noon; I plan to ask the nurse to bathe her and wash her hair.
 
-## Visit Day Three
+## Visit Day Three {.has-subtitle}
 29 Nov 2006
 
 My daughter's morning was crappy, but she had a really good period in the afternoon. If it becomes a pattern, we want to take advantage of it: get her out of her room, play games, make cards, visit the butterfly garden.
@@ -45,11 +45,11 @@ She got another sponge bath today, and we washed her hair&mdash;sort of. We used
 
 I'm slowly learning the names of all her drugs. Synthroid. Pepcid. Colace. Decadron. Zofran. Vincristine. Carboplatin. Ativan. Seroquel.
 
-## [Ode to the Nurse](HOME_URL_PHode-nurse/)
+## [Ode to the Nurse](HOME_URL_PHode-nurse/) {.has-subtitle}
 30 Nov 2006
 
 
-## Visit Day Four
+## Visit Day Four {.has-subtitle}
 1 Dec 2006
 
 Yesterday was a better day, though it got off to a rocky start. The occupational therapist, a nurse assistant and I helped my daughter shower. I finally got to wash her hair! It was a Herculean ordeal. To add agony to exhaustion, the dressing on her venous catheter got wet despite the baggie, and when the nurse went to flush the port, it didn't. They had to put in a new needle, and because they didn't want to risk it clotting off, they couldn't numb the area with Emla first.
@@ -64,7 +64,7 @@ My husband will be flying back to the Netherlands on Sunday. I'll be staying her
 
 There's little to no space at the Ronald McDonald House, so our friends Dave and Rita have graciously offered to let me keep staying with them. They'll drive me back and forth to the hospital every day. These are the times when you just have to let go of not wanting to impose on others. This is what friends are for.
 
-## Visit Days Five and Six
+## Visit Days Five and Six {.has-subtitle}
 2 Dec 2006
 
 My daughter felt miserable through Friday morning, but she had a pretty good four hours from 2 to 6 PM. We wheeled her outside into the balmy North Carolina air for about twenty minutes.
@@ -87,7 +87,7 @@ We brought in a hair clipper to shave her head. She's been asking all week, but 
 
 Her current mood is sullen and fatalistic. She resents being pushed; I keep reminding her why we're pushing her, and indeed, why she's doing all this in the first place.
 
-## Visit Day Six (second half)
+## Visit Day Six (second half) {.has-subtitle}
 3 Dec 2006
 
 My daughter had another accident; we didn't get her to the bedside commode in time. I was helping her stand, and my pants got soaked. Fortunately she and I are pretty much the same size; I borrowed a pair of hers.
@@ -110,7 +110,7 @@ I couldn't help crying as I watched her, hairless, slumped into a green puke buc
 
 It's just the way it is.
 
-## Visit Day Seven
+## Visit Day Seven {.has-subtitle}
 4 Dec 2006
 
 Today was a great day. My daughter was awake and in great spirits when we walked in at 9:30 AM. She said she'd slept well (a first), and she'd already had a muffin for breakfast.
@@ -129,7 +129,7 @@ She ate quite well today. We did her arm and leg exercises twice, and she brushe
 
 I dread tomorrow, when chemo and radiation start back up.
 
-## Visit Day Eight
+## Visit Day Eight {.has-subtitle}
 5 Dec 2006 | St. Nicholas Eve
 
 Another very good day for my daughter despite starting chemo and radiation again. For me, long, and in places, very hard.

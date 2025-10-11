@@ -4,7 +4,7 @@ title: In Which Archibald Wiggers Deeply Regrets His Second Trip to Manfred Muss
 date: 2019-01-01
 blurb: Archie gets more than he bargained for when he and his little pet Lola go to stock up on her favorite treats.
 ---
-# In Which Archibald Wiggers Deeply Regrets His Second Trip to Manfred Mussholm's Curio Shop in the Woods
+# In Which Archibald Wiggers Deeply Regrets His Second Trip to Manfred Mussholm's Curio Shop in the Woods {.has-subtitle}
 
 by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 

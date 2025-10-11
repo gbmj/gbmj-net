@@ -8,7 +8,7 @@ artlink: https://madoosk.com/
 pub: The Glass Parachute
 ---
 
-# Putting Down Roots
+# Putting Down Roots {.has-subtitle}
 
 by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 

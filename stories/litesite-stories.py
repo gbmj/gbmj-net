@@ -322,7 +322,7 @@ def _process_complex_meta(meta: dict[str, typ.Any]) -> None:
             meta['art'] = f'<a href="{meta["artlink"]}">{meta["artist"]}</a>'
         else:
             meta['art'] = f'{meta["artist"]}'
-        meta['art'] = f'Custom story artwork &copy; {meta["art"]}.'
+        meta['art'] = f'Custom story artwork &copy; {meta["art"]}. Text '
     # end custom processing
 
 

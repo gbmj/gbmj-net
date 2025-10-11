@@ -4,9 +4,9 @@ title: You Blink
 date: 2021-01-01
 blurb: How would you spend the long years in prison, inching toward Exile Day, in a future where execution has been replaced by a procedure to induce complete and permanent amnesia?
 ---
-# You Blink
+# You Blink {.has-subtitle}
 
-by [Grayson Bray Morris](DOMAIN_URL_PH){.subtitle}
+by [Grayson Bray Morris](DOMAIN_URL_PH)
 
 It's over. They've denied your final appeal.
 

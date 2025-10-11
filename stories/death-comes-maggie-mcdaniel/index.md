@@ -5,7 +5,7 @@ date: 2012-01-01
 blurb: Love can be a hard thing when you have to hide it from the world.
 pub: "Scared: Ten Tales of Horror"
 ---
-# Death Comes for Maggie McDaniel
+# Death Comes for Maggie McDaniel {.has-subtitle}
 
 by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 

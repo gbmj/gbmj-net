@@ -4,7 +4,7 @@ title: Girl, Woman, Gull, Sea
 date: 2019-01-01
 blurb: In her dream she stands halfway across a concrete dam… Nothing can make her go back.
 ---
-# Girl, Woman, Gull, Sea
+# Girl, Woman, Gull, Sea {.has-subtitle}
 
 by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 

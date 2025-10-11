@@ -4,7 +4,7 @@ title: Brightcheeks and Brokenhand
 date: 2019-01-01
 blurb: Conscripted into preparing sacrificial virgins for the town’s local dragon, alchemist Din has never been a hero... until dragonslayer Cal shows up with a terrifying plan.
 ---
-# Brightcheeks and Brokenhand
+# Brightcheeks and Brokenhand {.has-subtitle}
 
 by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 

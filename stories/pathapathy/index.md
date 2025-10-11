@@ -4,7 +4,7 @@ title: Pathapathy
 date: 2018-01-01
 blurb: A fleeting encounter sends a laid-back guitarist on an obsessive quest for more.
 ---
-# Pathapathy
+# Pathapathy {.has-subtitle}
 
 by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 
