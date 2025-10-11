@@ -5,7 +5,7 @@ title: Meghan's Timeline
 
 # From First Signs to Last Breath
 
-<aside>
+<aside class="construction">
 
 I'm still working on the table; 33 rows to go as of 11 Oct 2025.
 

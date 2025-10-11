@@ -19,7 +19,7 @@ Her actual name was Meghan, by the way.
 
 TOC_BLOCK_PH
 
-<aside>
+<aside class="construction">
 
 The blog is still being uploaded to this site; I've got about 85 posts to go, as of 10 Oct 2025.
 

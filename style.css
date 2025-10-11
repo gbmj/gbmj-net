@@ -7,6 +7,7 @@
 * {  
 	--primary-bg-color: #fff;
     --secondary-bg-color: #ededed;
+    --construction-bg-color: #f3e62da7;
     --primary-txt-color: #171717;
 	--secondary-txt-color: #73787c;
     --primary-link-color: #46b;
@@ -74,6 +75,10 @@ aside , details { /* style the same; their function is the same, only one is clo
 }
 details > summary { /* the freaking triangle is so tiny, I've made the text 'click to read' pfft */
     color: var(--secondary-txt-color);
+}
+
+aside.construction {
+    background-color: var(--construction-bg-color);
 }
 
 /* ------- BLOCKQUOTES ------- */
