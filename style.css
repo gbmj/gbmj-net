@@ -208,9 +208,6 @@ th, td {
 tr:nth-child(even) { /* row background */
     background-color: var(--secondary-bg-color);
 }
-tr :nth-child  { /* default, for the number columns */
-    text-align: center;
-}
 tr :nth-child(2) { /* override for text column */
     text-align: left;
 }
