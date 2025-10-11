@@ -7,7 +7,7 @@ title: Meghan's Timeline
 
 <aside class="construction">
 
-I'm still working on the table; 33 rows to go as of 11 Oct 2025.
+I'm still working on the table; 30 rows to go as of 11 Oct 2025.
 
 </aside>
 
@@ -19,4 +19,7 @@ I'm still working on the table; 33 rows to go as of 11 Oct 2025.
 | 11 Oct | Meghan begins physical therapy. | -1m | 1y 6w |
 | 6 Nov | After four weeks of therapy, no improvement. Therapist sends Meghan for an MRI of her brain. | 0 | 1y 2w |
 | 7 Nov | The MRI shows a large mass in the top right hemisphere and smeary areas in the left. Tentative diagnosis of MS. Meghan gets a second MRI, this time including her spine, and a spinal tap. | 1d | 1y 2w |
+| 8 Nov | Meghan begins 5 days of dexamethasone to stop the current MS attack. Cerebrospinal fluid results come in: no evidence of MS. | 2d | 1y 2w |
+| 13 Nov | Meg moves over to the rehab ward to work on regaining right-side functionality. | 1w | 1y 1w |
+| 27 Nov | Meg's losing more right-side functionality and can no longer stand alone; she’s also having intense headaches. Her doctors order a third MRI. | 3w | 11m 3w |
 
