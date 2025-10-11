@@ -270,7 +270,13 @@ footer > p { /* copyright text, link to license */
     border-top: 1px solid var(--secondary-txt-color);
     padding-top: 0.2rem;  /* spacing from border to text; needed bc font size smaller than in header */
 }
-
+/* fancy styling for submenu behavior */
+header.outer > nav:nth-child(2) { /* submenu */
+    background-color: var(--secondary-bg-color);
+}
+span.active { /* active section in main menu */
+    background-color: var(--secondary-bg-color);
+}
 /* where the header and footer sections differ */
 /* header > p + nav { /* site nav links right under the site name */
  /*   margin-top: 0.2rem;  /* spacing to border on p element */
