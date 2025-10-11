@@ -190,6 +190,7 @@ span.newthought {
 table {
     margin: 2rem 0;
     border-collapse: collapse;
+    text-align: center;
 }
 thead {
     font-size: 0.8rem;
