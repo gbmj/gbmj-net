@@ -199,7 +199,7 @@ import frontmatter  # parse input files containing YAML frontmatter
 import pypandoc as ppd  # convert input files to html
 
 #   -- USER SETTINGS ---
-SITE_NAME = 'gbmj.net'
+SITE_NAME = 'GRAYSON BRAY MORRIS'
 LANGUAGE = 'en'  # two-letter iso code
 DOMAIN = 'https://gbmj.net/'  # include protocol and end in /
 PATH_FROM_DOMAIN_TO_HERE = ''  # end in / if not ''
