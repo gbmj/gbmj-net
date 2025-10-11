@@ -187,6 +187,14 @@ span.newthought {
 }
 
 /* ------- TABLES ------- */
+table {
+    margin: 2rem 0;
+    border-collapse: collapse;
+}
+thead {
+    font-size: 0.9rem;
+    background-color: var(--secondary-bg-color);
+}
 tr:nth-child(even) {
     background-color: var(--secondary-bg-color);
 }
