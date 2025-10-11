@@ -276,7 +276,8 @@ header.outer > nav:nth-child(1) { /* main menu */
 }
 span.active { /* active section in main menu */
     background-color: var(--primary-bg-color);
-    padding: 0.2rem;
+    font-style: bold;
+    padding: 0.3rem;
 }
 /* where the header and footer sections differ */
 /* header > p + nav { /* site nav links right under the site name */
