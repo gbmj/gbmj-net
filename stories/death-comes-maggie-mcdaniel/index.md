@@ -7,7 +7,7 @@ pub: "Scared: Ten Tales of Horror"
 ---
 # Death Comes for Maggie McDaniel
 
-by Grayson Bray Morris
+by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 
 I'm waiting for April like usual, up on the flat rock. I got a bottle of
 wine with me, also like usual, and it's mighty hard not to screw off the

@@ -6,7 +6,7 @@ blurb: In her dream she stands halfway across a concrete dam… Nothing can make
 ---
 # Girl, Woman, Gull, Sea
 
-by Grayson Bray Morris
+by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 
 In her dream she stands halfway across a concrete dam, a placid lake at
 her back and a lazy river stretching out below her. Seagulls caw

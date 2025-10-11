@@ -8,11 +8,11 @@ pub: Brain, Child Magazine
 ---
 # Time Travel Is a Voodoo Rite
 
-by Grayson Bray Morris
+by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 
 <figure>
 <img src="story-artwork-copyright-Zebi-Damen.jpg"
-alt="Custom story artwork copyright Zebi Damen for Time Travel Is a Voodoo Rite by Grayson Bray Morris" />
+alt="Custom story artwork copyright Zebi Damen for Time Travel Is a Voodoo Rite by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>" />
 <figcaption>ARTIST_PH</figcaption>
 </figure>
 

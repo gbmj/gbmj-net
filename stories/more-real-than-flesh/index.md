@@ -7,7 +7,7 @@ pub: "Mirror Shards: Extending the Edges of Augmented Reality"
 ---
 # More Real Than Flesh
 
-by Grayson Bray Morris
+by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 
 The day's first customer walked through Petch's door. He was slender,
 not ugly, reasonably clean-cut: better than she was used to. But the

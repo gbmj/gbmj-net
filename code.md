@@ -19,7 +19,7 @@ title: Best Hobby in the World
 ### Recent
 - [litesite](https://github.com/gbmj/litesite) is a simple static website generator written in Python.
 
-- [Dill Thief](DOMAIN_URL_PHdill-thief/) is a gentle browser game where you use light to dispel the darkness.
+- [Dill Thief](DOMAIN_URL_PHdill-thief.html) is a gentle browser game where you use light to dispel the darkness.
 <!-- note, maybe make this a subdomain later, with its own css etc.-->
 
 ### Ancient

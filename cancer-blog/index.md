@@ -13,12 +13,12 @@ Those were the first words of my second-ever blog post back in 2006. I'd started
 
 After my daughter died, I eventually took the blog down; I created an anonymized site, *Sadie's Brain Tumor*, to share the medical details. But I think it's precisely the personal that helped me when we were in the thick of things. I felt less alone because other people shared not just their MRIs and symptoms, but their days and nights and grief. If you're going through someone's cancer, I hope this journal helps you feel less alone, too.
 
-Her actual name was Meghan, by the way.
+Her name was actually Meghan, by the way.
 
 </details>
 
 <nav>
-<a href="HOME_URL_PHmris/">MRIs</a> &nbsp; | &nbsp; <a href="HOME_URL_PHtimeline/">Timeline</a><br />
+<a href="HOME_URL_PHmris/">MRIs</a> &nbsp; | &nbsp; <a href="HOME_URL_PHtimeline/">Timeline</a> &nbsp; | &nbsp; 
 <a href="HOME_URL_PHresources/">Resources</a> &nbsp; | &nbsp; <a href="HOME_URL_PHode-nurse/">Ode to the Nurse</a>
 </nav>
 
@@ -29,10 +29,5 @@ TOC_BLOCK_PH
 The blog is still being uploaded to this site; I've got about 85 posts to go, as of 10 Oct 2025.
 
 </aside>
-
-## Other Resources
-
-- See Meghan's [MRIs](HOME_URL_PHmris/)
-- 
 
 I also wrote two short stories that draw on this experience: [Time Travel Is a Voodoo Rite](DOMAIN_URL_PHstories/time-travel-voodoo-rite/) and [Love Is a Verb](DOMAIN_URL_PHstories/love-is-verb/).

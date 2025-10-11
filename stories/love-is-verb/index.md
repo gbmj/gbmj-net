@@ -6,7 +6,7 @@ blurb: Life is what happens… love is what we do when it does.
 ---
 # Love Is a Verb
 
-by Grayson Bray Morris
+by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 
 A soft mewing pierces the low hum of the hospital room, instantly
 rousing Kate. She presses the call button before she's even opened her

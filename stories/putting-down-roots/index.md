@@ -10,11 +10,11 @@ pub: The Glass Parachute
 
 # Putting Down Roots
 
-by Grayson Bray Morris
+by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 
 <figure>
 <img src="story-artwork-copyright-Matt-D-Edginton.jpg"
-alt="Custom story artwork copyright Matt D. Edginton for Putting Down Roots by Grayson Bray Morris" />
+alt="Custom story artwork copyright Matt D. Edginton for Putting Down Roots by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>" />
 <figcaption>ARTIST_PH</figcaption>
 </figure>
 

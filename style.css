@@ -10,9 +10,11 @@
     --construction-bg-color: #f3e62d4e;
     --primary-txt-color: #171717;
 	--secondary-txt-color: #73787c;
-    --primary-link-color: #46b;
+ /*   --primary-link-color: #46b;
     --secondary-link-color: #84b;
-
+*/
+    --primary-link-color: #171717;
+    --secondary-link-color: #171717;
     --sans-serif-font-stack: ui-sans-serif, system-ui, sans-serif;
     --monospace-font-stack: ui-monospace, monospace;
 }
@@ -23,8 +25,11 @@
 		--secondary-bg-color: #282828;
 		--primary-txt-color: #aaa;
 		--secondary-txt-color: #969696;
-        --primary-link-color: #6c88b0;
+/*        --primary-link-color: #6c88b0;
         --secondary-link-color: #76678a;
+*/
+		--primary-link-color: #aaa;
+		--secondary-link-color: #aaa;
     }
 }
 
@@ -45,7 +50,7 @@ html {
 }
 
 /* ------ HYPERLINKS ------- */
-/* style link behavior to use clear colors and underlining for visual clarity */
+/* style links to be unobtrusive but clear */
 a {
     color: var(--primary-link-color);
     text-decoration-line: underline; /* text-decoration single line shorthand not working in Safari */
@@ -159,8 +164,15 @@ hr:after {
     top: -0.8rem; /* to vertically center it; depends also on <p> margins/padding */
 }
 
-/* for the stage directions in Liz Builds a Robot */
-pre.liz, pre.liz > code {
+/* ------- NAVIGATION ------- */
+main > nav { /* link blocks above TOC on collection index pages */
+    text-align: center;
+    margin: 2rem 0;
+}
+
+/* ------- PREFORMATTED ------- */
+
+pre.liz, pre.liz > code { /* for the stage directions in Liz Builds a Robot */
     background: var(--primary-bg-color);
     font-family: var(--monospace-font-stack);
     text-align: center;
@@ -236,28 +248,15 @@ tr :nth-child(2) { /* override for text column */
 header, footer {
     text-align: center;
     font-size: 0.9rem;
-	color: var(--secondary-txt-color);
 }
-/* spacing from one <elt> to the next */
+/* spacing from page edge and main content */
 header {
-	margin-bottom: 2rem; /* same spacing as above the footer, see below */
+	margin-bottom: 3rem; /* to page content */
+    margin-top: 1rem; /* from edge of page */
 }
 footer {
-    margin-top: 2rem;
-}
-/* the outermost header and footer: spacing to edge of site */
-header.outer {
-    margin-top: 1rem;
-}
-footer.outer {
-    margin-bottom: 1rem;
-}
-/* the innermost header and footer: spacing to page main content */
-header.inner {
-    margin-bottom: 3rem;
-}
-footer.inner {
-    margin-top: 3rem;
+    margin-top: 3rem; /* from page content */
+    margin-bottom: 1rem; /* to edge of page */
 }
 /* text elements marking the edge of the page content from the site nav */
 header > p { /* name of site */
@@ -270,19 +269,6 @@ footer > p { /* copyright text, link to license */
     border-top: 1px solid var(--secondary-txt-color);
     padding-top: 0.2rem;  /* spacing from border to text; needed bc font size smaller than in header */
 }
-/* fancy styling for nav behavior */
-header.outer > nav:nth-child(1) { /* main menu */
-    background-color: var(--secondary-bg-color);
-}
-span.active { /* active section in main menu */
-    background-color: var(--primary-bg-color);
-    font-weight: bold;
-    padding: 0.3rem;
-}
-/* where the header and footer sections differ */
-/* header > p + nav { /* site nav links right under the site name */
- /*   margin-top: 0.2rem;  /* spacing to border on p element */
-/* }
 
 /* --- end of page header / footer styling --- */
 

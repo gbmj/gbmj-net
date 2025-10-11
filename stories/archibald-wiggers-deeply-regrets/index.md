@@ -6,7 +6,7 @@ blurb: Archie gets more than he bargained for when he and his little pet Lola go
 ---
 # In Which Archibald Wiggers Deeply Regrets His Second Trip to Manfred Mussholm's Curio Shop in the Woods
 
-by Grayson Bray Morris
+by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 
 Archie drove down an increasingly winding, increasingly bumpy road that
 eventually dwindled to a trail and then simply a series of car-sized

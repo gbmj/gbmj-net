@@ -4,7 +4,7 @@ title: The Story Behind Love Is a Verb
 ---
 # The Story Behind "Love Is a Verb"
 
-by Grayson Bray Morris ⋅ 2020
+by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a> ⋅ 2020
 
 (Read [the story](HOME_URL_PHlove-is-verb/) first, if you haven't yet.)
 

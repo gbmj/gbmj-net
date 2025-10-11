@@ -9,11 +9,11 @@ artlink: https://dariru.com/
 ---
 # The Message Between the Words
 
-by Grayson Bray Morris
+by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 
 <figure>
 <img src="story-artwork-copyright-Darryl-Knickrehm.jpg"
-alt="Custom story artwork copyright Darryl Knickrehm for The Message Between the Words by Grayson Bray Morris" />
+alt="Custom story artwork copyright Darryl Knickrehm for The Message Between the Words by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>" />
 <figcaption>ARTIST_PH</figcaption>
 </figure>
 

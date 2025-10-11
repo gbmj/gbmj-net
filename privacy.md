@@ -2,8 +2,6 @@
 litesite: standalone
 ---
 
-# Privacy
-
 <figure>
 
 >Life is too short to help make a world you don't want to live in.
@@ -13,6 +11,7 @@ litesite: standalone
 </figcaption>
 </figure>
 
+# Privacy
 
 ### No cookies, no tracking, no idea who you are 
 
