@@ -47,7 +47,7 @@ The images below are another view on the growth you see above. The top series is
 <img src="MRI_6_series_side.jpg" alt="side view June 2007 series" />
 </figure>
 
-On 29 Aug 2007 Meghan has another MRI scan, after three relatively stable months. The existing tumor sites haven't changed since the May MRI, but there’s a new kid in town: a 1.5-cm lesion on Sadie’s medulla oblongata. The medulla oblongata is responsible for heart rate, breathing, swallowing, and vomiting and controls several skeletal muscles involved with speech.
+On 29 Aug 2007 Meghan has another MRI scan, after three relatively stable months. The existing tumor sites haven't changed since the May MRI, but there’s a new kid in town: a 1.5-cm lesion on Sadie’s medulla oblongata.
 
 <figure>
 <img src="mri-side-brain-stem-lesion.jpg" alt="Side view MRI showing brain stem lesion">
