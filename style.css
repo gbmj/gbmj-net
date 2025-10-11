@@ -262,10 +262,7 @@ header > p { /* name of site */
 	font-size: 1rem; /* note, larger than the rest of header/footer text */
     border-bottom: 1px solid var(--secondary-txt-color);
     margin-bottom: 0.3rem; /* normally equals font size; brings the following nav links closer */
-/*    padding-bottom: 0.2rem;  /* spacing from text to border */
-}
-header > p > a { /* sitename link */
-    text-decoration: none;
+    padding-bottom: 0.2rem;  /* spacing from text to border; enough for link underline to look good */
 }
 footer > p { /* copyright text, link to license */
     border-top: 1px solid var(--secondary-txt-color);
