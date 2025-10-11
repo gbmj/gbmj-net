@@ -14,7 +14,7 @@ by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 
 <figure>
 <img src="story-artwork-copyright-Matt-D-Edginton.jpg"
-alt="Custom story artwork copyright Matt D. Edginton for Putting Down Roots by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>" />
+alt="Custom story artwork copyright Matt D. Edginton for Putting Down Roots byGrayson Bray Morris" />
 <figcaption>ARTIST_PH</figcaption>
 </figure>
 

@@ -13,7 +13,7 @@ by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 
 <figure>
 <img src="story-artwork-copyright-Darryl-Knickrehm.jpg"
-alt="Custom story artwork copyright Darryl Knickrehm for The Message Between the Words by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>" />
+alt="Custom story artwork copyright Darryl Knickrehm for The Message Between the Words by Grayson Bray Morris" />
 <figcaption>ARTIST_PH</figcaption>
 </figure>
 
