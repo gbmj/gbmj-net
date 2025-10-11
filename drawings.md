@@ -3,8 +3,6 @@ litesite: standalone
 title: Drawn a Long, Long Time Ago
 ---
 
-# Drawings
-
 <figure> 
 
 >Drawing is putting a line round an idea.
@@ -13,6 +11,8 @@ title: Drawn a Long, Long Time Ago
 [Henri Matisse](https://en.wikipedia.org/wiki/Henri_Matisse)
 </figcaption>
 </figure>
+
+# Drawings
 
 After a STEM-heavy high school career, I flounced off to art school. (First I took a detour through No More School At All Thank You Very Much, a wonderful year of local bands and wild parties and general late-night drug-infused decadence that left me with an abiding love of punk rock, twelve decorative earholes, and a nostalgic affection for neon shades of hair.) My love of math and science won out in the academic end, but my brief foray into art gave rise to the below.
 
