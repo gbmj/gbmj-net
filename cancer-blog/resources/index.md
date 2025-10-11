@@ -5,9 +5,9 @@ title: Other Personal Brain Cancer Blogs
 
 # Glioblastoma Journals
 
-These are the stories I returned to over and over, following new updates or rereading old entires about symptoms, surgeries, chemo, radiation, MRIs .... 
+These are the stories I returned to over and over, following new updates or rereading old entries about symptoms, surgeries, chemo, radiation, MRIs .... 
 
-- [Sandy Beardsley](https://sandybeardsley.com/) (1961&ndash;2006) kept a detailed journal of her seven-year battle with GBM; her husband blogged her final months. 
+- [Sandy Beardsley](https://sandybeardsley.com/) (1961&ndash;2006) kept a detailed journal of her seven-year battle with GBM; her husband blogged her final months.
 
 - [Danielle Drumke](http://danielledrumke.com/updates.html) (1973&ndash;2002) lived eighteen months after her GBM diagnosis. Her sister and others blogged the journey.
 
