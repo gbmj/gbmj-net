@@ -201,6 +201,7 @@ import pypandoc as ppd  # convert input files to html
 #   -- USER SETTINGS ---
 SITE_NAME = "Grayson's Book of Stories"
 LANGUAGE = 'en'  # two-letter iso code
+DOMAIN_SITENAME = 'Grayson Bray Morris'  # for root, if this is a subsite
 DOMAIN = 'https://gbmj.net/'  # include protocol and end in /
 PATH_FROM_DOMAIN_TO_HERE = 'stories/'  # end in / if not ''
 HHF_SUBDIR = 'cmn/'  # where head, header, footer files are; end in /
@@ -374,6 +375,7 @@ if __name__ == '__main__' and not _testing:
                     .replace('TITLE_TEXT_PH', m['title'])
                     .replace('HOME_URL_PH', BASEURL)
                     .replace('DOMAIN_URL_PH', DOMAIN)
+                    .replace('DOMAIN_SITENAME_TXT_PH', DOMAIN_SITENAME)
                     .replace('YEAR_TEXT_PH', str(m['date'].year))
                     .replace('DATE_TEXT_PH', str(m['date']))
                 )
@@ -460,6 +462,7 @@ if __name__ == '__main__' and not _testing:
             .replace('SELF_URL_PH', BASEURL)
             .replace('HOME_URL_PH', BASEURL)
             .replace('DOMAIN_URL_PH', DOMAIN)
+            .replace('DOMAIN_SITENAME_TXT_PH', DOMAIN_SITENAME)
             .replace('PREV_LINK_PH', prev)
             .replace('HOME_LINK_PH', HOME_ANCHOR_TXT)
             .replace('NEXT_LINK_PH', next)
