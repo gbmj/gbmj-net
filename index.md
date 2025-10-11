@@ -15,6 +15,11 @@ much sense, the starkest madness.
 </figcaption>
 </figure>
 
+<nav>
+<a href="HOME_URL_PH">Home</a> &nbsp; | &nbsp; <a href="HOME_URL_PHstories/">Stories</a> &nbsp; | &nbsp; <a href="HOME_URL_PHcancer-blog/">Cancer</a> &nbsp; | &nbsp; 
+<a href="HOME_URL_PHmeaning/">Meaning</a> &nbsp; | &nbsp; <a href="HOME_URL_PHdrawings.html">Art</a> &nbsp; | &nbsp; <a href="HOME_URL_PHcode.html">Code</a>
+</nav>
+
 I was born and raised in a small town in North Carolina, in the American South, where I spent my winters buried in books and my summers drinking sweet iced tea and catching crabs in the river.
 
 I wrote my first major opus the year my age hit double digits: 1977, the year Star Wars came out. I sent George Lucas a script for a second movie, first written by hand and then pecked out on the classroom typewriter. It was a pretty stirring script, let me tell you. Sadly, I never heard back. (Hollywood’s a tough nut to crack.) I've kept writing [stories](DOMAIN_URL_PHstories/) ever since.

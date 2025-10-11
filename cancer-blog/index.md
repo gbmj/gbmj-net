@@ -17,6 +17,11 @@ Her actual name was Meghan, by the way.
 
 </details>
 
+<nav>
+<a href="HOME_URL_PHmris/">MRIs</a> &nbsp; | &nbsp; <a href="HOME_URL_PHtimeline/">Timeline</a><br />
+<a href="HOME_URL_PHresources/">Resources</a> &nbsp; | &nbsp; <a href="HOME_URL_PHode-nurse/">Ode to the Nurse</a>
+</nav>
+
 TOC_BLOCK_PH
 
 <aside class="construction">
@@ -24,5 +29,10 @@ TOC_BLOCK_PH
 The blog is still being uploaded to this site; I've got about 85 posts to go, as of 10 Oct 2025.
 
 </aside>
+
+## Other Resources
+
+- See Meghan's [MRIs](HOME_URL_PHmris/)
+- 
 
 I also wrote two short stories that draw on this experience: [Time Travel Is a Voodoo Rite](DOMAIN_URL_PHstories/time-travel-voodoo-rite/) and [Love Is a Verb](DOMAIN_URL_PHstories/love-is-verb/).
