@@ -206,6 +206,7 @@ thead th {
     position: sticky; /* headers stay in view when user scrolls */
     top: 0;
     background-color: var(--secondary-bg-color);
+    border-bottom: 2px solid var(--primary-txt-color);
     z-index: 1;
 }
 th, td {
