@@ -202,11 +202,13 @@ thead {
     font-size: 0.8rem;
     background-color: var(--secondary-bg-color);
 }
+thead th {
+    position: sticky; /* headers stay in view when user scrolls */
+    top: 0;
+    z-index: 1;
+}
 th, td {
     border-bottom: 1px solid var(--primary-txt-color);
-}
-
-th, td {
     padding: 0.6rem;
 }
 
