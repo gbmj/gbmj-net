@@ -195,11 +195,22 @@ thead {
     font-size: 0.9rem;
     background-color: var(--secondary-bg-color);
 }
-tr:nth-child(even) {
+th, td {
+    border-bottom: 1px solid var(--primary-bg-color);
+}
+
+th, td {
+    padding: 0.6rem;
+}
+
+tr:nth-child(even) { /* row background */
     background-color: var(--secondary-bg-color);
 }
-tr {
-    border-bottom: 1px solid var(--primary-bg-color);
+tr :nth-child  { /* default, for the number columns */
+    text-align: right;
+}
+tr :nth-child(2) { /* override for text column */
+    text-align: left;
 }
 
 /* ------- HEADERS and FOOTERS ------- */
