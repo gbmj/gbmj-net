@@ -40,7 +40,7 @@ cats, cats, cats &middot; pen, crayon and pencil on paper &middot; <a href="DOMA
 <figure>
 <img src="DOMAIN_URL_PHart/warrior-lores.jpg" alt="drawing" />
 <figcaption>
-after forgotten original (likey a Nat Geo photo) &middot; ink on paper &middot; <a href="DOMAIN_URL_PH">Grayson Bray Morris</a> 1986
+after forgotten original (likely a Nat Geo photo) &middot; ink on paper &middot; <a href="DOMAIN_URL_PH">Grayson Bray Morris</a> 1986
 </figcaption>
 </figure>
 

@@ -216,7 +216,7 @@ OPTS: list[str] = []  # pandoc options to pass in to conversion
 MAXDEPTH = 3  # 1 = root only
 SORTKEY = 1  # 0 = title, 1 = date, anything else = don't sort
 SORT_REVERSED = True
-TOC_TITLE = 'Table of Contents'
+TOC_TITLE = "Grayson's Book of Stories"
 TOC_PRINT_YEAR_HEADINGS = False
 TOC_PRINT_BLURBS = True
 TOC_CLASS_NAME = 'toc'  # for css styling
@@ -394,8 +394,10 @@ if __name__ == '__main__' and not _testing:
 
                 # --- CUSTOM ---
                 # process any custom placeholders here
-                html_page = html_page.replace('PUB_PH', m['pub']).replace(
-                    'ARTIST_PH', m['art']
+                html_page = (
+                    html_page.replace('PUB_PH', m['pub'])
+                    .replace('ARTIST_PH', m['art'])
+                    .replace('ARTIST_CAP_PH', m['art'][:-5])
                 )
                 # --- END CUSTOM ---
                 m['path'].write_text(html_page)

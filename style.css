@@ -56,7 +56,7 @@ a {
     text-decoration-line: underline; /* text-decoration single line shorthand not working in Safari */
     text-decoration-style: dashed;
     text-decoration-thickness: 1px;
-    text-underline-offset: 0.15rem;
+    text-underline-offset: 0.2rem;
 }
 a:link {
     text-decoration-color: var(--primary-link-color);

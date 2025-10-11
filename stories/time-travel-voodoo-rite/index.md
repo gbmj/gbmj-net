@@ -13,7 +13,7 @@ by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 <figure>
 <img src="story-artwork-copyright-Zebi-Damen.jpg"
 alt="Custom story artwork copyright Zebi Damen for Time Travel Is a Voodoo Rite by Grayson Bray Morris" />
-<figcaption>ARTIST_PH</figcaption>
+<figcaption>ARTIST_CAP_PH</figcaption>
 </figure>
 
 I know the secret to traveling through time.

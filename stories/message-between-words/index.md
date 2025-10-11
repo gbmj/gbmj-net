@@ -14,7 +14,7 @@ by <a href="DOMAIN_URL_PH">Grayson Bray Morris</a>
 <figure>
 <img src="story-artwork-copyright-Darryl-Knickrehm.jpg"
 alt="Custom story artwork copyright Darryl Knickrehm for The Message Between the Words by Grayson Bray Morris" />
-<figcaption>ARTIST_PH</figcaption>
+<figcaption>ARTIST_CAP_PH</figcaption>
 </figure>
 
 Ankti Remsi stared at the droplet marring the smooth surface of her
