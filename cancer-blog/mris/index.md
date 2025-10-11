@@ -22,7 +22,7 @@ These images show the positive effect Meghan's six weeks of radiation and vincri
 **(r) 10 Apr 2007**: 3 months after the end of radiation and vincristine-cisplatin</figcaption>
 </figure>
 
-These images show that the rest of the tumor hasn't seemed to notice there's been treatment going on:
+These images show that the rest of the tumor hadn't seemed to notice there'd been treatment going on:
 
 <figure>
 <img src="mri-back-pre-post-treatment.jpg" alt="Back view MRI before and after treatment">
@@ -31,12 +31,12 @@ These images show that the rest of the tumor hasn't seemed to notice there's bee
 </figcaption>
 </figure>
 
-From there, it only gets worse:
+From there, it only got worse:
 
 <figure>
 <img src="mri-back-pre-post-terminal.jpg" alt="Post-treatment back view MRIs 6 weeks apart, showing dramatic tumor growth">
-<figcaption>**(l) 10 Apr 2007**: another 1.5 months later, the top tumor is stable, but the central one is growing, and now it's crossed the midline (arrow). \
-**(r) 21 May 2007**: Another 1.5 months later; the growth is dramatic.  
+<figcaption>**(l) 10 Apr 2007**: another 1.5 months later, the top tumor was stable, but the central one was growing, and it had crossed the midline (arrow). \
+**(r) 21 May 2007**: Another 1.5 months later; the growth was dramatic.  
 </figcaption>
 </figure>
 
@@ -47,10 +47,10 @@ The images below are another view on the growth you see above. The top series is
 <img src="MRI_6_series_side.jpg" alt="side view June 2007 series" />
 </figure>
 
-On 29 Aug 2007 Meghan has another MRI scan, after three relatively stable months. The existing tumor sites haven't changed since the May MRI, but there’s a new kid in town: a 1.5-cm lesion on Sadie’s medulla oblongata.
+On 29 Aug 2007 Meghan had another MRI scan, after three relatively stable months. The existing tumor sites hadn't changed since the May MRI, but there was a new kid in town: a 1.5-cm lesion on Sadie’s medulla oblongata.
 
 <figure>
 <img src="mri-side-brain-stem-lesion.jpg" alt="Side view MRI showing brain stem lesion">
-<figcaption>**29 Aug 2007**: 3 months after the previous MRI, the tumor has spread into the brain stem (arrow).
+<figcaption>**29 Aug 2007**: 3 months after the previous MRI, the tumor had spread into the brain stem (arrow).
 </figcaption>
 </figure>
