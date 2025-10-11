@@ -5,11 +5,10 @@ title: <a href="DOMAIN_URL_PH">Grayson Bray Morris</a> digilives here
 
 <figure>
 
->Much madness is divinest sense, to a discerning eye; \
-much sense, the starkest madness.
+>To have a scientific mind is to respect the consensus facts, which are the resolution of generations of dispute, while maintaining an open mind about the still unknown.
 
 <figcaption>
-[Emily Dickinson](https://www.poetryfoundation.org/poets/emily-dickinson)
+[Lee Smolin](https://en.wikipedia.org/wiki/Lee_Smolin)
 </figcaption>
 </figure>
 
@@ -19,7 +18,8 @@ much sense, the starkest madness.
 <a href="HOME_URL_PHdrawings.html">Art</a> &nbsp; | &nbsp; <a href="HOME_URL_PHcode.html">Code</a>
 </nav>
 
-# My Search for Meaning
+# Blog {.has-subtitle}
+Long, hard looks at the nature of God, depression, genius, ethics and truth
 
-Coming soon: long, hard looks at the nature of God, depression, genius, ethics and truth.
+Coming soon.
 
