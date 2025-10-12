@@ -227,6 +227,7 @@ TOC_PRINT_YEAR_HEADINGS = True
 TOC_PRINT_BLURBS = False
 TOC_CLASS_NAME = 'toc'  # for css styling
 TOC_NOBLURB_CLASS = 'noblurb'  # css class added on if PRINT_BLURBS = False
+TOC_HAS_SUBTITLE_CLASS = 'has-subtitle'  # added to toc's h1, not subtitle elt
 TOC_ID = ''  # '' = top of home page; '#foo' for any foo, jump to TOC title
 PREV_ANCHOR_TXT = 'prev'
 HOME_ANCHOR_TXT = 'TOC'
@@ -404,7 +405,7 @@ if __name__ == '__main__' and not _testing:
 
     toc_md = f'# {TOC_TITLE}'
     if TOC_SUBTITLE:
-        toc_md += r'{.has-subtitle}'  # css class for styling subtitle
+        toc_md += r'{.' + f'{TOC_HAS_SUBTITLE_CLASS}' + r'}'
         toc_md += f'\n\n{TOC_SUBTITLE}'
     toc_md += '\n'
     year = 2  # the year 0002 -- must not equal date default
