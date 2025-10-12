@@ -397,7 +397,11 @@ if __name__ == '__main__' and not _testing:
     else:
         sorted_meta = coll
 
-    toc_md = f'# {TOC_TITLE}\n{TOC_SUBTITLE}\n'
+    toc_md = f'# {TOC_TITLE}'
+    if TOC_SUBTITLE:
+        toc_md += r'{.has-subtitle}'  # css class for styling subtitle
+        toc_md += f'\n\n{TOC_SUBTITLE}'
+    toc_md += '\n'
     year = 2  # the year 0002 -- must not equal date default
 
     for idx, (title, date, blurb, url, path) in enumerate(sorted_meta):
