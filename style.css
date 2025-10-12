@@ -194,6 +194,12 @@ section.toc h1 + p { /* reset behavior when years separate sets of links in the 
     color: var(--primary-txt-color);
     margin-bottom: 1rem;
 }
+section.toc h1.has-subtitle + p { /* but if there's a subtitle, then don't reset */
+    font-style: italic;
+    color: var(--secondary-txt-color);
+    margin-top: 0;
+    margin-bottom: 2rem;
+}
 
 /* ------- SPANS ------- */
  /* to use for first words of a new section, where desired */
