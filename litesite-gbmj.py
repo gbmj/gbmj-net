@@ -136,7 +136,7 @@ List of standard placeholders:
             contain a trailing slash, so proper use will look funny:
             For example, write <img href="DOMAIN_URL_PHimages/me.png">
             and not <img href="DOMAIN_URL_PH/images/me.png">.
-(any)   NAME_DOMAIN_TXT_PH, SITENAME_TXT_PH - insert the name
+(any)   NAME_DOMAIN_TEXT_PH, SITENAME_TEXT_PH - insert the name
             of the overarching domain resp. this site. Placeholders for
             the values you set below.
 (any)   SELF_URL_PH - insert the absolute URL to the current page. For
@@ -367,8 +367,8 @@ if __name__ == '__main__' and not _testing:
                 # replace most placeholders now -- only SELF_URL_PH has to wait
                 html_page = (
                     html_page.replace('TITLE_TEXT_PH', m['title'])
-                    .replace('NAME_DOMAIN_TXT_PH', DOMAIN_SITENAME)
-                    .replace('SITENAME_TXT_PH', SITE_NAME)
+                    .replace('NAME_DOMAIN_TEXT_PH', DOMAIN_SITENAME)
+                    .replace('SITENAME_TEXT_PH', SITE_NAME)
                     .replace('HOME_URL_PH', BASEURL)
                     .replace('DOMAIN_URL_PH', DOMAIN)
                     .replace('YEAR_TEXT_PH', str(m['date'].year))
@@ -454,7 +454,7 @@ if __name__ == '__main__' and not _testing:
             next = f'<a href="{sorted_meta[0][idx_url]}">{next}</a>'
         html_page = (
             TEMPLATE_C.replace('TITLE_TEXT_PH', TOC_TITLE)
-            .replace('NAME_DOMAIN_TXT_PH', DOMAIN_SITENAME)
+            .replace('NAME_DOMAIN_TEXT_PH', DOMAIN_SITENAME)
             .replace('SITENAME_TEXT_PH', SITE_NAME)
             .replace('SELF_URL_PH', BASEURL)
             .replace('HOME_URL_PH', BASEURL)
