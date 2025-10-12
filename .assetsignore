@@ -1,3 +1,15 @@
 **/node_modules
 **/.DS_Store
 **/.git
+**/.story
+**/.cancer
+**/.gbmj
+**/__pycache__
+**/.py
+**/nheader.html
+**/nfooter.html
+**/cfooter.html
+**/cheader.html
+**/head.html
+**/.toml
+typings/**

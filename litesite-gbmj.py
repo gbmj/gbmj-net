@@ -165,7 +165,7 @@ Custom tags and placeholders:
 
 Tips:
     The script starts from the directory you run it in and creates a
-    self-contained site -- so you could run it separately in several
+    self-contained site -- so you could run separate copies in several
     folders on your domain, creating multiple self-contained collections
     with their own styling and navigation. If you do that, be sure to
     set MAXDEPTH so you don't overwrite files in subfolders where you're
@@ -210,7 +210,7 @@ HDRFN_C = 'nheader.html'
 HDRFN_NC = 'nheader.html'
 FTRFN_C = 'nfooter.html'
 FTRFN_NC = 'nfooter.html'
-INFILE_EXT = 'md'  # can be anything; no leading dot
+INFILE_EXT = 'gbmj'  # can be anything; no leading dot
 CONVERT_FROM = 'markdown+smart'  # pandoc input type, with optional extensions
 OPTS: list[str] = []  # pandoc options to pass in to conversion
 MAXDEPTH = 1  # 1 = root only

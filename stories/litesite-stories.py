@@ -65,14 +65,15 @@ a TOC at this location.
 
 How to Use:
     Copy litesite.py into the local folder of the site you want to build
-    and edit the USER SETTINGS section. Use your preferred package manager
-    (virtualenv, pipenv, conda, poetry, uv ...) to ensure access to the
-    script's external dependencies, update the shebang line as needed,
-    and run.
+    and edit the USER SETTINGS section. Create your input
+    files, using placeholders where desired (see `Placeholders` below).
+    Use your preferred package manager (virtualenv, pipenv, conda, poetry,
+    uv ...) to ensure access to the script's external dependencies, update
+    the shebang line as needed, and run.
 
 Advanced Use:
     In addition to supplying the required USER SETTINGS, you can
-    optionally add custom logic to process your own tags and placeholders
+    add custom logic to process your own tags and placeholders
     (more on those below). The script indicates where this logic is
     needed.
 
@@ -112,7 +113,7 @@ Optional frontmatter:
     For files named `index`, the script uses the name of the enclosing
     folder for the title.
 
-Optional placeholders:
+Placeholders:
     The script offers several placeholders you can use in your head,
     header, footer and .foo files. You can also create your own. The
     script's naming convention is meant to help you produce valid
@@ -135,9 +136,11 @@ List of standard placeholders:
             contain a trailing slash, so proper use will look funny:
             For example, write <img href="DOMAIN_URL_PHimages/me.png">
             and not <img href="DOMAIN_URL_PH/images/me.png">.
+(any)   DOMAIN_SITENAME_TXT_PH, SITENAME_TXT_PH - insert the name
+            of the overarching domain resp. this site. Placeholders for
+            the values you set below.
 (any)   SELF_URL_PH - insert the absolute URL to the current page. For
-            use in a rel="canonical" link in your head file (and
-            elsewhere as you desire).
+            use in a rel="canonical" link in your head file.
 (any)   YEAR_TEXT_PH, DATE_TEXT_PH - insert the year resp. full date
             specified in the page's frontmatter (else the default value).
             Note, the date will be in ISO 8601 format. Modify this
@@ -165,21 +168,18 @@ Custom tags and placeholders:
 
 Tips:
     The script starts from the directory you run it in and creates a
-    self-contained site -- so you could run it separately in several
+    self-contained site -- so you could run separate copies in several
     folders on your domain, creating multiple self-contained collections
     with their own styling and navigation. If you do that, be sure to
     set MAXDEPTH so you don't overwrite files in subfolders where you're
-    running the script independently.
+    running the script independently. If you need to process files in
+    some subfolders but want others to run independently, use different
+    file extensions for each site.
 
     You can create a non-blog-like site simply by omitting
     blog-like navigation placeholders (those with PREV, NEXT, TOC) and
     using the same header and footer files for all pages, or by having
-    no input files with `collection: yes` in the frontmatter.
-
-    I've mostly kept this script from enforcing particular
-    choices, except for one: the URL it generates for pages named
-    `index` goes to the enclosing folder and contains a trailing
-    slash. Modify the script if you prefer different behavior.
+    no input files with `litesite: collection` in the frontmatter.
 
 Limitations:
     This script is only 'aware' of page-level headers and footers:
@@ -187,7 +187,12 @@ Limitations:
     resp. </main> and </body>) tags. If you need section-level headers,
     footers, nav blocks or other in-page content that repeats on all pages,
     check out a more full-featured site generator like Jekyll or
-    Hugo.
+    Hugo. Or edit this script :).
+
+    I've mostly kept this script from enforcing particular
+    choices, except for one: the URL it generates for pages named
+    `index` goes to the enclosing folder and contains a trailing
+    slash. Modify the script if you prefer different behavior.
 """
 
 import datetime as dt  # enable sorting on date
@@ -210,7 +215,7 @@ HDRFN_C = 'cheader.html'
 HDRFN_NC = 'nheader.html'
 FTRFN_C = 'cfooter.html'
 FTRFN_NC = 'nfooter.html'
-INFILE_EXT = 'md'  # can be anything; no leading dot
+INFILE_EXT = 'story'  # can be anything; no leading dot
 CONVERT_FROM = 'markdown+smart'  # pandoc input type, with optional extensions
 OPTS: list[str] = []  # pandoc options to pass in to conversion
 MAXDEPTH = 3  # 1 = root only
@@ -221,7 +226,7 @@ TOC_PRINT_YEAR_HEADINGS = False
 TOC_PRINT_BLURBS = True
 TOC_CLASS_NAME = 'toc'  # for css styling
 TOC_NOBLURB_CLASS = 'noblurb'  # css class added on if PRINT_BLURBS = False
-TOC_ID = ''  # '' = top of home page; '#foo' for any foo, jump to TOC title
+TOC_ID = ''  # '' = top of page; '#foo' for any foo, jump to TOC title
 PREV_ANCHOR_TXT = 'prev'
 HOME_ANCHOR_TXT = 'TOC'
 NEXT_ANCHOR_TXT = 'next'

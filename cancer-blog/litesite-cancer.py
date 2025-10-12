@@ -210,7 +210,7 @@ HDRFN_C = 'cheader.html'
 HDRFN_NC = 'nheader.html'
 FTRFN_C = 'cfooter.html'
 FTRFN_NC = 'nfooter.html'
-INFILE_EXT = 'md'  # can be anything; no leading dot
+INFILE_EXT = 'cancer'  # can be anything; no leading dot
 CONVERT_FROM = 'markdown+smart'  # pandoc input type, with optional extensions
 OPTS: list[str] = []  # pandoc options to pass in to conversion
 MAXDEPTH = 2  # 1 = root only
