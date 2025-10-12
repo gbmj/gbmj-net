@@ -136,7 +136,7 @@ List of standard placeholders:
             contain a trailing slash, so proper use will look funny:
             For example, write <img href="DOMAIN_URL_PHimages/me.png">
             and not <img href="DOMAIN_URL_PH/images/me.png">.
-(any)   NAME_DOMAIN_TEXT_PH, SITENAME_TXT_PH - insert the name
+(any)   NAME_DOMAIN_TEXT_PH, SITENAME_TEXT_PH - insert the name
             of the overarching domain resp. this site. Placeholders for
             the values you set below.
 (any)   SELF_URL_PH - insert the absolute URL to the current page. For
@@ -227,6 +227,7 @@ TOC_PRINT_YEAR_HEADINGS = True
 TOC_PRINT_BLURBS = False
 TOC_CLASS_NAME = 'toc'  # for css styling
 TOC_NOBLURB_CLASS = 'noblurb'  # css class added on if PRINT_BLURBS = False
+TOC_HAS_SUBTITLE_CLASS = 'has-subtitle'  # added to toc's h1, not subtitle elt
 TOC_ID = ''  # '' = top of home page; '#foo' for any foo, jump to TOC title
 PREV_ANCHOR_TXT = 'prev'
 HOME_ANCHOR_TXT = 'TOC'
@@ -368,7 +369,7 @@ if __name__ == '__main__' and not _testing:
                 html_page = (
                     html_page.replace('TITLE_TEXT_PH', m['title'])
                     .replace('NAME_DOMAIN_TEXT_PH', DOMAIN_SITENAME)
-                    .replace('SITENAME_TXT_PH', SITE_NAME)
+                    .replace('SITENAME_TEXT_PH', SITE_NAME)
                     .replace('HOME_URL_PH', BASEURL)
                     .replace('DOMAIN_URL_PH', DOMAIN)
                     .replace('YEAR_TEXT_PH', str(m['date'].year))
@@ -402,7 +403,11 @@ if __name__ == '__main__' and not _testing:
     else:
         sorted_meta = coll
 
-    toc_md = f'# {TOC_TITLE}\n'
+    toc_md = f'# {TOC_TITLE}'
+    if TOC_SUBTITLE:
+        toc_md += r'{.' + f'{TOC_HAS_SUBTITLE_CLASS}' + r'}'
+        toc_md += f'\n\n{TOC_SUBTITLE}'
+    toc_md += '\n'
     year = 2  # the year 0002 -- must not equal date default
 
     for idx, (title, date, blurb, url, path) in enumerate(sorted_meta):
