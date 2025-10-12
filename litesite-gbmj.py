@@ -213,7 +213,7 @@ FTRFN_NC = 'nfooter.html'
 INFILE_EXT = 'gbmj'  # can be anything; no leading dot
 CONVERT_FROM = 'markdown+smart'  # pandoc input type, with optional extensions
 OPTS: list[str] = []  # pandoc options to pass in to conversion
-MAXDEPTH = 1  # 1 = root only
+MAXDEPTH = 3  # 1 = root only
 SORTKEY = 1  # 0 = title, 1 = date, anything else = don't sort
 SORT_REVERSED = False
 TOC_TITLE = 'TOC'
