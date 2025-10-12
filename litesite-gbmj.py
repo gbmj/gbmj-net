@@ -216,7 +216,8 @@ OPTS: list[str] = []  # pandoc options to pass in to conversion
 MAXDEPTH = 3  # 1 = root only
 SORTKEY = 1  # 0 = title, 1 = date, anything else = don't sort
 SORT_REVERSED = False
-TOC_TITLE = 'TOC'
+TOC_TITLE = 'Blog'
+TOC_SUBTITLE = 'Long, hard looks at the nature of God, depression, genius, ethics and truth'
 TOC_PRINT_YEAR_HEADINGS = True
 TOC_PRINT_BLURBS = False
 TOC_CLASS_NAME = 'toc'  # for css styling
@@ -396,7 +397,7 @@ if __name__ == '__main__' and not _testing:
     else:
         sorted_meta = coll
 
-    toc_md = f'# {TOC_TITLE}\n'
+    toc_md = f'# {TOC_TITLE}\n{TOC_SUBTITLE}\n'
     year = 2  # the year 0002 -- must not equal date default
 
     for idx, (title, date, blurb, url, path) in enumerate(sorted_meta):
