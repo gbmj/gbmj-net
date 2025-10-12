@@ -2,7 +2,7 @@
 litesite: collection
 title: The Gifted Sommelier
 date: 2019-01-01
-blurb: An undead wine stewards’s job never ends, finding and serving the vintages that help the dead pass on to the other side.
+blurb: An undead wine steward’s job never ends, finding and serving the vintages that help the dead pass on to the other side.
 pub: Abyss & Apex Magazine
 ---
 # The Gifted Sommelier {.has-subtitle}
