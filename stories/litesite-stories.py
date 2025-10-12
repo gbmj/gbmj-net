@@ -376,11 +376,11 @@ if __name__ == '__main__' and not _testing:
 
                 # replace most placeholders now -- only SELF_URL_PH has to wait
                 html_page = (
-                    html_page.replace('SITENAME_TEXT_PH', SITE_NAME)
-                    .replace('TITLE_TEXT_PH', m['title'])
+                    html_page.replace('TITLE_TEXT_PH', m['title'])
+                    .replace('DOMAIN_SITENAME_TEXT_PH', DOMAIN_SITENAME)
+                    .replace('SITENAME_TXT_PH', SITE_NAME)
                     .replace('HOME_URL_PH', BASEURL)
                     .replace('DOMAIN_URL_PH', DOMAIN)
-                    .replace('DOMAIN_SITENAME_TXT_PH', DOMAIN_SITENAME)
                     .replace('YEAR_TEXT_PH', str(m['date'].year))
                     .replace('DATE_TEXT_PH', str(m['date']))
                 )
@@ -464,12 +464,12 @@ if __name__ == '__main__' and not _testing:
             prev = f'<a href="{sorted_meta[-1][idx_url]}">{prev}</a>'
             next = f'<a href="{sorted_meta[0][idx_url]}">{next}</a>'
         html_page = (
-            TEMPLATE_C.replace('SITENAME_TEXT_PH', SITE_NAME)
-            .replace('TITLE_TEXT_PH', TOC_TITLE)
+            TEMPLATE_C.replace('TITLE_TEXT_PH', TOC_TITLE)
+            .replace('DOMAIN_SITENAME_TXT_PH', DOMAIN_SITENAME)
+            .replace('SITENAME_TEXT_PH', SITE_NAME)
             .replace('SELF_URL_PH', BASEURL)
             .replace('HOME_URL_PH', BASEURL)
             .replace('DOMAIN_URL_PH', DOMAIN)
-            .replace('DOMAIN_SITENAME_TXT_PH', DOMAIN_SITENAME)
             .replace('PREV_LINK_PH', prev)
             .replace('HOME_LINK_PH', HOME_ANCHOR_TXT)
             .replace('NEXT_LINK_PH', next)

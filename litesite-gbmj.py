@@ -65,14 +65,15 @@ a TOC at this location.
 
 How to Use:
     Copy litesite.py into the local folder of the site you want to build
-    and edit the USER SETTINGS section. Use your preferred package manager
-    (virtualenv, pipenv, conda, poetry, uv ...) to ensure access to the
-    script's external dependencies, update the shebang line as needed,
-    and run.
+    and edit the USER SETTINGS section. Create your input
+    files, using placeholders where desired (see `Placeholders` below).
+    Use your preferred package manager (virtualenv, pipenv, conda, poetry,
+    uv ...) to ensure access to the script's external dependencies, update
+    the shebang line as needed, and run.
 
 Advanced Use:
     In addition to supplying the required USER SETTINGS, you can
-    optionally add custom logic to process your own tags and placeholders
+    add custom logic to process your own tags and placeholders
     (more on those below). The script indicates where this logic is
     needed.
 
@@ -112,7 +113,7 @@ Optional frontmatter:
     For files named `index`, the script uses the name of the enclosing
     folder for the title.
 
-Optional placeholders:
+Placeholders:
     The script offers several placeholders you can use in your head,
     header, footer and .foo files. You can also create your own. The
     script's naming convention is meant to help you produce valid
@@ -135,9 +136,11 @@ List of standard placeholders:
             contain a trailing slash, so proper use will look funny:
             For example, write <img href="DOMAIN_URL_PHimages/me.png">
             and not <img href="DOMAIN_URL_PH/images/me.png">.
+(any)   DOMAIN_SITENAME_TXT_PH, SITENAME_TXT_PH - insert the name
+            of the overarching domain resp. this site. Placeholders for
+            the values you set below.
 (any)   SELF_URL_PH - insert the absolute URL to the current page. For
-            use in a rel="canonical" link in your head file (and
-            elsewhere as you desire).
+            use in a rel="canonical" link in your head file.
 (any)   YEAR_TEXT_PH, DATE_TEXT_PH - insert the year resp. full date
             specified in the page's frontmatter (else the default value).
             Note, the date will be in ISO 8601 format. Modify this
@@ -169,17 +172,14 @@ Tips:
     folders on your domain, creating multiple self-contained collections
     with their own styling and navigation. If you do that, be sure to
     set MAXDEPTH so you don't overwrite files in subfolders where you're
-    running the script independently.
+    running the script independently. If you need to process files in
+    some subfolders but want others to run independently, use different
+    file extensions for each site.
 
     You can create a non-blog-like site simply by omitting
     blog-like navigation placeholders (those with PREV, NEXT, TOC) and
     using the same header and footer files for all pages, or by having
-    no input files with `collection: yes` in the frontmatter.
-
-    I've mostly kept this script from enforcing particular
-    choices, except for one: the URL it generates for pages named
-    `index` goes to the enclosing folder and contains a trailing
-    slash. Modify the script if you prefer different behavior.
+    no input files with `litesite: collection` in the frontmatter.
 
 Limitations:
     This script is only 'aware' of page-level headers and footers:
@@ -187,7 +187,12 @@ Limitations:
     resp. </main> and </body>) tags. If you need section-level headers,
     footers, nav blocks or other in-page content that repeats on all pages,
     check out a more full-featured site generator like Jekyll or
-    Hugo.
+    Hugo. Or edit this script :).
+
+    I've mostly kept this script from enforcing particular
+    choices, except for one: the URL it generates for pages named
+    `index` goes to the enclosing folder and contains a trailing
+    slash. Modify the script if you prefer different behavior.
 """
 
 import datetime as dt  # enable sorting on date
@@ -361,11 +366,11 @@ if __name__ == '__main__' and not _testing:
 
                 # replace most placeholders now -- only SELF_URL_PH has to wait
                 html_page = (
-                    html_page.replace('SITENAME_TEXT_PH', SITE_NAME)
-                    .replace('TITLE_TEXT_PH', m['title'])
+                    html_page.replace('TITLE_TEXT_PH', m['title'])
+                    .replace('DOMAIN_SITENAME_TEXT_PH', DOMAIN_SITENAME)
+                    .replace('SITENAME_TXT_PH', SITE_NAME)
                     .replace('HOME_URL_PH', BASEURL)
                     .replace('DOMAIN_URL_PH', DOMAIN)
-                    .replace('DOMAIN_SITENAME_TXT_PH', DOMAIN_SITENAME)
                     .replace('YEAR_TEXT_PH', str(m['date'].year))
                     .replace('DATE_TEXT_PH', str(m['date']))
                 )
@@ -448,12 +453,12 @@ if __name__ == '__main__' and not _testing:
             prev = f'<a href="{sorted_meta[-1][idx_url]}">{prev}</a>'
             next = f'<a href="{sorted_meta[0][idx_url]}">{next}</a>'
         html_page = (
-            TEMPLATE_C.replace('SITENAME_TEXT_PH', SITE_NAME)
-            .replace('TITLE_TEXT_PH', TOC_TITLE)
+            TEMPLATE_C.replace('TITLE_TEXT_PH', TOC_TITLE)
+            .replace('DOMAIN_SITENAME_TXT_PH', DOMAIN_SITENAME)
+            .replace('SITENAME_TEXT_PH', SITE_NAME)
             .replace('SELF_URL_PH', BASEURL)
             .replace('HOME_URL_PH', BASEURL)
             .replace('DOMAIN_URL_PH', DOMAIN)
-            .replace('DOMAIN_SITENAME_TXT_PH', DOMAIN_SITENAME)
             .replace('PREV_LINK_PH', prev)
             .replace('HOME_LINK_PH', HOME_ANCHOR_TXT)
             .replace('NEXT_LINK_PH', next)
