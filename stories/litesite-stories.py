@@ -12,7 +12,7 @@
 # GNU General Public License for more details.
 
 # If you would like to use this script, there is a well-documented
-# source file at https://github.com/gbmj/litesite.
+# README at https://github.com/gbmj/litesite.
 
 """Generate a static site for a blog-like collection of pages."""
 
