@@ -194,10 +194,10 @@ section.toc h1 + p { /* reset behavior when years separate sets of links in the 
     color: var(--primary-txt-color);
     margin-bottom: 1rem;
 }
-section.toc h1.has-subtitle { /* reproduce usual subtitle behavior in TOC */
+section.toc.has-subtitle h1 { /* reproduce usual subtitle behavior in TOC */
     margin-bottom: 0.3rem;
 }
-section.toc h1.has-subtitle + p { /* idem */
+section.toc.has-subtitle h1 + p { /* idem */
     font-style: italic;
     color: var(--secondary-txt-color);
     margin-top: 0;

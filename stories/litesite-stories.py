@@ -20,9 +20,46 @@
 # ]
 # ///
 
-"""Generate a static site for a shallow, blog-like collection of pages.
+"""Generate a static site for a blog-like collection of pages.
 
-Assumed folder structure:
+litesite gives you nearly total freedom to design your site the way you
+want it. The script simply stitches together repeated content,
+such as headers and footers, with page-specific content. How you structure
+those elements is up to you. The purpose is to reduce the work of
+tweaking something that repeats across all pages: using litesite, you
+change it once, and it propagates to all pages on your next
+build.
+
+How to Use:
+    Copy litesite.py into the root directory of the site you want to
+    build and edit the USER SETTINGS section. Create your common and
+    page-specific input files (see `Assumed folder structure`),
+    using content placeholders where desired (see `Placeholders`). You
+    can also add custom logic to process your own tags and placeholders.
+    Use your preferred package manager to install the script's external
+    dependencies (see `Requirements`), update the shebang line as needed,
+    and run.
+
+Advanced Use:
+    In addition to supplying the required USER SETTINGS,
+    The script indicates where this logic is needed.
+
+Requirements:
+    - python 3.13 or later
+    - pypandoc 1.15 or later (plus pandoc 3.8 or later),
+      see pypi.org/project/pypandoc/
+    - python-frontmatter 1.1 or later, see pypi.org/project/python-frontmatter/
+    - the head, header, footer files must begin and end with their
+      respective html tags: <head></head>, <header></header>,
+      <foot></footer>. They may contain multiple such elements.
+    - you can use any file extension you like for your input files,
+      including one you made up, but the actual content must be in
+      a pandoc-supported input format. See pandoc.org/MANUAL.html#options.
+    - all input files you want the script to process must include a
+      YAML frontmatter block containing `litesite:`. Files without this
+      tag will be ignored.
+
+Assumed file & folder structure:
     litesite.py         (this file; required)
     *.foo               (0+ input files; ext customizable)
     *.*                 (0+ other files/folders)
@@ -54,43 +91,14 @@ using YAML frontmatter:
 Collection pages use the cheader and cfooter files; standalone pages
 use nheader and nfooter. This allows you to tailor the site navigation
 to the page type. If you want all pages to have the same header and footer,
-use cheader and cfooter for both.
+set the same filenames for both in USER SETTINGS.
 
 The home page is a special case. If there is no top-level index.foo,
 the script will create the page from scratch, using cheader and cfooter
 and adding a table of contents (TOC) listing the Collection. If
 index.foo does exist, the script will build a regular standalone page,
-then scan the result for a TOC placeholder. If found, the script inserts
-a TOC at this location.
-
-How to Use:
-    Copy litesite.py into the local folder of the site you want to build
-    and edit the USER SETTINGS section. Create your input
-    files, using placeholders where desired (see `Placeholders` below).
-    Use your preferred package manager (virtualenv, pipenv, conda, poetry,
-    uv ...) to ensure access to the script's external dependencies, update
-    the shebang line as needed, and run.
-
-Advanced Use:
-    In addition to supplying the required USER SETTINGS, you can
-    add custom logic to process your own tags and placeholders
-    (more on those below). The script indicates where this logic is
-    needed.
-
-Requirements:
-    - python 3.13 or later
-    - pypandoc 1.15 or later (plus pandoc 3.8 or later),
-      see pypi.org/project/pypandoc/
-    - python-frontmatter 1.1 or later, see pypi.org/project/python-frontmatter/
-    - the head, header, footer files must begin and end with their
-      respective html tags: <head></head>, <header></header>,
-      <foot></footer>.
-    - you can use any file extension you like for your input files,
-      including one you made up, but the actual content must be in
-      a pandoc-supported input format. See pandoc.org/MANUAL.html#options.
-    - all input files you want the script to process must include a
-      YAML frontmatter block containing `litesite:`. Files without this
-      tag will be ignored.
+then scan the result for a TOC placeholder (see `Placeholders`). If found,
+the script inserts a TOC at this location.
 
 Optional frontmatter:
     In addition to the required `litesite:` tag, the script recognizes
@@ -103,7 +111,7 @@ Optional frontmatter:
     fields shown above. You don't need to wrap the title or blurb in
     quote marks, but you may. The tags can be in any order and additional
     frontmatter is fine; the script will ignore it (unless you add logic
-    to handle them, see below.)
+    to handle it; see `Custom tags and placeholders`.)
 
     For missing tags, the script defaults to:
         title: Titlecased Name Of File With Dashes Converted To Spaces
@@ -119,7 +127,7 @@ Placeholders:
     script's naming convention is meant to help you produce valid
     html:
         *_TEXT_PH - ordinary text
-        *_URL_PH - a full web address including protocol (https://)
+        *_URL_PH - a full web address including protocol (https://bar.foo/baz)
         *_LINK_PH - a full anchor element (<a href="...">...</a>)
 
 List of standard placeholders:
@@ -137,10 +145,10 @@ List of standard placeholders:
             For example, write <img href="DOMAIN_URL_PHimages/me.png">
             and not <img href="DOMAIN_URL_PH/images/me.png">.
 (any)   NAME_DOMAIN_TEXT_PH, SITENAME_TEXT_PH - insert the name
-            of the overarching domain resp. this site. Placeholders for
-            the values you set below.
-(any)   SELF_URL_PH - insert the absolute URL to the current page. For
-            use in a rel="canonical" link in your head file.
+            of the overarching domain resp. this site. Useful for
+            subsites that also point to the main site.
+(any)   SELF_URL_PH - insert the absolute URL to the current page.
+            Exclusively for a rel="canonical" link in your head file.
 (any)   YEAR_TEXT_PH, DATE_TEXT_PH - insert the year resp. full date
             specified in the page's frontmatter (else the default value).
             Note, the date will be in ISO 8601 format. Modify this
@@ -182,7 +190,7 @@ Tips:
     no input files with `litesite: collection` in the frontmatter.
 
 Limitations:
-    This script is only 'aware' of page-level headers and footers:
+    This script is only aware of page-level headers and footers:
     their contents are inserted between the <body> and <main> (
     resp. </main> and </body>) tags. If you need section-level headers,
     footers, nav blocks or other in-page content that repeats on all pages,
@@ -199,7 +207,7 @@ import datetime as dt  # enable sorting on date
 from operator import itemgetter  # to create key fn for sorted
 from pathlib import Path  # system-independent filepath manipulation
 import re  # regular expression substition
-import typing as typ  # import Generator, Iterator, Any  # type hinting support
+import typing as typ  # type hinting support
 import frontmatter  # parse input files containing YAML frontmatter
 import pypandoc as ppd  # convert input files to html
 
@@ -235,11 +243,11 @@ NEXT_ANCHOR_TXT = 'next'
 # ---- END USER SETTTINGS ----
 BASEURL = DOMAIN + PATH_FROM_DOMAIN_TO_HERE  # url to folder
 BASEDIR = Path(__file__).parent  # filepath to folder
-HEAD_PATH = Path.joinpath(BASEDIR, HHF_SUBDIR + '/' + HDFN)
-HDR_PATH_C = Path.joinpath(BASEDIR, HHF_SUBDIR + '/' + HDRFN_C)
-FTR_PATH_C = Path.joinpath(BASEDIR, HHF_SUBDIR + '/' + FTRFN_C)
-HDR_PATH_NC = Path.joinpath(BASEDIR, HHF_SUBDIR + '/' + HDRFN_NC)
-FTR_PATH_NC = Path.joinpath(BASEDIR, HHF_SUBDIR + '/' + FTRFN_NC)
+HEAD_PATH = BASEDIR / HHF_SUBDIR / HDFN
+HDR_PATH_C = BASEDIR / HHF_SUBDIR / HDRFN_C
+FTR_PATH_C = BASEDIR / HHF_SUBDIR / FTRFN_C
+HDR_PATH_NC = BASEDIR / HHF_SUBDIR / HDRFN_NC
+FTR_PATH_NC = BASEDIR / HHF_SUBDIR / FTRFN_NC
 PPD_HTML_TYPES = ['html', 'html4', 'html5']
 
 
@@ -293,12 +301,13 @@ def _create_meta_defaults(path: Path) -> dict[str, typ.Any]:
     m['url'] = u if not p.samefile(BASEDIR) else u[:-2]
     m['path'] = path.with_suffix('.html')
 
+    # --- CUSTOM ---
     # add your custom defaults here
     m['pub'] = ''
     m['artist'] = ''
     m['artlink'] = ''
     m['art'] = ''
-    # end custom defaults
+    # --- END CUSTOM ---
 
     return m
 
@@ -321,6 +330,7 @@ def _process_complex_meta(meta: dict[str, typ.Any]) -> None:
     # baked-in metadata doesn't need further processing,
     # unless you change that
 
+    # --- CUSTOM ---
     # process custom metadata here
     if meta['pub']:
         meta['pub'] = f'First published in <em>{meta["pub"]}</em>.'
@@ -330,7 +340,7 @@ def _process_complex_meta(meta: dict[str, typ.Any]) -> None:
         else:
             meta['art'] = f'{meta["artist"]}'
         meta['art'] = f'Custom story artwork &copy; {meta["art"]}. Text '
-    # end custom processing
+    # --- END CUSTOM ---
 
 
 # --- testing ---
@@ -396,7 +406,7 @@ if __name__ == '__main__' and not _testing:
                         rf'<a href="{m["url"]}">(.*?)</a>', r'\1', html_page
                     )
 
-                # and now at last we can replace SELF_URL_PH
+                # now we can fill in the canonical ref in head
                 html_page = html_page.replace('SELF_URL_PH', m['url'])
 
                 # --- CUSTOM ---
@@ -407,10 +417,11 @@ if __name__ == '__main__' and not _testing:
                     .replace('ARTIST_CAP_PH', m['art'][:-5])
                 )
                 # --- END CUSTOM ---
+
                 m['path'].write_text(html_page)
 
     # all infiles have been processed; now sort the Collection and
-    # create the TOC (if the collection isn't empty)
+    # create the TOC
 
     if SORTKEY in [0, 1] and coll:
         key = itemgetter(SORTKEY)
@@ -424,7 +435,7 @@ if __name__ == '__main__' and not _testing:
         toc_md += r'{.' + f'{TOC_HAS_SUBTITLE_CLASS}' + r'}'
         toc_md += f'\n\n{TOC_SUBTITLE}'
     toc_md += '\n'
-    year = 2  # the year 0002 -- must not equal date default
+    year = 2  # the year 0002 -- must not equal date meta default
 
     for idx, (title, date, blurb, url, path) in enumerate(sorted_meta):
         # add page listing to TOC
@@ -459,10 +470,12 @@ if __name__ == '__main__' and not _testing:
     toc += '</section>'
 
     # update / create the home page
-    outfile = Path(BASEDIR).joinpath('index.html')
-    infile = Path(BASEDIR).joinpath(f'index.{INFILE_EXT}')
+    outfile = BASEDIR / 'index.html'
+    infile = BASEDIR / f'index.{INFILE_EXT}'
     if infile.exists():
-        html_page = outfile.read_text().replace('<p>TOC_BLOCK_PH</p>', toc)
+        html_page = outfile.read_text().replace(
+            '<p>TOC_BLOCK_PH</p>', (toc if sorted_meta else '')
+        )
     else:
         prev = PREV_ANCHOR_TXT
         next = NEXT_ANCHOR_TXT
@@ -488,7 +501,10 @@ if __name__ == '__main__' and not _testing:
         # set them appropriately for the home page
         html_page = html_page.replace('PUB_PH', '').replace('ARTIST_PH', '')
         # --- END CUSTOM ---
-        html_page = html_page.replace('<!--BODY-->', toc)
+
+        html_page = html_page.replace(
+            '<!--BODY-->', (toc if sorted_meta else '')
+        )
 
     outfile.write_text(html_page)
 

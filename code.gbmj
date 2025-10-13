@@ -16,10 +16,9 @@ title: Best Hobby in the World
 
 
 ### Recent
-- [litesite](https://github.com/gbmj/litesite) is a simple static website generator written in Python.
+- [litesite](https://github.com/gbmj/litesite) is a simple static website generator written in Python. It was a great way to dive in and start learning Python's idioms. Back in the day I used PHP to stitch together my website; this time I wanted to write something others could also use, which forced me to think about how to leave choices open, and how to write legible rather than minimal code. The result no doubt violates the Zen of Python in many places, but it works as intended and I had a lot of fun making it.
 
-- [Dill Thief](DOMAIN_URL_PHdill-thief.html) is a gentle browser game where you use light to dispel the darkness.
-<!-- note, maybe make this a subdomain later, with its own css etc.-->
+- [Dill Thief](DOMAIN_URL_PHdill-thief.html) will be a gentle browser game where you use light to dispel the darkness. I'm currently doing this one in Python, too, using pygame-ce and pygbag. Fun!
 
 ### Ancient
 - In the last few years of the previous century I got paid to port and parallelize things in various flavors of assembly: the G.729A audio compression codec for IBM's Mwave, the OpenGL 3D graphics API for [BOPS' ManArray](https://github.com/gbmj/public/blob/main/BOPS_ManArray_arch.pdf).
