@@ -20,18 +20,52 @@
 # ]
 # ///
 
-"""Generate a static site for a shallow, blog-like collection of pages.
+"""Generate a static site for a blog-like collection of pages.
 
-Assumed folder structure:
+litesite gives you nearly total freedom to design your site the way you
+want it. The script simply stitches together repeated content,
+such as headers, sidebars and footers, with page-specific content. How
+you structure those elements is up to you. The purpose is to reduce the
+work of tweaking something that repeats across all pages: using litesite,
+you change it once, and it propagates to all pages on your next build.
+
+How to Use:
+    Copy litesite.py into the root folder of the site you want to
+    build and edit the USER SETTINGS section. Create your common and
+    page-specific input files (see `Assumed folder structure`),
+    using content placeholders where desired (see `Placeholders`). Feel
+    free to add custom logic to process your own tags and placeholders;
+    the script indicates where such logic is needed.
+
+    Use your preferred package manager to install the script's external
+    dependencies (see `Requirements`), update the shebang line as needed,
+    and run.
+
+Requirements:
+    - python 3.13 or later
+    - pypandoc 1.15 or later (plus pandoc 3.8 or later),
+      see pypi.org/project/pypandoc/
+    - python-frontmatter 1.1 or later, see pypi.org/project/python-frontmatter/
+    - the common head, pre and post files must contain valid html; the
+      script will insert them as is. The common head file must begin
+      and end with <head> resp </head>.
+    - you can use any file extension you like for your input files,
+      including one you made up, but the actual content must be in
+      a pandoc-supported input format. See pandoc.org/MANUAL.html#options.
+    - all input files you want the script to process must include a
+      YAML frontmatter block containing `litesite:`. Files without this
+      tag will be ignored.
+
+Assumed file & folder structure:
     litesite.py         (this file; required)
     *.foo               (0+ input files; ext customizable)
     *.*                 (0+ other files/folders)
     cmn/                (required; name customizable)
        |_ head.html     (required; name customizable)
-       |_ cheader.html  (required; name customizable)
-       |_ cfooter.html  (required; name customizable)
-       |_ nheader.html  (optional; name customizable)
-       |_ nfooter.html  (optional; name customizable)
+       |_ cpre.html  (required; name customizable)
+       |_ cpost.html  (required; name customizable)
+       |_ npre.html  (optional; name customizable)
+       |_ npost.html  (optional; name customizable)
     */                  (0+ other folders)
         |_ *.foo        (0+ input files)
         |_ *.*          (0+ other files)
@@ -51,46 +85,22 @@ using YAML frontmatter:
     - input files with no `litesite:` tag do not generate html pages.
       This means you can also use the chosen extension for other things.
 
-Collection pages use the cheader and cfooter files; standalone pages
-use nheader and nfooter. This allows you to tailor the site navigation
-to the page type. If you want all pages to have the same header and footer,
-use cheader and cfooter for both.
+Collection pages use the cpre and cpost files; standalone pages
+use npre and npost. This allows you to tailor the common elements
+to the page type. If you want all pages to have the same common parts,
+set the same filenames for both in USER SETTINGS.
 
 The home page is a special case. If there is no top-level index.foo,
-the script will create the page from scratch, using cheader and cfooter
+the script will create the page from scratch, using cpre and cpost
 and adding a table of contents (TOC) listing the Collection. If
 index.foo does exist, the script will build a regular standalone page,
-then scan the result for a TOC placeholder. If found, the script inserts
-a TOC at this location.
+then scan the result for a TOC placeholder (see `Placeholders`). If found,
+the script inserts a TOC at this location.
 
-How to Use:
-    Copy litesite.py into the local folder of the site you want to build
-    and edit the USER SETTINGS section. Create your input
-    files, using placeholders where desired (see `Placeholders` below).
-    Use your preferred package manager (virtualenv, pipenv, conda, poetry,
-    uv ...) to ensure access to the script's external dependencies, update
-    the shebang line as needed, and run.
-
-Advanced Use:
-    In addition to supplying the required USER SETTINGS, you can
-    add custom logic to process your own tags and placeholders
-    (more on those below). The script indicates where this logic is
-    needed.
-
-Requirements:
-    - python 3.13 or later
-    - pypandoc 1.15 or later (plus pandoc 3.8 or later),
-      see pypi.org/project/pypandoc/
-    - python-frontmatter 1.1 or later, see pypi.org/project/python-frontmatter/
-    - the head, header, footer files must begin and end with their
-      respective html tags: <head></head>, <header></header>,
-      <foot></footer>.
-    - you can use any file extension you like for your input files,
-      including one you made up, but the actual content must be in
-      a pandoc-supported input format. See pandoc.org/MANUAL.html#options.
-    - all input files you want the script to process must include a
-      YAML frontmatter block containing `litesite:`. Files without this
-      tag will be ignored.
+Optional css tags:
+    Because the TOC is generated and not under your direct control,
+    the script will add up to three customizable css classes so you
+    can fine-tune its styling.
 
 Optional frontmatter:
     In addition to the required `litesite:` tag, the script recognizes
@@ -103,7 +113,7 @@ Optional frontmatter:
     fields shown above. You don't need to wrap the title or blurb in
     quote marks, but you may. The tags can be in any order and additional
     frontmatter is fine; the script will ignore it (unless you add logic
-    to handle them, see below.)
+    to handle it; see `Custom tags and placeholders`.)
 
     For missing tags, the script defaults to:
         title: Titlecased Name Of File With Dashes Converted To Spaces
@@ -115,11 +125,11 @@ Optional frontmatter:
 
 Placeholders:
     The script offers several placeholders you can use in your head,
-    header, footer and .foo files. You can also create your own. The
+    pre, post and *.foo files. You can also create your own. The
     script's naming convention is meant to help you produce valid
     html:
         *_TEXT_PH - ordinary text
-        *_URL_PH - a full web address including protocol (https://)
+        *_URL_PH - a full web address including protocol (https://bar.foo/baz)
         *_LINK_PH - a full anchor element (<a href="...">...</a>)
 
 List of standard placeholders:
@@ -134,13 +144,14 @@ List of standard placeholders:
             have to update two constants in this script if you change
             domain names or move the site folder. Note, these URLs
             contain a trailing slash, so proper use will look funny:
-            For example, write <img href="DOMAIN_URL_PHimages/me.png">
-            and not <img href="DOMAIN_URL_PH/images/me.png">.
+            For example, write <img href="DOMAIN_URL_PHimages/me.png" />
+            and not <img href="DOMAIN_URL_PH/images/me.png" />.
 (any)   NAME_DOMAIN_TEXT_PH, SITENAME_TEXT_PH - insert the name
-            of the overarching domain resp. this site. Placeholders for
-            the values you set below.
-(any)   SELF_URL_PH - insert the absolute URL to the current page. For
-            use in a rel="canonical" link in your head file.
+            of the overarching domain resp. this site. Useful for
+            subsites that point back to the main site.
+(any)   SELF_URL_PH - insert the absolute URL to the current page.
+            Exclusively for a rel="canonical" link in your head file.
+            The script disables all other self-links on a page.
 (any)   YEAR_TEXT_PH, DATE_TEXT_PH - insert the year resp. full date
             specified in the page's frontmatter (else the default value).
             Note, the date will be in ISO 8601 format. Modify this
@@ -149,7 +160,7 @@ List of standard placeholders:
             frontmatter (else the default value). Use in the head file's
             <title></title> element (and elsewhere as you desire).
 (coll)  PREV_URL_PH, NEXT_URL_PH - insert URLs to the page's TOC
-            neighbors. Note, for nav links in page header or footer
+            neighbors. Note, for nav links in headers, sidebars etc.
             you might prefer the _LINK_ versions below.
 (coll,  PREV_LINK_PH, HOME_LINK_PH, NEXT_LINK_PH - insert the entire
 home        anchor element for the page's TOC neighbors resp. the home
@@ -174,47 +185,62 @@ Tips:
     set MAXDEPTH so you don't overwrite files in subfolders where you're
     running the script independently. If you need to process files in
     some subfolders but want others to run independently, use different
-    file extensions for each site.
+    file extensions for each site. See an example of the latter at
+    https://github.com/gbmj/gbmj-net.
 
     You can create a non-blog-like site simply by omitting
     blog-like navigation placeholders (those with PREV, NEXT, TOC) and
-    using the same header and footer files for all pages, or by having
+    using the same pre and post files for all pages, or by having
     no input files with `litesite: collection` in the frontmatter.
 
+    If you write your content in markdown: pandoc supports a whole
+    lot of fancy stuff out of the box (fenced code, header attributes,
+    definition lists, pipe tables, ...) without extra options or
+    extensions, if you use 'markdown' as your input format. See
+    https://pandoc.org/MANUAL.html#pandocs-markdown.
+
 Limitations:
-    This script is only 'aware' of page-level headers and footers:
+    This script is only aware of page-level common elements:
     their contents are inserted between the <body> and <main> (
     resp. </main> and </body>) tags. If you need section-level headers,
     footers, nav blocks or other in-page content that repeats on all pages,
     check out a more full-featured site generator like Jekyll or
-    Hugo. Or edit this script :).
+    Hugo. Or edit this script. Or write your own! It's fun :).
+
+    The script puts the same language tag on every html page; if you
+    write content in two or more languages, you could use different
+    infile extensions for them and run a different copy of the script
+    for each; or you could modify the script to process more langs.
 
     I've mostly kept this script from enforcing particular
-    choices, except for one: the URL it generates for pages named
-    `index` goes to the enclosing folder and contains a trailing
-    slash. Modify the script if you prefer different behavior.
+    choices, except for two:
+        - the URL it generates for pages named `index` goes to the
+          enclosing folder and contains a trailing slash.
+        - the generated TOC is hardcoded to use h1 for its title,
+          p for its subtitle, and ul for its contents.
+    Modify the script if you prefer different behavior.
 """
 
 import datetime as dt  # enable sorting on date
 from operator import itemgetter  # to create key fn for sorted
 from pathlib import Path  # system-independent filepath manipulation
 import re  # regular expression substition
-import typing as typ  # import Generator, Iterator, Any  # type hinting support
+import typing as typ  # type hinting support
 import frontmatter  # parse input files containing YAML frontmatter
 import pypandoc as ppd  # convert input files to html
 
 #   -- USER SETTINGS ---
 SITE_NAME = 'The Cancer Blog'
 LANGUAGE = 'en'  # two-letter iso code
-DOMAIN_SITENAME = 'Grayson Bray Morris'  # for root, if this is a subsite
+DOMAIN_SITENAME = 'Grayson Bray Morris'  # if this is a subsite
 DOMAIN = 'https://gbmj.net/'  # include protocol and end in /
 PATH_FROM_DOMAIN_TO_HERE = 'cancer-blog/'  # end in / if not ''
-HHF_SUBDIR = 'cmn/'  # where head, header, footer files are; end in /
+HHF_SUBDIR = 'cmn/'  # where head, pre, post files are; end in /
 HDFN = 'head.html'
-HDRFN_C = 'cheader.html'
-HDRFN_NC = 'nheader.html'
-FTRFN_C = 'cfooter.html'
-FTRFN_NC = 'nfooter.html'
+PREFN_C = 'cheader.html'
+PREFN_NC = 'nheader.html'
+POSTFN_C = 'cfooter.html'
+POSTFN_NC = 'nfooter.html'
 INFILE_EXT = 'cancer'  # can be anything; no leading dot
 CONVERT_FROM = 'markdown+smart'  # pandoc input type, with optional extensions
 OPTS: list[str] = []  # pandoc options to pass in to conversion
@@ -227,37 +253,40 @@ TOC_PRINT_YEAR_HEADINGS = True
 TOC_PRINT_BLURBS = False
 TOC_CLASS_NAME = 'toc'  # for css styling
 TOC_NOBLURB_CLASS = 'noblurb'  # css class added on if PRINT_BLURBS = False
-TOC_HAS_SUBTITLE_CLASS = 'has-subtitle'  # added to toc's h1, not subtitle elt
-TOC_ID = ''  # '' = top of home page; '#foo' for any foo, jump to TOC title
+TOC_HAS_SUBTITLE_CLASS = 'has-subtitle'  # added if TOC_SUBTITLE not empty
+TOC_JUMPTO_ID = ''  # '' or '#foo' for any foo; note leading #
 PREV_ANCHOR_TXT = 'prev'
 HOME_ANCHOR_TXT = 'TOC'
 NEXT_ANCHOR_TXT = 'next'
 # ---- END USER SETTTINGS ----
-BASEURL = DOMAIN + PATH_FROM_DOMAIN_TO_HERE  # url to folder
-BASEDIR = Path(__file__).parent  # filepath to folder
-HEAD_PATH = Path.joinpath(BASEDIR, HHF_SUBDIR + '/' + HDFN)
-HDR_PATH_C = Path.joinpath(BASEDIR, HHF_SUBDIR + '/' + HDRFN_C)
-FTR_PATH_C = Path.joinpath(BASEDIR, HHF_SUBDIR + '/' + FTRFN_C)
-HDR_PATH_NC = Path.joinpath(BASEDIR, HHF_SUBDIR + '/' + HDRFN_NC)
-FTR_PATH_NC = Path.joinpath(BASEDIR, HHF_SUBDIR + '/' + FTRFN_NC)
+
+BASEURL = DOMAIN + PATH_FROM_DOMAIN_TO_HERE  # web address to folder
+BASEDIR = Path(__file__).parent  # local filepath to folder
+HEAD_PATH = BASEDIR / HHF_SUBDIR / HDFN
+PRE_PATH_C = BASEDIR / HHF_SUBDIR / PREFN_C
+POST_PATH_C = BASEDIR / HHF_SUBDIR / POSTFN_C
+PRE_PATH_NC = BASEDIR / HHF_SUBDIR / PREFN_NC
+POST_PATH_NC = BASEDIR / HHF_SUBDIR / POSTFN_NC
 PPD_HTML_TYPES = ['html', 'html4', 'html5']
 
 
-def _create_html_template(headfile: Path, hdrfile: Path, ftrfile: Path) -> str:
+def _create_html_template(
+    headfile: Path, prefile: Path, postfile: Path
+) -> str:
     """Return a valid html page with a placeholder for later content."""
     head = headfile.read_text()
-    header = hdrfile.read_text()
-    footer = ftrfile.read_text()
+    pre = prefile.read_text()
+    post = postfile.read_text()
 
     html = '<!DOCTYPE html>\n'
     html += '<html lang="' + LANGUAGE + '">\n'
     html += head
     html += '\n\n<body>\n\n'
-    html += header
+    html += pre
     html += '\n<main>\n'
     html += '<!--BODY-->'
     html += '</main>\n\n'
-    html += footer
+    html += post
     html += '\n\n</body>\n\n'
     html += '</html>'
 
@@ -293,8 +322,9 @@ def _create_meta_defaults(path: Path) -> dict[str, typ.Any]:
     m['url'] = u if not p.samefile(BASEDIR) else u[:-2]
     m['path'] = path.with_suffix('.html')
 
+    # --- CUSTOM ---
     # add your custom defaults here
-    # end custom defaults
+    # --- END CUSTOM ---
 
     return m
 
@@ -317,9 +347,10 @@ def _process_complex_meta(meta: dict[str, typ.Any]) -> None:
     # baked-in metadata doesn't need further processing,
     # unless you change that
 
+    # --- CUSTOM ---
     # process custom metadata here
     pass
-    # end custom processing
+    # --- END CUSTOM ---
 
 
 # --- testing ---
@@ -334,8 +365,8 @@ if __name__ == '__main__' and not _testing:
     coll: list[tuple[str, dt.date, str, str, Path]] = []
     idx_title, idx_date, idx_blurb, idx_url, idx_path = 0, 1, 2, 3, 4
 
-    TEMPLATE_C = _create_html_template(HEAD_PATH, HDR_PATH_C, FTR_PATH_C)
-    TEMPLATE_NC = _create_html_template(HEAD_PATH, HDR_PATH_NC, FTR_PATH_NC)
+    template_c = _create_html_template(HEAD_PATH, PRE_PATH_C, POST_PATH_C)
+    template_nc = _create_html_template(HEAD_PATH, PRE_PATH_NC, POST_PATH_NC)
 
     for files in _get_infiles(BASEDIR, rf'*.{INFILE_EXT}', MAXDEPTH):
         for filepath in files:
@@ -361,9 +392,9 @@ if __name__ == '__main__' and not _testing:
                             m['path'],
                         )
                     )
-                    html_page = TEMPLATE_C.replace('<!--BODY-->', html_body)
+                    html_page = template_c.replace('<!--BODY-->', html_body)
                 else:
-                    html_page = TEMPLATE_NC.replace('<!--BODY-->', html_body)
+                    html_page = template_nc.replace('<!--BODY-->', html_body)
 
                 # replace most placeholders now -- only SELF_URL_PH has to wait
                 html_page = (
@@ -378,14 +409,14 @@ if __name__ == '__main__' and not _testing:
 
                 # a page shouldn't have a link to itself, other than
                 # the canonical in the head section, which we haven't yet
-                # filled in. That means we can search and replace
-                # any self-links we do find with just the link text
+                # filled in. That means we can replace any self-links
+                # we do find with just the link text
                 if m['url'] in html_page:
                     html_page = re.sub(
                         rf'<a href="{m["url"]}">(.*?)</a>', r'\1', html_page
                     )
 
-                # and now at last we can replace SELF_URL_PH
+                # now we can fill in the canonical ref in head
                 html_page = html_page.replace('SELF_URL_PH', m['url'])
 
                 # --- CUSTOM ---
@@ -394,7 +425,7 @@ if __name__ == '__main__' and not _testing:
                 m['path'].write_text(html_page)
 
     # all infiles have been processed; now sort the Collection and
-    # create the TOC (if the collection isn't empty)
+    # create the TOC in pandoc markdown
 
     if SORTKEY in [0, 1] and coll:
         key = itemgetter(SORTKEY)
@@ -403,12 +434,9 @@ if __name__ == '__main__' and not _testing:
     else:
         sorted_meta = coll
 
-    toc_md = f'# {TOC_TITLE}'
-    if TOC_SUBTITLE:
-        toc_md += r'{.' + f'{TOC_HAS_SUBTITLE_CLASS}' + r'}'
-        toc_md += f'\n\n{TOC_SUBTITLE}'
-    toc_md += '\n'
-    year = 2  # the year 0002 -- must not equal date default
+    toc_md = f'# {TOC_TITLE}\n\n'
+    toc_md += f'{TOC_SUBTITLE}\n\n' if TOC_SUBTITLE else ''
+    year = 2  # the year 0002 -- must not equal date meta default
 
     for idx, (title, date, blurb, url, path) in enumerate(sorted_meta):
         # add page listing to TOC
@@ -423,7 +451,7 @@ if __name__ == '__main__' and not _testing:
         prev = PREV_ANCHOR_TXT
         if idx != 0:
             prev = f'<a href="{sorted_meta[idx - 1][idx_url]}">{prev}</a>'
-        home = f'<a href="{BASEURL}{TOC_ID}">{HOME_ANCHOR_TXT}</a>'
+        home = f'<a href="{BASEURL}{TOC_JUMPTO_ID}">{HOME_ANCHOR_TXT}</a>'
         next = NEXT_ANCHOR_TXT
         if idx != len(sorted_meta) - 1:
             next = f'<a href="{sorted_meta[idx + 1][idx_url]}">{next}</a>'
@@ -438,23 +466,28 @@ if __name__ == '__main__' and not _testing:
     # complete the TOC
     toc_classes = TOC_CLASS_NAME
     toc_classes += f' {TOC_NOBLURB_CLASS}' if not TOC_PRINT_BLURBS else ''
-    toc = f'<section class="{toc_classes}" id="{TOC_ID}">\n'
+    toc_classes += f' {TOC_HAS_SUBTITLE_CLASS}' if TOC_SUBTITLE else ''
+    toc = f'<section class="{toc_classes}" id="{TOC_JUMPTO_ID}">\n'
     toc += ppd.convert_text(toc_md, 'html', 'markdown+smart')
     toc += '</section>'
 
     # update / create the home page
-    outfile = Path(BASEDIR).joinpath('index.html')
-    infile = Path(BASEDIR).joinpath(f'index.{INFILE_EXT}')
+    outfile = BASEDIR / 'index.html'
+    infile = BASEDIR / f'index.{INFILE_EXT}'
     if infile.exists():
-        html_page = outfile.read_text().replace('<p>TOC_BLOCK_PH</p>', toc)
+        # update the existing index.html
+        html_page = outfile.read_text().replace(
+            '<p>TOC_BLOCK_PH</p>', (toc if sorted_meta else '')
+        )
     else:
+        # create index.html from scratch
         prev = PREV_ANCHOR_TXT
         next = NEXT_ANCHOR_TXT
         if sorted_meta:
             prev = f'<a href="{sorted_meta[-1][idx_url]}">{prev}</a>'
             next = f'<a href="{sorted_meta[0][idx_url]}">{next}</a>'
         html_page = (
-            TEMPLATE_C.replace('TITLE_TEXT_PH', TOC_TITLE)
+            template_c.replace('TITLE_TEXT_PH', TOC_TITLE)
             .replace('NAME_DOMAIN_TEXT_PH', DOMAIN_SITENAME)
             .replace('SITENAME_TEXT_PH', SITE_NAME)
             .replace('SELF_URL_PH', BASEURL)
@@ -468,10 +501,13 @@ if __name__ == '__main__' and not _testing:
         )
         # --- CUSTOM ---
         # if you added custom placeholders that appear
-        # in the header and/or footer for Collection pages,
-        # set them appropriately for the home page
+        # in the pre and/or post for Collection pages,
+        # set them appropriately for this page
         # --- END CUSTOM ---
-        html_page = html_page.replace('<!--BODY-->', toc)
+
+        html_page = html_page.replace(
+            '<!--BODY-->', (toc if sorted_meta else '')
+        )
 
     outfile.write_text(html_page)
 
