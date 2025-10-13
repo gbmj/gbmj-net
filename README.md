@@ -28,13 +28,13 @@ All creative content except custom story artwork is licensed under a
 #### Custom story artwork
 These items are copyrighted by their respective artists; all rights reserved.
 
-![image](https://github.com/gbmj/gbmj-net/blob/11831b38750ee2a55d134d5d288c02c8f763701d/stories/message-between-words/story-artwork-copyright-Darryl-Knickrehm.jpg)
+(stories/message-between-words/story-artwork-copyright-Darryl-Knickrehm.jpg)
 &copy; Darryl Knickrehm, https://dariru.com
 
-![image](stories/putting-down-roots/story-artwork-copyright-Matt-D-Edginton.jpg)
+(stories/putting-down-roots/story-artwork-copyright-Matt-D-Edginton.jpg)
 &copy; Matt D. Edginton, https://madoosk.com
 
-![image](stories/time-travel-voodoo-rite/story-artwork-copyright-Zebi-Damen.jpg)
+(stories/time-travel-voodoo-rite/story-artwork-copyright-Zebi-Damen.jpg)
 &copy; Zebi Damen
 
 ### Code
