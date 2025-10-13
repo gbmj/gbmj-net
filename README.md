@@ -16,12 +16,10 @@ The repo uses three copies of litesite: litesite-gbmj.py in the root, litesite-s
 ### Licensing
 
 #### Creative content
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 All creative content except custom story artwork is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
-
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
@@ -30,7 +28,7 @@ All creative content except custom story artwork is licensed under a
 #### Custom story artwork
 These items are copyrighted by their respective artists; all rights reserved.
 
-![image](stories/message-between-words/story-artwork-copyright-Darryl-Knickrehm.jpg)
+![image](https://github.com/gbmj/gbmj-net/blob/11831b38750ee2a55d134d5d288c02c8f763701d/stories/message-between-words/story-artwork-copyright-Darryl-Knickrehm.jpg)
 &copy; Darryl Knickrehm, https://dariru.com
 
 ![image](stories/putting-down-roots/story-artwork-copyright-Matt-D-Edginton.jpg)
