@@ -11,5 +11,5 @@ The repo uses three copies of litesite: litesite-gbmj.py in the root, litesite-s
 - stories/ is also an example of using custom frontmatter tags and placeholders.
 - I point all three sites to the same css file, to enforce consistent styling across my website, but you could point them at three different files to make each site unique.
 - I've named my pre and post files 'header' and 'footer', because that's what I'm using them for, but pre and post can be anything that's valid in the &lt;body&gt; of a page.
-- these sites use a fairly minimalist design ethic, but don't let that fool you. You still provide all the content and styling; litesite just stitches the parts together for you. 
+- these sites use a fairly minimalist design ethic, but you can do whatever you like. Aside from the generated table of contents, litesite doesn't dictate form or function; it just takes what you give it and stitches the parts together. 
 
