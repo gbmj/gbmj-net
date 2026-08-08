@@ -142,7 +142,6 @@ def _process_complex_meta(meta: dict[str, typ.Any]) -> None:
 
     # --- CUSTOM ---
     # process custom metadata here
-    pass
     # --- END CUSTOM ---
 
 
