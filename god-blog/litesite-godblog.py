@@ -40,7 +40,7 @@ CONVERT_FROM = 'markdown+smart'  # pandoc input type, with optional extensions
 OPTS: list[str] = []  # pandoc options to pass in to conversion
 MAXDEPTH = 2  # 1 = root only
 SORTKEY = 1  # 0 = title, 1 = date, anything else = don't sort
-SORT_REVERSED = False
+SORT_REVERSED = True
 TOC_TITLE = ''
 TOC_SUBTITLE = ''  # can be empty
 TOC_PRINT_YEAR_HEADINGS = True
