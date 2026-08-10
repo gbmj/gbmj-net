@@ -49,9 +49,9 @@ TOC_CLASS_NAME = 'toc'  # for css styling
 TOC_NOBLURB_CLASS = 'noblurb'  # css class added on if PRINT_BLURBS = False
 TOC_HAS_SUBTITLE_CLASS = 'has-subtitle'  # added if TOC_SUBTITLE not empty
 TOC_JUMPTO_ID = ''  # '' or '#foo' for any foo; note leading #
-PREV_ANCHOR_TXT = 'prev'
+PREV_ANCHOR_TXT = 'later'
 HOME_ANCHOR_TXT = 'TOC'
-NEXT_ANCHOR_TXT = 'next'
+NEXT_ANCHOR_TXT = 'earlier'
 
 BASEURL = DOMAIN + PATH_FROM_DOMAIN_TO_HERE  # web address to folder
 BASEDIR = Path(__file__).parent  # local filepath to folder
